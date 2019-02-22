@@ -1,0 +1,7 @@
+How to create a new variation of this theme:
+
+1) Create a new colors.[NAME]  file with appropriate colors (hexadecimal) and 
+   alpha (i.e. transparency) values (ranging from 0 to 1).
+
+2) Run:
+       ./make_theme.sh colors.[NAME]

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Trellium Colorshift
+
+X-KDE-PluginInfo-Author=Andi Berger
+X-KDE-PluginInfo-Email=andi.berger@yandex.com
+X-KDE-PluginInfo-Name=TrelliumColorshift
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Depends=KDE 5.8.6
+X-KDE-PluginInfo-License=GPLv3
