@@ -57,6 +57,6 @@ for file in *.svg; do
 	done
 done
 
-rm -v colors*  *.sh README $(ls | grep '.colors$' | grep -v $name.colors)
+rm -v colors* *.sh *.colors
 
 cd -

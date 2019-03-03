@@ -19,12 +19,12 @@ tooltip_shadow_depth=0
 splitter_width=6
 scroll_width=22
 scroll_arrows=false
-center_scrollbar_indicator=true
+center_scrollbar_indicator=false
 scrollbar_in_view=false
 button_contents_shift=false
 slider_width=22
 slider_handle_width=22
-slider_handle_length=28
+slider_handle_length=36
 check_size=22
 layout_spacing=0
 layout_margin=0
@@ -40,8 +40,8 @@ window.color=#aaaaaa
 base.color=#d5d5d5
 alt.base.color=#d5d5d5
 button.color=#aaaaaa
-light.color=#80ffff55
-mid.light.color=#ff80802b
+light.color=#88ffff55
+mid.light.color=#ff88882b
 mid.color=#000000
 dark.color=#000000
 highlight.color=#4444bb
@@ -57,8 +57,10 @@ progress.indicator.text.color=#ffffff
 progress.inactive.indicator.text.color=#000000
 
 [Hacks]
+transparent_pcmanfm_sidepane=true
 blur_konsole=true
 transparent_ktitle_label=true
+transparent_menutitle
 kcapacitybar_as_progressbar=true
 respect_darkness=true
 force_size_grip=false
@@ -73,7 +75,7 @@ text.margin.top=0
 text.margin.bottom=0
 text.margin.left=1
 text.margin.right=1
-indicator.size=12
+indicator.size=14
 frame.element=button
 interior.element=button
 indicator.element=arrow
@@ -147,7 +149,7 @@ frame.top=3
 frame.bottom=3
 frame.left=2
 frame.right=2
-indicator.size=10
+indicator.size=11
 frame.element=tab
 interior.element=tab
 indicator.element=tab
@@ -195,7 +197,7 @@ frame.top=0
 frame.bottom=1
 frame.left=1
 frame.right=1
-indicator.size=12
+indicator.size=14
 frame.element=none
 interior.element=none
 indicator.element=toolbar
@@ -215,7 +217,7 @@ interior.element=scrollbargroove
 
 [ScrollbarSlider]
 inherits=PanelButtonCommand
-indicator.size=12
+indicator.size=14
 frame.element=scrollbarslider
 interior.element=scrollbarslider
 indicator.element=grip
@@ -252,7 +254,7 @@ interior.element=itemview
 inherits=PanelButtonCommand
 frame=false
 interior=false
-indicator.size=12
+indicator.size=14
 indicator.element=splitter-grip
 
 [Menu]
@@ -284,7 +286,7 @@ inherits=MenuItem
 
 [TitleBar]
 inherits=PanelButtonCommand
-indicator.size=15
+indicator.size=12
 interior.element=window
 indicator.element=mdi
 

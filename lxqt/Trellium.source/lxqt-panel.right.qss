@@ -1,0 +1,229 @@
+LXQtPanel[position="Right"] #BackgroundWidget {
+	margin: 0px;
+	border: 0px;
+	border-left: 3px;
+	border-image: url(background.svg) 3 3 3 3 stretch stretch;
+	padding: 0px;
+	padding-left: -1px;
+}
+
+
+
+
+LXQtPanel[position="Right"] Plugin > QToolButton,
+LXQtPanel[position="Right"] Plugin > QWidget > QToolButton {
+	color: #101010;
+        margin: 0px;
+        margin-right: 1px;
+        margin-left: 1px;
+	border: 0px;
+        padding: 7px;
+}
+LXQtPanel[position="Right"] Plugin > QToolButton:hover,
+LXQtPanel[position="Right"] Plugin > QWidget > QToolButton:hover {
+	border: 7px;
+	border-image: url(button.svg) 7 7 7 7 stretch stretch;
+        padding: 0px;
+}
+LXQtPanel[position="Right"] Plugin > QToolButton:pressed,
+LXQtPanel[position="Right"] Plugin > QWidget > QToolButton:pressed {
+	border: 7px;
+	border-image: url(button-pressed.svg) 7 7 7 7 stretch stretch;
+        padding: 0px;
+}
+
+
+
+
+LXQtPanel[position="Right"] #MainMenu {
+	border: 0px;
+	padding: 7px;
+	padding-top: 10px;
+	padding-bottom: 8px;
+}
+LXQtPanel[position="Right"] #MainMenu:hover {
+	border-image: url(flat-hover.svg) 0 0 0 0 stretch stretch;
+}
+
+
+
+
+LXQtPanel[position="Right"] #StatusNotifier > QToolButton {
+	margin: 0px;
+	border: 0px;
+	padding: 4px;
+}
+LXQtPanel[position="Right"] #StatusNotifier > QToolButton:hover {
+	margin: 0px;
+	border: 7px;
+	border-image: url(button.svg) 7 7 7 7 stretch stretch;
+	padding: -3px;
+}
+LXQtPanel[position="Right"] #StatusNotifier > QToolButton:pressed {
+	margin: 0px;
+	border: 7px;
+	border-image: url(button-pressed.svg) 7 7 7 7 stretch stretch;
+	padding: -3px;
+}
+
+
+
+
+LXQtPanel[position="Right"] #TaskBar {
+	margin: 0px;
+	border: 0px;
+	border-bottom: 4px;
+	border-left: 1px;
+	border-image: url(segment-vertical.svg) 0 1 4 1 stretch stretch;
+	padding: 0px;
+	padding-left: -1px;
+}
+
+
+
+
+LXQtPanel[position="Right"] #TaskBar > QToolButton,
+LXQtPanel[position="Right"] #StatusNotifierPlugin,
+LXQtPanel[position="Right"] #TrayPlugin {
+	margin: 0px;
+	margin-right: 1px;
+	border: 7px;
+	border-left: 4px;
+	border-image: url(task-right.svg) 7 7 7 4 stretch stretch;
+	padding: 0px;
+	padding-right: 2px;
+	padding-left: 2px;
+}
+
+
+LXQtPanel[position="Right"] #TaskBar > QToolButton:hover {
+	border-image: url(task-right-hover.svg) 7 7 7 4 stretch stretch;
+}
+LXQtPanel[position="Right"] #TaskBar > QToolButton:on {
+	border-image: url(task-right-active.svg) 7 7 7 4 stretch stretch;
+}
+LXQtPanel[position="Right"] #TaskBar > QToolButton[urgent=true] {
+	color: #000000;
+	border-image: url(task-right-attention.svg) 7 7 7 4 stretch stretch;
+}
+
+
+
+
+LXQtPanel[position="Right"] LXQtGroupPopup {
+	margin: 0px;
+	border: 3px;
+	border-image: url(background.svg) 3 3 3 3 stretch stretch;
+	padding: 0px;
+}
+
+
+LXQtPanel[position="Right"] LXQtGroupPopup > QToolButton {
+	color: #101010;
+	margin: 0px;
+	border: 7px;
+	border-image: url(button.svg) 7 7 7 7 stretch stretch;
+        padding: -3px;
+}
+LXQtPanel[position="Right"] LXQtGroupPopup > QToolButton:hover {
+	border-image: url(button-hover.svg) 7 7 7 7 stretch stretch;
+}
+LXQtPanel[position="Right"] LXQtGroupPopup > QToolButton:on {
+	border-image: url(button-pressed.svg) 7 7 7 7 stretch stretch;
+}
+LXQtPanel[position="Right"] LXQtGroupPopup > QToolButton[urgent=true] {
+	color: #000000;
+	border-image: url(button-attention.svg) 7 7 7 7 stretch stretch;
+}
+
+
+
+
+LXQtPanel[position="Right"] #DesktopSwitch {
+	margin: 0px;
+	margin-right: -1px;
+	border: 1px;
+	border-top: 2px;
+	border-bottom: 2px;
+	border-image: url(desktopswitch-vertical.svg) 2 1 2 1 stretch stretch;
+	padding: 0px;
+	padding-right: -1px;
+	padding-left: -2px;
+}
+
+
+LXQtPanel[position="Right"] #DesktopSwitch > QToolButton {
+	margin: 0px;
+	border: 2px;
+	border-image: url(desktopswitch-button.svg) 2 2 2 2 stretch stretch;	
+	padding: 0px;
+}
+LXQtPanel[position="Right"] #DesktopSwitch > QToolButton:hover {
+	border-image: url(desktopswitch-button-hover.svg) 2 2 2 2 stretch stretch;	
+}
+LXQtPanel[position="Right"] #DesktopSwitch > QToolButton:on {
+	border-image: url(desktopswitch-button-active.svg) 2 2 2 2 stretch stretch;	
+}
+
+
+
+
+LXQtPanel[position="Right"] #SysStatPlugin {
+	margin: 0px;
+	margin-right: 1px;
+	border: 7px;
+	border-left: 4px;
+	border-image: url(sysstat-right.svg) 7 7 7 4 stretch stretch;
+	padding: -2px;
+}
+
+
+LXQtPanel[position="Right"] #SysStat > QLabel {
+        font: bold;
+        font-size: 7pt;
+}
+
+
+LXQtPanel[position="Right"] #SysStat_Graph {
+	qproperty-gridColor: #101000;
+	qproperty-titleColor: #101000;
+	qproperty-cpuSystemColor: #119999;
+	qproperty-cpuUserColor: #4444bb;
+	qproperty-cpuNiceColor: 808080;
+	qproperty-cpuOtherColor: #bb2222;
+	qproperty-frequencyColor: #22bb22;
+	qproperty-memAppsColor: #4444bb;
+	qproperty-memBuffersColor: #808080;
+	qproperty-memCachedColor: #808080;
+	qproperty-swapUsedColor: #bb2222;
+	qproperty-netReceivedColor: #4444bb;
+	qproperty-netTransmittedColor: #bb2222;
+}
+
+
+LXQtPanel[position="Right"] #Clock QLabel,
+LXQtPanel[position="Right"] #WorldClock QLabel {
+	color: #101010;
+	font: bold;
+	margin: 4px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+
+
+
+LXQtPanel[position="Right"] #Spacer[type="lined"] {
+	margin: 0px;
+	border: 1px;
+	border-right: 0px;
+	border-image: url(spacer-vertical.svg) 1 1 1 1 stretch stretch;
+	padding: 0px;
+}
+
+
+
+
+
+
+

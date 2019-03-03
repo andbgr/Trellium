@@ -44,7 +44,7 @@ for file in widgets/*.svg; do
 	done
 done
 
-rm -v colors*  *.sh README $(ls | grep '.colors$' | grep -v $name.colors)
+rm -v colors* *.sh $(ls | grep '.colors$' | grep -v $name.colors)
 mv -v $name.colors colors
 
 cd -

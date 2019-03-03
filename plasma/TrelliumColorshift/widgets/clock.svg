@@ -69,11 +69,11 @@
        inkscape:collect="always"
        id="linearGradient4601">
       <stop
-         style="stop-color:#80ffff;stop-opacity:0.3"
+         style="stop-color:#88ffff;stop-opacity:0.375"
          offset="0"
          id="stop4597" />
       <stop
-         style="stop-color:#ff8080;stop-opacity:0.3"
+         style="stop-color:#ff8888;stop-opacity:0.375"
          offset="1"
          id="stop4599" />
     </linearGradient>
@@ -154,7 +154,7 @@
       <g
          id="g4608">
         <circle
-           style="opacity:1;vector-effect:none;fill:#aaaaaa;fill-opacity:0.75;stroke:none;stroke-width:2.51999998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+           style="opacity:1;vector-effect:none;fill:#aaaaaa;fill-opacity:0.8;stroke:none;stroke-width:2.51999998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
            id="path4548-5"
            cx="231.5"
            cy="-149.13782"

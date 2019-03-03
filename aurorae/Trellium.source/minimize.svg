@@ -297,22 +297,6 @@
          y="33" />
     </g>
     <g
-       id="active-center">
-      <rect
-         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.5256021;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-         id="decoration-center"
-         width="20"
-         height="13"
-         x="13"
-         y="10" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path7672"
-         d="m 23,20 6,-6 h -3 l -3,3 -3,-3 h -3 z"
-         style="fill:#101010;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         sodipodi:nodetypes="ccccccc" />
-    </g>
-    <g
        transform="translate(21,12)"
        id="hover-bottomright">
       <rect
@@ -494,30 +478,6 @@
          y="33" />
     </g>
     <g
-       id="hover-center"
-       transform="translate(0,31)">
-      <rect
-         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.5256021;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-         id="decoration-center-3"
-         width="20"
-         height="13"
-         x="13"
-         y="10" />
-      <rect
-         y="10"
-         x="13"
-         height="13"
-         width="20"
-         id="rect4662"
-         style="opacity:1;vector-effect:none;fill:#909090;fill-opacity:1;stroke:none;stroke-width:2.5256021;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path7672-5"
-         d="m 23,20 6,-6 h -3 l -3,3 -3,-3 h -3 z"
-         style="fill:#101010;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         sodipodi:nodetypes="ccccccc" />
-    </g>
-    <g
        transform="translate(21,43)"
        id="pressed-bottomright">
       <rect
@@ -660,30 +620,6 @@
          height="4"
          x="11"
          y="32" />
-    </g>
-    <g
-       id="pressed-center"
-       transform="translate(0,62)">
-      <rect
-         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.5256021;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-         id="decoration-center-1"
-         width="20"
-         height="13"
-         x="13"
-         y="10" />
-      <rect
-         y="10"
-         x="13"
-         height="13"
-         width="20"
-         id="rect4680"
-         style="opacity:1;vector-effect:none;fill:#606060;fill-opacity:1;stroke:none;stroke-width:2.5256021;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path7672-3"
-         d="m 23,20 6,-6 h -3 l -3,3 -3,-3 h -3 z"
-         style="fill:#101010;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         sodipodi:nodetypes="ccccccc" />
     </g>
     <g
        transform="translate(21,74)"
@@ -829,23 +765,6 @@
          height="3"
          x="10"
          y="33" />
-    </g>
-    <g
-       id="deactivated-center"
-       transform="translate(0,93)">
-      <rect
-         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.5256021;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-         id="decoration-center-36"
-         width="20"
-         height="13"
-         x="13"
-         y="10" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path7672-56"
-         d="m 23,20 6,-6 h -3 l -3,3 -3,-3 h -3 z"
-         style="fill:#101010;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.5"
-         sodipodi:nodetypes="ccccccc" />
     </g>
     <g
        transform="translate(6,-19)"
@@ -1217,6 +1136,92 @@
          height="3"
          x="5"
          y="33" />
+    </g>
+    <g
+       id="active-center"
+       transform="matrix(1,0,0,-1,0,33)">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.5256021;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         id="decoration-center"
+         width="20"
+         height="13"
+         x="13"
+         y="10" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path7672"
+         d="M 23,13.25 29.75,20 h -2.5 L 23,15.75 18.75,20 h -2.5 z"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       id="hover-center"
+       transform="matrix(1,0,0,-1,0,64)">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.5256021;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         id="decoration-center-3"
+         width="20"
+         height="13"
+         x="13"
+         y="10" />
+      <rect
+         y="10"
+         x="13"
+         height="13"
+         width="20"
+         id="rect4662"
+         style="opacity:1;vector-effect:none;fill:#909090;fill-opacity:1;stroke:none;stroke-width:2.5256021;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path7672"
+         id="use9921"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       id="pressed-center"
+       transform="matrix(1,0,0,-1,0,95)">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.5256021;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         id="decoration-center-1"
+         width="20"
+         height="13"
+         x="13"
+         y="10" />
+      <rect
+         y="10"
+         x="13"
+         height="13"
+         width="20"
+         id="rect4680"
+         style="opacity:1;vector-effect:none;fill:#606060;fill-opacity:1;stroke:none;stroke-width:2.5256021;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path7672"
+         id="use9921-0"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       id="deactivated-center"
+       transform="matrix(1,0,0,-1,0,126)">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.5256021;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         id="decoration-center-36"
+         width="20"
+         height="13"
+         x="13"
+         y="10" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path7672"
+         id="use9921-9"
+         width="100%"
+         height="100%"
+         style="opacity:0.5" />
     </g>
   </g>
 </svg>

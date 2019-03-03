@@ -1,5 +1,5 @@
 #!/bin/bash
-# Usage: make_tiles.sh colors.NAME
+# Usage: make_theme.sh colors.NAME
 
 
 colorscheme="$(echo "$1" | sed 's/colors.//')"
@@ -43,6 +43,6 @@ for file in *.svg *.kvconfig; do
 	done
 done
 
-rm -v colors*  *.sh README $(ls | grep '.colors$' | grep -v $name.colors)
+rm -v colors* *.sh $(ls | grep '.colors$' | grep -v $name.colors)
 
 cd -
