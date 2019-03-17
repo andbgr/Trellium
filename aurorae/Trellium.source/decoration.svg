@@ -30,7 +30,7 @@
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1867"
+     inkscape:window-width="1866"
      inkscape:window-height="1055"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -55,18 +55,6 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
-    <linearGradient
-       id="linearGradient4897"
-       inkscape:collect="always">
-      <stop
-         id="stop4893"
-         offset="0"
-         style="stop-color:#f0f0f0;stop-opacity:1;" />
-      <stop
-         id="stop4895"
-         offset="1"
-         style="stop-color:#505050;stop-opacity:1" />
-    </linearGradient>
     <linearGradient
        id="linearGradient4889"
        inkscape:collect="always">
@@ -95,7 +83,7 @@
        y1="33"
        x1="13"
        id="linearGradient4899"
-       xlink:href="#linearGradient4897"
+       xlink:href="#linearGradient4889"
        inkscape:collect="always" />
   </defs>
   <metadata

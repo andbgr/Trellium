@@ -169,12 +169,13 @@ LXQtPanel[position="Right"] #DesktopSwitch > QToolButton:on {
 
 
 LXQtPanel[position="Right"] #SysStatPlugin {
-	margin: 0px;
-	margin-right: 1px;
-	border: 7px;
-	border-left: 4px;
-	border-image: url(sysstat-right.svg) 7 7 7 4 stretch stretch;
-	padding: -2px;
+        margin: 0px;
+        border: 0px;
+        border-bottom: 4px;
+        border-left: 1px;
+        border-image: url(segment-vertical.svg) 0 1 4 1 stretch stretch;
+        padding: 0px;
+        padding-left: -1px;
 }
 
 
@@ -185,8 +186,8 @@ LXQtPanel[position="Right"] #SysStat > QLabel {
 
 
 LXQtPanel[position="Right"] #SysStat_Graph {
-	qproperty-gridColor: #101000;
-	qproperty-titleColor: #101000;
+	qproperty-gridColor: #101010;
+	qproperty-titleColor: #101010;
 	qproperty-cpuSystemColor: #119999;
 	qproperty-cpuUserColor: #4444bb;
 	qproperty-cpuNiceColor: 808080;

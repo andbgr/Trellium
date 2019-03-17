@@ -169,12 +169,13 @@ LXQtPanel[position="Right"] #DesktopSwitch > QToolButton:on {
 
 
 LXQtPanel[position="Right"] #SysStatPlugin {
-	margin: 0px;
-	margin-right: 1px;
-	border: 7px;
-	border-left: 4px;
-	border-image: url(sysstat-right.svg) 7 7 7 4 stretch stretch;
-	padding: -2px;
+        margin: 0px;
+        border: 0px;
+        border-bottom: 4px;
+        border-left: 1px;
+        border-image: url(segment-vertical.svg) 0 1 4 1 stretch stretch;
+        padding: 0px;
+        padding-left: -1px;
 }
 
 
@@ -193,8 +194,8 @@ LXQtPanel[position="Right"] #SysStat_Graph {
 	qproperty-cpuOtherColor: #bb2222;
 	qproperty-frequencyColor: #22bb22;
 	qproperty-memAppsColor: #4444bb;
-	qproperty-memBuffersColor: #aaaaaa;
-	qproperty-memCachedColor: #aaaaaa;
+	qproperty-memBuffersColor: #bfbfbf;
+	qproperty-memCachedColor: #bfbfbf;
 	qproperty-swapUsedColor: #bb2222;
 	qproperty-netReceivedColor: #4444bb;
 	qproperty-netTransmittedColor: #bb2222;
@@ -398,12 +399,13 @@ LXQtPanel[position="Bottom"] #DesktopSwitch > QToolButton:on {
 
 
 LXQtPanel[position="Bottom"] #SysStatPlugin {
-	margin: 0px;
-	margin-bottom: 1px;
-	border: 7px;
-	border-top: 4px;
-	border-image: url(sysstat-bottom.svg) 4 7 7 7 stretch stretch;
-	padding: -2px;
+        margin: 0px;
+        border: 0px;
+        border-right: 4px;
+        border-top: 1px;
+        border-image: url(segment-horizontal.svg) 1 4 1 0 stretch stretch;
+        padding: 0px;
+        padding-top: -1px;
 }
 
 
@@ -422,8 +424,8 @@ LXQtPanel[position="Bottom"] #SysStat_Graph {
 	qproperty-cpuOtherColor: #bb2222;
 	qproperty-frequencyColor: #22bb22;
 	qproperty-memAppsColor: #4444bb;
-	qproperty-memBuffersColor: #aaaaaa;
-	qproperty-memCachedColor: #aaaaaa;
+	qproperty-memBuffersColor: #bfbfbf;
+	qproperty-memCachedColor: #bfbfbf;
 	qproperty-swapUsedColor: #bb2222;
 	qproperty-netReceivedColor: #4444bb;
 	qproperty-netTransmittedColor: #bb2222;
@@ -627,12 +629,13 @@ LXQtPanel[position="Left"] #DesktopSwitch > QToolButton:on {
 
 
 LXQtPanel[position="Left"] #SysStatPlugin {
-	margin: 0px;
-	margin-left: 1px;
-	border: 7px;
-	border-right: 4px;
-	border-image: url(sysstat-left.svg) 7 4 7 7 stretch stretch;
-	padding: -2px;
+        margin: 0px;
+        border: 0px;
+        border-bottom: 4px;
+        border-right: 1px;
+        border-image: url(segment-vertical.svg) 0 1 4 1 stretch stretch;
+        padding: 0px;
+        padding-right: -1px;
 }
 
 
@@ -651,8 +654,8 @@ LXQtPanel[position="Left"] #SysStat_Graph {
 	qproperty-cpuOtherColor: #bb2222;
 	qproperty-frequencyColor: #22bb22;
 	qproperty-memAppsColor: #4444bb;
-	qproperty-memBuffersColor: #aaaaaa;
-	qproperty-memCachedColor: #aaaaaa;
+	qproperty-memBuffersColor: #bfbfbf;
+	qproperty-memCachedColor: #bfbfbf;
 	qproperty-swapUsedColor: #bb2222;
 	qproperty-netReceivedColor: #4444bb;
 	qproperty-netTransmittedColor: #bb2222;
@@ -856,12 +859,13 @@ LXQtPanel[position="Top"] #DesktopSwitch > QToolButton:on {
 
 
 LXQtPanel[position="Top"] #SysStatPlugin {
-	margin: 0px;
-	margin-top: 1px;
-	border: 7px;
-	border-bottom: 4px;
-	border-image: url(sysstat-top.svg) 7 7 4 7 stretch stretch;
-	padding: -2px;
+        margin: 0px;
+        border: 0px;
+        border-right: 4px;
+        border-bottom: 1px;
+        border-image: url(segment-horizontal.svg) 1 4 1 0 stretch stretch;
+        padding: 0px;
+        padding-bottom: -1px;
 }
 
 
@@ -880,8 +884,8 @@ LXQtPanel[position="Top"] #SysStat_Graph {
 	qproperty-cpuOtherColor: #bb2222;
 	qproperty-frequencyColor: #22bb22;
 	qproperty-memAppsColor: #4444bb;
-	qproperty-memBuffersColor: #aaaaaa;
-	qproperty-memCachedColor: #aaaaaa;
+	qproperty-memBuffersColor: #bfbfbf;
+	qproperty-memCachedColor: #bfbfbf;
 	qproperty-swapUsedColor: #bb2222;
 	qproperty-netReceivedColor: #4444bb;
 	qproperty-netTransmittedColor: #bb2222;

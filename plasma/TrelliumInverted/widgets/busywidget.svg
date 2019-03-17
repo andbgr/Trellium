@@ -63,10 +63,10 @@
         color:#fcfcfc;
       }
       .ColorScheme-ViewHover {
-        color:#4444bb;
+        color:#bbbb44;
       }
       .ColorScheme-ViewFocus{
-        color:#4444bb;
+        color:#bbbb44;
       }
       .ColorScheme-ButtonText {
         color:#010001;
@@ -75,10 +75,10 @@
         color:#eff0f1;
       }
       .ColorScheme-ButtonHover {
-        color:#4444bb;
+        color:#bbbb44;
       }
       .ColorScheme-ButtonFocus{
-        color:#4444bb;
+        color:#bbbb44;
       }
 </style>
   </defs>

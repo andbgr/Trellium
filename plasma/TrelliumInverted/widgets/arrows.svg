@@ -70,7 +70,7 @@
         color:#111111;
       }
       .ColorScheme-Highlight {
-        color:#4444bb;
+        color:#bbbb44;
       }
       .ColorScheme-ViewText {
         color:#000000;
@@ -82,7 +82,7 @@
         color:#8ecbe9;
       }
       .ColorScheme-ViewFocus{
-        color:#4444bb;
+        color:#bbbb44;
       }
       .ColorScheme-ButtonText {
         color:#000000;
@@ -94,7 +94,7 @@
         color:#8ecbe9;
       }
       .ColorScheme-ButtonFocus{
-        color:#4444bb;
+        color:#bbbb44;
       }
       </style>
   </defs>

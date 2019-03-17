@@ -36,17 +36,17 @@ translucent_windows=true
 blurring=true
 
 [GeneralColors]
-window.color=#aaaaaa
-base.color=#d5d5d5
-alt.base.color=#d5d5d5
-button.color=#aaaaaa
+window.color=#bfbfbf
+base.color=#dfdfdf
+alt.base.color=#dfdfdf
+button.color=#bfbfbf
 light.color=#ffffff55
 mid.light.color=#ffffff2b
 mid.color=#000000
 dark.color=#000000
 highlight.color=#4444bb
 inactive.highlight.color=#4444bb80
-tooltip.base.color=#d5d5d5
+tooltip.base.color=#dfdfdf
 text.color=#000000
 window.text.color=#000000
 button.text.color=#000000

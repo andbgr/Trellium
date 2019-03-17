@@ -44,16 +44,16 @@ light.color=#00000055
 mid.light.color=#0000002b
 mid.color=#000000
 dark.color=#000000
-highlight.color=#4444bb
-inactive.highlight.color=#4444bb80
+highlight.color=#bbbb44
+inactive.highlight.color=#bbbb4480
 tooltip.base.color=#000000
 text.color=#aaaaaa
 window.text.color=#aaaaaa
 button.text.color=#aaaaaa
 disabled.text.color=#aaaaaa80
 tooltip.text.color=#aaaaaa
-highlight.text.color=#ffffff
-progress.indicator.text.color=#ffffff
+highlight.text.color=#000000
+progress.indicator.text.color=#000000
 progress.inactive.indicator.text.color=#aaaaaa
 
 [Hacks]
@@ -246,8 +246,8 @@ interior.element=progress-pattern
 inherits=PanelButtonCommand
 text.margin=0
 frame=false
-text.press.color=#ffffff
-text.toggle.color=#ffffff
+text.press.color=#000000
+text.toggle.color=#000000
 interior.element=itemview
 
 [Splitter]
