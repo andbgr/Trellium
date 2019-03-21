@@ -26,8 +26,8 @@ slider_width=22
 slider_handle_width=22
 slider_handle_length=36
 check_size=22
-layout_spacing=0
-layout_margin=0
+layout_spacing=2
+layout_margin=2
 small_icon_size=16
 large_icon_size=48
 button_icon_size=16
@@ -54,13 +54,13 @@ disabled.text.color=#10101080
 tooltip.text.color=#101000
 highlight.text.color=#e0e0ff
 progress.indicator.text.color=#e0e0ff
-progress.inactive.indicator.text.color=#101010
+progress.inactive.indicator.text.color=#e0e0ff
 
 [Hacks]
 transparent_pcmanfm_sidepane=true
 blur_konsole=true
 transparent_ktitle_label=true
-transparent_menutitle
+transparent_menutitle=true
 kcapacitybar_as_progressbar=true
 respect_darkness=true
 force_size_grip=false
