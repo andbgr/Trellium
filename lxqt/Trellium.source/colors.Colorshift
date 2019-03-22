@@ -1,6 +1,6 @@
 selection	#4444bb	1
 bg		#bfbfbf	0.711
-bg-border	#000000	0.9
+bg-border	#000000	0.8
 bg-topleft	#88ffff	0.375
 bg-bottomright	#ff8888	0.375
 bg-hover	#ffffff	0.167
