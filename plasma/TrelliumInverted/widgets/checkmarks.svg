@@ -32,8 +32,8 @@
      showgrid="true"
      gridtolerance="10000"
      inkscape:grid-points="true"
-     inkscape:window-width="1867"
-     inkscape:window-height="1054"
+     inkscape:window-width="1866"
+     inkscape:window-height="1055"
      inkscape:window-x="0"
      inkscape:window-y="0"
      showguides="true"
@@ -60,12 +60,12 @@
        id="grid3133"
        visible="true"
        enabled="true"
-       empspacing="5"
+       empspacing="8"
        snapvisiblegridlinesonly="true"
        originx="-29"
        originy="-82.999999"
-       spacingx="1"
-       spacingy="1" />
+       spacingx="0.125"
+       spacingy="0.125" />
   </sodipodi:namedview>
   <defs
      id="defs3126" />
@@ -117,7 +117,7 @@
          y="176" />
       <path
          style="fill:#111111;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 64,184 v 6 h 2 l 9,-9 v -2.8 l -9,9 V 184 Z"
+         d="m 64,184 v 6 h 2 l 9,-9 v -2.25 l -9,9 V 184 Z"
          id="path5430"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccc" />

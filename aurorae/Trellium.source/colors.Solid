@@ -8,5 +8,5 @@ bg-pressed	#000000	0.25
 view		#d5d5d5	1
 view-hover	#e0e0e0	1
 text-selection	#ffffff	1
-text-bg		#000000	0.9
+text-bg		#000000	1
 text-view	#000000	1
