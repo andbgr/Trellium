@@ -128,7 +128,7 @@
          y="49" />
     </g>
     <g
-       transform="translate(21,-19)"
+       transform="translate(20,-19)"
        id="active-bottomright">
       <rect
          style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -180,7 +180,7 @@
          transform="scale(-1,1)" />
     </g>
     <g
-       transform="matrix(4,0,0,1,-15,-27)"
+       transform="matrix(3.8,0,0,1,-13.6,-27)"
        id="active-top">
       <rect
          style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.70047599;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -191,7 +191,7 @@
          y="32" />
     </g>
     <g
-       transform="matrix(4,0,0,1,-15,-19)"
+       transform="matrix(3.8,0,0,1,-13.6,-19)"
        id="active-bottom">
       <rect
          style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -248,7 +248,7 @@
          y="37" />
     </g>
     <g
-       transform="matrix(1,0,0,2.6,21,-86.2)"
+       transform="matrix(1,0,0,2.6,20,-86.2)"
        id="active-right">
       <rect
          style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -298,7 +298,7 @@
          y="33" />
     </g>
     <g
-       transform="translate(27,-27)"
+       transform="translate(26,-27)"
        id="active-topright">
       <rect
          style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.70047599;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -325,16 +325,16 @@
     <g
        id="active-center">
       <rect
-         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.5256021;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.46165252;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          id="decoration-center"
-         width="20"
+         width="19"
          height="13"
          x="13"
          y="10" />
       <path
          inkscape:connector-curvature="0"
          id="path7672"
-         d="M 23,12.375 29.625,19 h -2.25 L 23,14.625 18.625,19 h -2.25 z"
+         d="M 22.5,12.375 29.125,19 h -2.25 L 22.5,14.625 18.125,19 h -2.25 z"
          style="fill:#101010;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          sodipodi:nodetypes="ccccccc" />
     </g>
@@ -402,7 +402,7 @@
          y="49" />
     </g>
     <g
-       transform="translate(21,12)"
+       transform="translate(20,12)"
        id="hover-bottomright">
       <rect
          style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -462,7 +462,7 @@
          transform="scale(-1,1)" />
     </g>
     <g
-       transform="matrix(4,0,0,1,-15,4)"
+       transform="matrix(3.8,0,0,1,-13.6,4)"
        id="hover-top">
       <rect
          style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.70047599;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -480,7 +480,7 @@
          style="opacity:1;vector-effect:none;fill:#909090;fill-opacity:1;stroke:none;stroke-width:0.70047599;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
     </g>
     <g
-       transform="matrix(4,0,0,1,-15,12)"
+       transform="matrix(3.8,0,0,1,-13.6,12)"
        id="hover-bottom">
       <rect
          style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -551,7 +551,7 @@
          y="37" />
     </g>
     <g
-       transform="matrix(1,0,0,2.6,21,-55.2)"
+       transform="matrix(1,0,0,2.6,20,-55.2)"
        id="hover-right">
       <rect
          style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -615,7 +615,7 @@
          y="33" />
     </g>
     <g
-       transform="translate(27,4)"
+       transform="translate(26,4)"
        id="hover-topright">
       <rect
          style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.70047599;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -650,9 +650,9 @@
        id="hover-center"
        transform="translate(0,31)">
       <rect
-         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.5256021;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.46165252;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          id="decoration-center-3"
-         width="20"
+         width="19"
          height="13"
          x="13"
          y="10" />
@@ -660,9 +660,9 @@
          y="10"
          x="13"
          height="13"
-         width="20"
+         width="19"
          id="rect4662"
-         style="opacity:1;vector-effect:none;fill:#909090;fill-opacity:1;stroke:none;stroke-width:2.5256021;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
+         style="opacity:1;vector-effect:none;fill:#909090;fill-opacity:1;stroke:none;stroke-width:2.46165252;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
       <use
          x="0"
          y="0"
@@ -711,7 +711,7 @@
          y="49" />
     </g>
     <g
-       transform="translate(21,43)"
+       transform="translate(20,43)"
        id="pressed-bottomright">
       <rect
          style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -755,7 +755,7 @@
          transform="scale(-1,1)" />
     </g>
     <g
-       transform="matrix(4,0,0,1,-15,35)"
+       transform="matrix(3.8,0,0,1,-13.6,35)"
        id="pressed-top">
       <rect
          style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.70047599;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -773,7 +773,7 @@
          style="opacity:1;vector-effect:none;fill:#606060;fill-opacity:1;stroke:none;stroke-width:0.70047599;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
     </g>
     <g
-       transform="matrix(4,0,0,1,-15,43)"
+       transform="matrix(3.8,0,0,1,-13.6,43)"
        id="pressed-bottom">
       <rect
          style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -830,7 +830,7 @@
          y="37" />
     </g>
     <g
-       transform="matrix(1,0,0,2.6,21,-24.2)"
+       transform="matrix(1,0,0,2.6,20,-24.2)"
        id="pressed-right">
       <rect
          style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -880,7 +880,7 @@
          y="32" />
     </g>
     <g
-       transform="translate(27,35)"
+       transform="translate(26,35)"
        id="pressed-topright">
       <rect
          style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.70047599;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -908,9 +908,9 @@
        id="pressed-center"
        transform="translate(0,62)">
       <rect
-         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.5256021;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.46165252;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          id="decoration-center-1"
-         width="20"
+         width="19"
          height="13"
          x="13"
          y="10" />
@@ -918,9 +918,9 @@
          y="10"
          x="13"
          height="13"
-         width="20"
+         width="19"
          id="rect4680"
-         style="opacity:1;vector-effect:none;fill:#606060;fill-opacity:1;stroke:none;stroke-width:2.5256021;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
+         style="opacity:1;vector-effect:none;fill:#606060;fill-opacity:1;stroke:none;stroke-width:2.46165252;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
       <use
          x="0"
          y="0"
@@ -986,7 +986,7 @@
          y="49" />
     </g>
     <g
-       transform="translate(21,74)"
+       transform="translate(20,74)"
        id="deactivated-bottomright">
       <rect
          style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -1038,7 +1038,7 @@
          transform="scale(-1,1)" />
     </g>
     <g
-       transform="matrix(4,0,0,1,-15,66)"
+       transform="matrix(3.8,0,0,1,-13.6,66)"
        id="deactivated-top">
       <rect
          style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.70047599;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -1049,7 +1049,7 @@
          y="32" />
     </g>
     <g
-       transform="matrix(4,0,0,1,-15,74)"
+       transform="matrix(3.8,0,0,1,-13.6,74)"
        id="deactivated-bottom">
       <rect
          style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -1106,7 +1106,7 @@
          y="37" />
     </g>
     <g
-       transform="matrix(1,0,0,2.6,21,6.8)"
+       transform="matrix(1,0,0,2.6,20,6.8)"
        id="deactivated-right">
       <rect
          style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -1156,7 +1156,7 @@
          y="33" />
     </g>
     <g
-       transform="translate(27,66)"
+       transform="translate(26,66)"
        id="deactivated-topright">
       <rect
          style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.70047599;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -1184,9 +1184,9 @@
        id="deactivated-center"
        transform="translate(0,93)">
       <rect
-         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.5256021;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.46165252;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          id="decoration-center-36"
-         width="20"
+         width="19"
          height="13"
          x="13"
          y="10" />
