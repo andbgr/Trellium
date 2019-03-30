@@ -44,14 +44,14 @@
     <inkscape:grid
        type="xygrid"
        id="grid2985"
-       empspacing="8"
+       empspacing="2"
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
        originx="5"
        originy="89"
-       spacingx="0.125"
-       spacingy="0.125" />
+       spacingx="0.5"
+       spacingy="0.5" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -385,13 +385,13 @@
         <path
            sodipodi:nodetypes="ccccccc"
            style="fill:#101010;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="M 22.5,20.625 28.125,15 h -2.25 L 22.5,18.375 19.125,15 h -2.25 z"
+           d="M 22.5,20.5 28,15 H 26 L 22.5,18.5 19,15 h -2 z"
            id="path7672"
            inkscape:connector-curvature="0" />
         <path
            sodipodi:nodetypes="ccccccc"
            style="fill:#101010;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="M 22.5,15.625 28.125,10 h -2.25 L 22.5,13.375 19.125,10 h -2.25 z"
+           d="M 22.5,15.5 28,10 H 26 L 22.5,13.5 19,10 h -2 z"
            id="path7672-7"
            inkscape:connector-curvature="0" />
       </g>

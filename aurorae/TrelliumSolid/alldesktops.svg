@@ -44,14 +44,14 @@
     <inkscape:grid
        type="xygrid"
        id="grid2985"
-       empspacing="8"
+       empspacing="2"
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
        originx="5"
        originy="89"
-       spacingx="0.125"
-       spacingy="0.125" />
+       spacingx="0.5"
+       spacingy="0.5" />
   </sodipodi:namedview>
   <defs
      id="defs4">

@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="18"
-   width="42"
+   height="19.999998"
+   width="44"
    id="svg3124"
    sodipodi:version="0.32"
    inkscape:version="0.92.1 r15371"
@@ -60,12 +60,12 @@
        id="grid3133"
        visible="true"
        enabled="true"
-       empspacing="8"
+       empspacing="2"
        snapvisiblegridlinesonly="true"
-       originx="-29"
-       originy="-82.999999"
-       spacingx="0.125"
-       spacingy="0.125" />
+       originx="-28"
+       originy="-82.000001"
+       spacingx="0.5"
+       spacingy="0.5" />
   </sodipodi:namedview>
   <defs
      id="defs3126" />
@@ -85,39 +85,39 @@
      inkscape:groupmode="layer"
      inkscape:label="Warstwa 1"
      id="layer1"
-     transform="translate(7.5,62.13782)">
+     transform="translate(8.5,63.13782)">
     <g
        transform="translate(1.5000005,-237.13782)"
        id="radiobutton"
        inkscape:label="#g5590-9">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:0;stroke:none;stroke-width:0.55555552;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         id="rect4575-3"
+         width="20"
+         height="19.999998"
+         x="13.999999"
+         y="174" />
       <circle
          style="opacity:1;vector-effect:none;fill:#111111;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          id="path5672"
          cx="24"
          cy="184"
          r="3" />
-      <rect
-         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:0;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-         id="rect4575-3"
-         width="18"
-         height="18"
-         x="14.999999"
-         y="175" />
     </g>
     <g
        inkscape:label="#g8060-5"
        id="checkbox"
        transform="translate(-67.5,-238.13782)">
       <rect
-         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:0;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:0;stroke:none;stroke-width:0.55555552;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          id="rect4575"
-         width="18"
-         height="18"
-         x="60"
-         y="176" />
+         width="20"
+         height="19.999998"
+         x="59"
+         y="175" />
       <path
          style="fill:#111111;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 64,184 v 6 h 2 l 9,-9 v -2.25 l -9,9 V 184 Z"
+         d="m 64,185 v 6 h 2 l 9,-9 v -2 l -9,9 v -4 z"
          id="path5430"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccc" />

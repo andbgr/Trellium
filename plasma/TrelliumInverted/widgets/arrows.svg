@@ -51,12 +51,12 @@
        visible="true"
        id="grid3133"
        type="xygrid"
-       empspacing="8"
+       empspacing="2"
        snapvisiblegridlinesonly="true"
        originx="1"
        originy="-149.99999"
-       spacingx="0.125"
-       spacingy="0.125" />
+       spacingx="0.5"
+       spacingy="0.5" />
   </sodipodi:namedview>
   <defs
      id="defs3126">
@@ -106,7 +106,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -132,7 +132,7 @@
            inkscape:label="#active-center" />
         <path
            style="fill:#aaaaaa;fill-opacity:1;stroke:none"
-           d="m 19,35.62501 7.625,-7.625 h -2.25 l -5.375,5.375 -5.375,-5.375 h -2.25 z"
+           d="m 19,36.00001 7,-7 h -2 l -5,5 -5,-5 h -2 z"
            id="path3131-9"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccccc" />
