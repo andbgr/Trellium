@@ -506,7 +506,7 @@
        height="5"
        width="5"
        id="slider-center"
-       style="opacity:0.75;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.31326237;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       style="opacity:0.751;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.31326237;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        inkscape:label="#button-normal-center" />
     <g
        transform="translate(9.4999997,4.8621716)"
@@ -893,7 +893,7 @@
          height="5"
          width="5"
          id="rect6832"
-         style="opacity:0.75;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.31326237;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         style="opacity:0.751;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.31326237;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          inkscape:label="#button-normal-center" />
       <rect
          inkscape:label="#button-normal-center"
@@ -1285,7 +1285,7 @@
        height="5"
        width="5"
        id="sunken-slider-center"
-       style="opacity:0.75;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.31326237;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       style="opacity:0.751;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.31326237;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        inkscape:label="#button-normal-center" />
     <g
        transform="translate(49.5,4.8621773)"

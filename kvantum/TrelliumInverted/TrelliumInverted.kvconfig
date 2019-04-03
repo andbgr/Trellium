@@ -36,25 +36,25 @@ translucent_windows=true
 blurring=true
 
 [GeneralColors]
-window.color=#111111
-base.color=#000000
-alt.base.color=#000000
-button.color=#111111
-light.color=#00777755
-mid.light.color=#7700002b
+window.color=#111111bf
+base.color=#000000aa
+alt.base.color=#000000aa
+button.color=#111111bf
+light.color=#7777009355
+mid.light.color=#000077932b
 mid.color=#000000
 dark.color=#000000
-highlight.color=#4444bb
-inactive.highlight.color=#4444bb80
-tooltip.base.color=#000000
-text.color=#aaaaaa
-window.text.color=#aaaaaa
-button.text.color=#aaaaaa
-disabled.text.color=#aaaaaa80
-tooltip.text.color=#aaaaaa
-highlight.text.color=#000000
-progress.indicator.text.color=#000000
-progress.inactive.indicator.text.color=#000000
+highlight.color=#4444bbff
+inactive.highlight.color=#4444bbff80
+tooltip.base.color=#000000aa
+text.color=#aaaaaaff
+window.text.color=#aaaaaaff
+button.text.color=#aaaaaaff
+disabled.text.color=#aaaaaaff80
+tooltip.text.color=#aaaaaaff
+highlight.text.color=#000000ff
+progress.indicator.text.color=#000000ff
+progress.inactive.indicator.text.color=#000000ff
 
 [Hacks]
 transparent_pcmanfm_sidepane=true
@@ -137,10 +137,10 @@ inherits=PanelButtonCommand
 
 [ToolboxTab]
 inherits=PanelButtonCommand
-text.normal.color=#aaaaaa
-text.focus.color=#aaaaaa
-text.press.color=#aaaaaa
-text.toggle.color=#aaaaaa
+text.normal.color=#aaaaaaff
+text.focus.color=#aaaaaaff
+text.press.color=#aaaaaaff
+text.toggle.color=#aaaaaaff
 
 [Tab]
 inherits=PanelButtonCommand
@@ -192,7 +192,7 @@ indicator.element=sizegrip
 
 [Toolbar]
 inherits=PanelButtonCommand
-text.normal.color=#aaaaaa
+text.normal.color=#aaaaaaff
 frame.top=0
 frame.bottom=1
 frame.left=1
@@ -246,8 +246,8 @@ interior.element=progress-pattern
 inherits=PanelButtonCommand
 text.margin=0
 frame=false
-text.press.color=#000000
-text.toggle.color=#000000
+text.press.color=#000000ff
+text.toggle.color=#000000ff
 interior.element=itemview
 
 [Splitter]
@@ -301,8 +301,8 @@ frame.top=7
 frame.bottom=7
 frame.left=7
 frame.right=7
-text.normal.color=#aaaaaa
-text.focus.color=#aaaaaa
+text.normal.color=#aaaaaaff
+text.focus.color=#aaaaaaff
 
 [ToolTip]
 inherits=PanelButtonCommand

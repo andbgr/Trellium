@@ -4,6 +4,7 @@ LXQtPanel[position="Right"] #BackgroundWidget {
 	border-left: 3px;
 	border-image: url(background.svg) 3 3 3 3 stretch stretch;
 	padding: 0px;
+	padding-bottom: -3px;
 	padding-left: -1px;
 }
 
@@ -48,27 +49,6 @@ LXQtPanel[position="Right"] #MainMenu:hover {
 
 
 
-LXQtPanel[position="Right"] #StatusNotifier > QToolButton {
-	margin: 0px;
-	border: 0px;
-	padding: 4px;
-}
-LXQtPanel[position="Right"] #StatusNotifier > QToolButton:hover {
-	margin: 0px;
-	border: 7px;
-	border-image: url(button.svg) 7 7 7 7 stretch stretch;
-	padding: -3px;
-}
-LXQtPanel[position="Right"] #StatusNotifier > QToolButton:pressed {
-	margin: 0px;
-	border: 7px;
-	border-image: url(button-pressed.svg) 7 7 7 7 stretch stretch;
-	padding: -3px;
-}
-
-
-
-
 LXQtPanel[position="Right"] #TaskBar {
 	margin: 0px;
 	border: 0px;
@@ -83,7 +63,6 @@ LXQtPanel[position="Right"] #TaskBar {
 
 
 LXQtPanel[position="Right"] #TaskBar > QToolButton,
-LXQtPanel[position="Right"] #StatusNotifierPlugin,
 LXQtPanel[position="Right"] #TrayPlugin {
 	margin: 0px;
 	margin-right: 1px;
@@ -186,7 +165,7 @@ LXQtPanel[position="Right"] #SysStat > QLabel {
 
 
 LXQtPanel[position="Right"] #SysStat_Graph {
-	qproperty-gridColor: #aaaaaa;
+	qproperty-gridColor: #00000000;
 	qproperty-titleColor: #aaaaaa;
 	qproperty-cpuSystemColor: #119999;
 	qproperty-cpuUserColor: #4444bb;
@@ -202,13 +181,24 @@ LXQtPanel[position="Right"] #SysStat_Graph {
 }
 
 
+
+
+LXQtPanel[position="Right"] #ClockPlugin,
+LXQtPanel[position="Right"] #WorldClockPlugin {
+	margin-bottom: 3px;
+}
+
+
 LXQtPanel[position="Right"] #Clock QLabel,
 LXQtPanel[position="Right"] #WorldClock QLabel {
+	margin-right: 1px;
 	color: #aaaaaa;
+}
+
+
+LXQtPanel[position="Right"] #Clock #TimeLabel,
+LXQtPanel[position="Right"] #WorldClock QLabel {
 	font: bold;
-	margin: 4px;
-	margin-top: 0px;
-	margin-bottom: 0px;
 }
 
 
@@ -234,6 +224,7 @@ LXQtPanel[position="Bottom"] #BackgroundWidget {
 	border-top: 3px;
 	border-image: url(background.svg) 3 3 3 3 stretch stretch;
 	padding: 0px;
+	padding-right: -3px;
 	padding-top: -1px;
 }
 
@@ -278,27 +269,6 @@ LXQtPanel[position="Bottom"] #MainMenu:hover {
 
 
 
-LXQtPanel[position="Bottom"] #StatusNotifier > QToolButton {
-	margin: 0px;
-	border: 0px;
-	padding: 4px;
-}
-LXQtPanel[position="Bottom"] #StatusNotifier > QToolButton:hover {
-	margin: 0px;
-	border: 7px;
-	border-image: url(button.svg) 7 7 7 7 stretch stretch;
-	padding: -3px;
-}
-LXQtPanel[position="Bottom"] #StatusNotifier > QToolButton:pressed {
-	margin: 0px;
-	border: 7px;
-	border-image: url(button-pressed.svg) 7 7 7 7 stretch stretch;
-	padding: -3px;
-}
-
-
-
-
 LXQtPanel[position="Bottom"] #TaskBar {
 	margin: 0px;
 	border: 0px;
@@ -313,7 +283,6 @@ LXQtPanel[position="Bottom"] #TaskBar {
 
 
 LXQtPanel[position="Bottom"] #TaskBar > QToolButton,
-LXQtPanel[position="Bottom"] #StatusNotifierPlugin,
 LXQtPanel[position="Bottom"] #TrayPlugin {
 	margin: 0px;
 	margin-bottom: 1px;
@@ -416,7 +385,7 @@ LXQtPanel[position="Bottom"] #SysStat > QLabel {
 
 
 LXQtPanel[position="Bottom"] #SysStat_Graph {
-	qproperty-gridColor: #aaaaaa;
+	qproperty-gridColor: #00000000;
 	qproperty-titleColor: #aaaaaa;
 	qproperty-cpuSystemColor: #119999;
 	qproperty-cpuUserColor: #4444bb;
@@ -432,13 +401,24 @@ LXQtPanel[position="Bottom"] #SysStat_Graph {
 }
 
 
+
+
+LXQtPanel[position="Bottom"] #ClockPlugin,
+LXQtPanel[position="Bottom"] #WorldClockPlugin {
+	margin-right: 3px;
+}
+
+
 LXQtPanel[position="Bottom"] #Clock QLabel,
 LXQtPanel[position="Bottom"] #WorldClock QLabel {
+	margin-bottom: 1px;
 	color: #aaaaaa;
+}
+
+
+LXQtPanel[position="Bottom"] #Clock #TimeLabel,
+LXQtPanel[position="Bottom"] #WorldClock QLabel {
 	font: bold;
-	margin: 4px;
-	margin-left: 0px;
-	margin-right: 0px;
 }
 
 
@@ -464,6 +444,7 @@ LXQtPanel[position="Left"] #BackgroundWidget {
 	border-right: 3px;
 	border-image: url(background.svg) 3 3 3 3 stretch stretch;
 	padding: 0px;
+	padding-bottom: -3px;
 	padding-right: -1px;
 }
 
@@ -508,27 +489,6 @@ LXQtPanel[position="Left"] #MainMenu:hover {
 
 
 
-LXQtPanel[position="Left"] #StatusNotifier > QToolButton {
-	margin: 0px;
-	border: 0px;
-	padding: 4px;
-}
-LXQtPanel[position="Left"] #StatusNotifier > QToolButton:hover {
-	margin: 0px;
-	border: 7px;
-	border-image: url(button.svg) 7 7 7 7 stretch stretch;
-	padding: -3px;
-}
-LXQtPanel[position="Left"] #StatusNotifier > QToolButton:pressed {
-	margin: 0px;
-	border: 7px;
-	border-image: url(button-pressed.svg) 7 7 7 7 stretch stretch;
-	padding: -3px;
-}
-
-
-
-
 LXQtPanel[position="Left"] #TaskBar {
 	margin: 0px;
 	border: 0px;
@@ -543,7 +503,6 @@ LXQtPanel[position="Left"] #TaskBar {
 
 
 LXQtPanel[position="Left"] #TaskBar > QToolButton,
-LXQtPanel[position="Left"] #StatusNotifierPlugin,
 LXQtPanel[position="Left"] #TrayPlugin {
 	margin: 0px;
 	margin-left: 1px;
@@ -646,7 +605,7 @@ LXQtPanel[position="Left"] #SysStat > QLabel {
 
 
 LXQtPanel[position="Left"] #SysStat_Graph {
-	qproperty-gridColor: #aaaaaa;
+	qproperty-gridColor: #00000000;
 	qproperty-titleColor: #aaaaaa;
 	qproperty-cpuSystemColor: #119999;
 	qproperty-cpuUserColor: #4444bb;
@@ -662,13 +621,24 @@ LXQtPanel[position="Left"] #SysStat_Graph {
 }
 
 
+
+
+LXQtPanel[position="Left"] #ClockPlugin,
+LXQtPanel[position="Left"] #WorldClockPlugin {
+	margin-bottom: 3px;
+}
+
+
 LXQtPanel[position="Left"] #Clock QLabel,
 LXQtPanel[position="Left"] #WorldClock QLabel {
+	margin-left: 1px;
 	color: #aaaaaa;
+}
+
+
+LXQtPanel[position="Left"] #Clock #TimeLabel,
+LXQtPanel[position="Left"] #WorldClock QLabel {
 	font: bold;
-	margin: 4px;
-	margin-top: 0px;
-	margin-bottom: 0px;
 }
 
 
@@ -694,6 +664,7 @@ LXQtPanel[position="Top"] #BackgroundWidget {
 	border-bottom: 3px;
 	border-image: url(background.svg) 3 3 3 3 stretch stretch;
 	padding: 0px;
+	padding-right: -3px;
 	padding-bottom: -1px;
 }
 
@@ -738,27 +709,6 @@ LXQtPanel[position="Top"] #MainMenu:hover {
 
 
 
-LXQtPanel[position="Top"] #StatusNotifier > QToolButton {
-	margin: 0px;
-	border: 0px;
-	padding: 4px;
-}
-LXQtPanel[position="Top"] #StatusNotifier > QToolButton:hover {
-	margin: 0px;
-	border: 7px;
-	border-image: url(button.svg) 7 7 7 7 stretch stretch;
-	padding: -3px;
-}
-LXQtPanel[position="Top"] #StatusNotifier > QToolButton:pressed {
-	margin: 0px;
-	border: 7px;
-	border-image: url(button-pressed.svg) 7 7 7 7 stretch stretch;
-	padding: -3px;
-}
-
-
-
-
 LXQtPanel[position="Top"] #TaskBar {
 	margin: 0px;
 	border: 0px;
@@ -773,7 +723,6 @@ LXQtPanel[position="Top"] #TaskBar {
 
 
 LXQtPanel[position="Top"] #TaskBar > QToolButton,
-LXQtPanel[position="Top"] #StatusNotifierPlugin,
 LXQtPanel[position="Top"] #TrayPlugin {
 	margin: 0px;
 	margin-top: 1px;
@@ -876,7 +825,7 @@ LXQtPanel[position="Top"] #SysStat > QLabel {
 
 
 LXQtPanel[position="Top"] #SysStat_Graph {
-	qproperty-gridColor: #aaaaaa;
+	qproperty-gridColor: #00000000;
 	qproperty-titleColor: #aaaaaa;
 	qproperty-cpuSystemColor: #119999;
 	qproperty-cpuUserColor: #4444bb;
@@ -892,13 +841,24 @@ LXQtPanel[position="Top"] #SysStat_Graph {
 }
 
 
+
+
+LXQtPanel[position="Top"] #ClockPlugin,
+LXQtPanel[position="Top"] #WorldClockPlugin {
+	margin-right: 3px;
+}
+
+
 LXQtPanel[position="Top"] #Clock QLabel,
 LXQtPanel[position="Top"] #WorldClock QLabel {
+	margin-top: 1px;
 	color: #aaaaaa;
+}
+
+
+LXQtPanel[position="Top"] #Clock #TimeLabel,
+LXQtPanel[position="Top"] #WorldClock QLabel {
 	font: bold;
-	margin: 4px;
-	margin-left: 0px;
-	margin-right: 0px;
 }
 
 

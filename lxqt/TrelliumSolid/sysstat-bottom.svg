@@ -109,13 +109,13 @@
        height="5"
        width="5"
        id="south-normal-center"
-       style="opacity:1;vector-effect:none;fill:#d5d5d5;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       style="opacity:1;vector-effect:none;fill:#dfdfdf;fill-opacity:0.8;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        inkscape:label="#button-normal-center" />
     <g
        transform="translate(32,77)"
        id="south-normal-bottomleft">
       <path
-         style="opacity:1;vector-effect:none;fill:#d5d5d5;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         style="opacity:1;vector-effect:none;fill:#dfdfdf;fill-opacity:0.8;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          d="m 1,43 a 5,5 0 0 0 5,5 v -5 z"
          id="path4718-3-4"
          inkscape:connector-curvature="0" />
@@ -134,7 +134,7 @@
        transform="translate(30,77)"
        id="south-normal-bottomright">
       <path
-         style="opacity:1;vector-effect:none;fill:#d5d5d5;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         style="opacity:1;vector-effect:none;fill:#dfdfdf;fill-opacity:0.8;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          d="m 13,43 v 5 a 5,5 0 0 0 5,-5 z"
          id="path4718-7-94"
          inkscape:connector-curvature="0" />
@@ -153,7 +153,7 @@
        transform="translate(31,77)"
        id="south-normal-bottom">
       <rect
-         style="opacity:1;vector-effect:none;fill:#d5d5d5;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         style="opacity:1;vector-effect:none;fill:#dfdfdf;fill-opacity:0.8;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          id="rect4780-7-5"
          width="5"
          height="5"
@@ -178,7 +178,7 @@
        transform="translate(32,78)"
        id="south-normal-left">
       <rect
-         style="opacity:1;vector-effect:none;fill:#d5d5d5;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         style="opacity:1;vector-effect:none;fill:#dfdfdf;fill-opacity:0.8;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          id="rect4780-2-01"
          width="5"
          height="5"
@@ -203,7 +203,7 @@
        transform="translate(30,78)"
        id="south-normal-right">
       <rect
-         style="opacity:1;vector-effect:none;fill:#d5d5d5;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         style="opacity:1;vector-effect:none;fill:#dfdfdf;fill-opacity:0.8;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          id="rect4780-9-73"
          width="5"
          height="5"
@@ -230,13 +230,13 @@
        height="4"
        width="5"
        id="south-normal-top"
-       style="opacity:1;vector-effect:none;fill:#d5d5d5;fill-opacity:1;stroke:none;stroke-width:0.70047599;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       style="opacity:1;vector-effect:none;fill:#dfdfdf;fill-opacity:0.8;stroke:none;stroke-width:0.70047599;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        inkscape:label="#button-normal-center" />
     <g
        transform="matrix(1,0,0,0.8,32,81.4)"
        id="south-normal-topleft">
       <rect
-         style="opacity:1;vector-effect:none;fill:#d5d5d5;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         style="opacity:1;vector-effect:none;fill:#dfdfdf;fill-opacity:0.8;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          id="rect4780-2-9-8-3"
          width="5"
          height="5"
@@ -261,7 +261,7 @@
        transform="matrix(1,0,0,0.8,30,81.4)"
        id="south-normal-topright">
       <rect
-         style="opacity:1;vector-effect:none;fill:#d5d5d5;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         style="opacity:1;vector-effect:none;fill:#dfdfdf;fill-opacity:0.8;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          id="rect4780-9-48-2-4"
          width="5"
          height="5"
