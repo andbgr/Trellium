@@ -18,19 +18,19 @@ LXQtPanel[position="Right"] Plugin > QWidget > QToolButton {
         margin-right: 1px;
         margin-left: 1px;
 	border: 0px;
-        padding: 7px;
+        padding: 4px;
 }
 LXQtPanel[position="Right"] Plugin > QToolButton:hover,
 LXQtPanel[position="Right"] Plugin > QWidget > QToolButton:hover {
 	border: 7px;
 	border-image: url(button.svg) 7 7 7 7 stretch stretch;
-        padding: 0px;
+        padding: -3px;
 }
 LXQtPanel[position="Right"] Plugin > QToolButton:pressed,
 LXQtPanel[position="Right"] Plugin > QWidget > QToolButton:pressed {
 	border: 7px;
 	border-image: url(button-pressed.svg) 7 7 7 7 stretch stretch;
-        padding: 0px;
+        padding: -3px;
 }
 
 
@@ -38,8 +38,7 @@ LXQtPanel[position="Right"] Plugin > QWidget > QToolButton:pressed {
 
 LXQtPanel[position="Right"] #MainMenu {
 	border: 0px;
-	padding: 7px;
-	padding-top: 10px;
+	padding-top: 9px;
 	padding-bottom: 8px;
 }
 LXQtPanel[position="Right"] #MainMenu:hover {
@@ -62,8 +61,7 @@ LXQtPanel[position="Right"] #TaskBar {
 
 
 
-LXQtPanel[position="Right"] #TaskBar > QToolButton,
-LXQtPanel[position="Right"] #TrayPlugin {
+LXQtPanel[position="Right"] #TaskBar > QToolButton {
 	margin: 0px;
 	margin-right: 1px;
 	border: 7px;
@@ -238,19 +236,19 @@ LXQtPanel[position="Bottom"] Plugin > QWidget > QToolButton {
         margin-bottom: 1px;
         margin-top: 1px;
 	border: 0px;
-        padding: 7px;
+        padding: 4px;
 }
 LXQtPanel[position="Bottom"] Plugin > QToolButton:hover,
 LXQtPanel[position="Bottom"] Plugin > QWidget > QToolButton:hover {
 	border: 7px;
 	border-image: url(button.svg) 7 7 7 7 stretch stretch;
-        padding: 0px;
+        padding: -3px;
 }
 LXQtPanel[position="Bottom"] Plugin > QToolButton:pressed,
 LXQtPanel[position="Bottom"] Plugin > QWidget > QToolButton:pressed {
 	border: 7px;
 	border-image: url(button-pressed.svg) 7 7 7 7 stretch stretch;
-        padding: 0px;
+        padding: -3px;
 }
 
 
@@ -258,8 +256,7 @@ LXQtPanel[position="Bottom"] Plugin > QWidget > QToolButton:pressed {
 
 LXQtPanel[position="Bottom"] #MainMenu {
 	border: 0px;
-	padding: 7px;
-	padding-left: 10px;
+	padding-left: 9px;
 	padding-right: 8px;
 }
 LXQtPanel[position="Bottom"] #MainMenu:hover {
@@ -282,8 +279,7 @@ LXQtPanel[position="Bottom"] #TaskBar {
 
 
 
-LXQtPanel[position="Bottom"] #TaskBar > QToolButton,
-LXQtPanel[position="Bottom"] #TrayPlugin {
+LXQtPanel[position="Bottom"] #TaskBar > QToolButton {
 	margin: 0px;
 	margin-bottom: 1px;
 	border: 7px;
@@ -458,19 +454,19 @@ LXQtPanel[position="Left"] Plugin > QWidget > QToolButton {
         margin-left: 1px;
         margin-right: 1px;
 	border: 0px;
-        padding: 7px;
+        padding: 4px;
 }
 LXQtPanel[position="Left"] Plugin > QToolButton:hover,
 LXQtPanel[position="Left"] Plugin > QWidget > QToolButton:hover {
 	border: 7px;
 	border-image: url(button.svg) 7 7 7 7 stretch stretch;
-        padding: 0px;
+        padding: -3px;
 }
 LXQtPanel[position="Left"] Plugin > QToolButton:pressed,
 LXQtPanel[position="Left"] Plugin > QWidget > QToolButton:pressed {
 	border: 7px;
 	border-image: url(button-pressed.svg) 7 7 7 7 stretch stretch;
-        padding: 0px;
+        padding: -3px;
 }
 
 
@@ -478,8 +474,7 @@ LXQtPanel[position="Left"] Plugin > QWidget > QToolButton:pressed {
 
 LXQtPanel[position="Left"] #MainMenu {
 	border: 0px;
-	padding: 7px;
-	padding-top: 10px;
+	padding-top: 9px;
 	padding-bottom: 8px;
 }
 LXQtPanel[position="Left"] #MainMenu:hover {
@@ -502,8 +497,7 @@ LXQtPanel[position="Left"] #TaskBar {
 
 
 
-LXQtPanel[position="Left"] #TaskBar > QToolButton,
-LXQtPanel[position="Left"] #TrayPlugin {
+LXQtPanel[position="Left"] #TaskBar > QToolButton {
 	margin: 0px;
 	margin-left: 1px;
 	border: 7px;
@@ -678,19 +672,19 @@ LXQtPanel[position="Top"] Plugin > QWidget > QToolButton {
         margin-top: 1px;
         margin-bottom: 1px;
 	border: 0px;
-        padding: 7px;
+        padding: 4px;
 }
 LXQtPanel[position="Top"] Plugin > QToolButton:hover,
 LXQtPanel[position="Top"] Plugin > QWidget > QToolButton:hover {
 	border: 7px;
 	border-image: url(button.svg) 7 7 7 7 stretch stretch;
-        padding: 0px;
+        padding: -3px;
 }
 LXQtPanel[position="Top"] Plugin > QToolButton:pressed,
 LXQtPanel[position="Top"] Plugin > QWidget > QToolButton:pressed {
 	border: 7px;
 	border-image: url(button-pressed.svg) 7 7 7 7 stretch stretch;
-        padding: 0px;
+        padding: -3px;
 }
 
 
@@ -698,8 +692,7 @@ LXQtPanel[position="Top"] Plugin > QWidget > QToolButton:pressed {
 
 LXQtPanel[position="Top"] #MainMenu {
 	border: 0px;
-	padding: 7px;
-	padding-left: 10px;
+	padding-left: 9px;
 	padding-right: 8px;
 }
 LXQtPanel[position="Top"] #MainMenu:hover {
@@ -722,8 +715,7 @@ LXQtPanel[position="Top"] #TaskBar {
 
 
 
-LXQtPanel[position="Top"] #TaskBar > QToolButton,
-LXQtPanel[position="Top"] #TrayPlugin {
+LXQtPanel[position="Top"] #TaskBar > QToolButton {
 	margin: 0px;
 	margin-top: 1px;
 	border: 7px;
