@@ -1383,7 +1383,7 @@
   <g
      inkscape:label="#g4115"
      id="arrow-up-normal"
-     transform="matrix(1,0,0,-1,161,65)">
+     transform="matrix(1,0,0,-1,152,89)">
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff00ff;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:0.60869581;marker:none;enable-background:accumulate"
        id="active-center_-2"
@@ -1402,7 +1402,7 @@
   <g
      inkscape:label="#g4115"
      id="arrow-minus-normal"
-     transform="matrix(0.81818182,0,0,0.81818182,223.54545,77.545455)">
+     transform="matrix(0.81818182,0,0,0.81818182,227.54545,68.545455)">
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff00ff;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:0.74396139;marker:none;enable-background:accumulate"
        id="active-center_-5"
@@ -1422,7 +1422,7 @@
   <g
      inkscape:label="#g4115"
      id="arrow-plus-normal"
-     transform="matrix(0.81818182,0,0,0.81818182,223.54545,61.545455)">
+     transform="matrix(0.81818182,0,0,0.81818182,227.54545,52.545455)">
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff00ff;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:0.74396139;marker:none;enable-background:accumulate"
        id="active-center_-5-8"
@@ -1646,7 +1646,7 @@
      y="0"
      xlink:href="#arrow-up-normal"
      id="arrow-left-normal"
-     transform="rotate(-90,180,56)"
+     transform="rotate(-90,171,81)"
      width="100%"
      height="100%"
      inkscape:label="#use5521" />
@@ -1655,7 +1655,7 @@
      y="0"
      xlink:href="#arrow-up-normal"
      id="arrow-down-normal"
-     transform="matrix(1,0,0,-1,0,112)"
+     transform="matrix(1,0,0,-1,0,162)"
      width="100%"
      height="100%"
      inkscape:label="#use5523" />
@@ -1664,7 +1664,7 @@
      y="0"
      xlink:href="#arrow-up-normal"
      id="arrow-right-normal"
-     transform="rotate(90,180,56)"
+     transform="rotate(90,171,81)"
      width="100%"
      height="100%"
      inkscape:label="#use5525" />
@@ -1673,7 +1673,7 @@
      y="0"
      xlink:href="#arrow-up-normal"
      id="arrow-up-disabled"
-     transform="translate(35)"
+     transform="translate(44)"
      width="100%"
      height="100%"
      style="opacity:0.5"
@@ -1683,7 +1683,7 @@
      y="0"
      xlink:href="#arrow-up-normal"
      id="arrow-right-disabled"
-     transform="rotate(90,197.5,73.5)"
+     transform="rotate(90,193,103)"
      width="100%"
      height="100%"
      style="opacity:0.5"
@@ -1693,7 +1693,7 @@
      y="0"
      xlink:href="#arrow-up-normal"
      id="arrow-left-disabled"
-     transform="rotate(-90,197.5,38.5)"
+     transform="rotate(-90,193,59)"
      width="100%"
      height="100%"
      style="opacity:0.5"
@@ -1703,7 +1703,7 @@
      y="0"
      xlink:href="#arrow-up-normal"
      id="arrow-down-disabled"
-     transform="matrix(1,0,0,-1,35,112)"
+     transform="matrix(1,0,0,-1,44,162)"
      width="100%"
      height="100%"
      style="opacity:0.5"
@@ -1713,7 +1713,7 @@
      y="0"
      xlink:href="#arrow-plus-normal"
      id="arrow-plus-disabled"
-     transform="translate(20)"
+     transform="translate(16.000001)"
      width="100%"
      height="100%"
      style="opacity:0.5"
@@ -1723,7 +1723,7 @@
      y="0"
      xlink:href="#arrow-minus-normal"
      id="arrow-minus-disabled"
-     transform="translate(20)"
+     transform="translate(16)"
      width="100%"
      height="100%"
      style="opacity:0.5"
@@ -1788,8 +1788,8 @@
   </g>
   <g
      inkscape:label="#g4115"
-     id="view-arrow-up-normal"
-     transform="matrix(1,0,0,-1,161,106)">
+     id="flat-arrow-up-normal"
+     transform="matrix(1,0,0,-1,152,133)">
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff00ff;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:0.60869586;marker:none;enable-background:accumulate"
        id="active-center_-2-7"
@@ -1808,36 +1808,36 @@
   <use
      x="0"
      y="0"
-     xlink:href="#view-arrow-up-normal"
-     id="view-arrow-left-normal"
-     transform="rotate(-90,180,97)"
+     xlink:href="#flat-arrow-up-normal"
+     id="flat-arrow-left-normal"
+     transform="rotate(-90,171,125)"
      width="100%"
      height="100%"
      inkscape:label="#use5521" />
   <use
      x="0"
      y="0"
-     xlink:href="#view-arrow-up-normal"
-     id="view-arrow-down-normal"
-     transform="matrix(1,0,0,-1,0,194)"
+     xlink:href="#flat-arrow-up-normal"
+     id="flat-arrow-down-normal"
+     transform="matrix(1,0,0,-1,0,250)"
      width="100%"
      height="100%"
      inkscape:label="#use5523" />
   <use
      x="0"
      y="0"
-     xlink:href="#view-arrow-up-normal"
-     id="view-arrow-right-normal"
-     transform="rotate(90,180,97)"
+     xlink:href="#flat-arrow-up-normal"
+     id="flat-arrow-right-normal"
+     transform="rotate(90,171,125)"
      width="100%"
      height="100%"
      inkscape:label="#use5525" />
   <use
      x="0"
      y="0"
-     xlink:href="#view-arrow-up-normal"
-     id="view-arrow-up-disabled"
-     transform="translate(34.999997)"
+     xlink:href="#flat-arrow-up-normal"
+     id="flat-arrow-up-disabled"
+     transform="translate(44)"
      width="100%"
      height="100%"
      style="opacity:0.5"
@@ -1845,9 +1845,9 @@
   <use
      x="0"
      y="0"
-     xlink:href="#view-arrow-up-normal"
-     id="view-arrow-right-disabled"
-     transform="rotate(90,197.5,114.5)"
+     xlink:href="#flat-arrow-up-normal"
+     id="flat-arrow-right-disabled"
+     transform="rotate(90,193,147)"
      width="100%"
      height="100%"
      style="opacity:0.5"
@@ -1855,9 +1855,9 @@
   <use
      x="0"
      y="0"
-     xlink:href="#view-arrow-up-normal"
-     id="view-arrow-left-disabled"
-     transform="rotate(-90,197.5,79.5)"
+     xlink:href="#flat-arrow-up-normal"
+     id="flat-arrow-left-disabled"
+     transform="rotate(-90,193,103)"
      width="100%"
      height="100%"
      style="opacity:0.5"
@@ -1865,9 +1865,9 @@
   <use
      x="0"
      y="0"
-     xlink:href="#view-arrow-up-normal"
-     id="view-arrow-down-disabled"
-     transform="matrix(1,0,0,-1,35,194)"
+     xlink:href="#flat-arrow-up-normal"
+     id="flat-arrow-down-disabled"
+     transform="matrix(1,0,0,-1,44,250)"
      width="100%"
      height="100%"
      style="opacity:0.5"
@@ -15344,4 +15344,63 @@
        x="7"
        y="47" />
   </g>
+  <g
+     inkscape:label="#g4115"
+     id="flat-arrow-minus-normal"
+     transform="matrix(0.81818182,0,0,0.81818182,227.54545,112.54546)">
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff00ff;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:0.74396139;marker:none;enable-background:accumulate"
+       id="active-center_-5-6"
+       width="17.111111"
+       height="17.111111"
+       x="12.777783"
+       y="9.1111107"
+       inkscape:label="#active-center" />
+    <rect
+       y="16.75"
+       x="15.222228"
+       height="1.8333328"
+       width="12.222222"
+       id="rect5856-7"
+       style="opacity:1;vector-effect:none;fill:#aaaaaa;fill-opacity:1;stroke:none;stroke-width:0.5826714;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
+  </g>
+  <g
+     inkscape:label="#g4115"
+     id="flat-arrow-plus-normal"
+     transform="matrix(0.81818182,0,0,0.81818182,227.54545,96.545455)">
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff00ff;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:0.74396139;marker:none;enable-background:accumulate"
+       id="active-center_-5-8-3"
+       width="17.111111"
+       height="17.111111"
+       x="12.777783"
+       y="9.1111107"
+       inkscape:label="#active-center" />
+    <path
+       sodipodi:nodetypes="ccccccccccccc"
+       id="rect5856-9-5"
+       d="m 20.416672,11.555555 v 5.194444 h -5.194444 v 1.833334 h 5.194444 v 5.194444 h 1.833334 v -5.194444 h 5.194444 v -1.833334 h -5.194444 v -5.194444 z"
+       style="opacity:1;vector-effect:none;fill:#aaaaaa;fill-opacity:1;stroke:none;stroke-width:0.54772258;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       inkscape:connector-curvature="0" />
+  </g>
+  <use
+     x="0"
+     y="0"
+     xlink:href="#flat-arrow-plus-normal"
+     id="flat-arrow-plus-disabled"
+     transform="translate(16)"
+     width="100%"
+     height="100%"
+     style="opacity:0.5"
+     inkscape:label="#use5535" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#flat-arrow-minus-normal"
+     id="flat-arrow-minus-disabled"
+     transform="translate(16)"
+     width="100%"
+     height="100%"
+     style="opacity:0.5"
+     inkscape:label="#use5537" />
 </svg>

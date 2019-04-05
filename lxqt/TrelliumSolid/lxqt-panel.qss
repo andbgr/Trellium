@@ -51,11 +51,9 @@ LXQtPanel[position="Right"] #MainMenu:hover {
 LXQtPanel[position="Right"] #TaskBar {
 	margin: 0px;
 	border: 0px;
-	border-bottom: 4px;
-	border-left: 1px;
-	border-image: url(segment-vertical.svg) 0 1 4 1 stretch stretch;
+	border-bottom: 12px;
+	border-image: url(segment-wave-vertical.svg) 0 0 12 0 stretch stretch;
 	padding: 0px;
-	padding-left: -1px;
 }
 
 
@@ -276,11 +274,9 @@ LXQtPanel[position="Bottom"] #MainMenu:hover {
 LXQtPanel[position="Bottom"] #TaskBar {
 	margin: 0px;
 	border: 0px;
-	border-right: 4px;
-	border-top: 1px;
-	border-image: url(segment-horizontal.svg) 1 4 1 0 stretch stretch;
+	border-right: 12px;
+	border-image: url(segment-wave-horizontal.svg) 0 12 0 0 stretch stretch;
 	padding: 0px;
-	padding-top: -1px;
 }
 
 
@@ -501,11 +497,9 @@ LXQtPanel[position="Left"] #MainMenu:hover {
 LXQtPanel[position="Left"] #TaskBar {
 	margin: 0px;
 	border: 0px;
-	border-bottom: 4px;
-	border-right: 1px;
-	border-image: url(segment-vertical.svg) 0 1 4 1 stretch stretch;
+	border-bottom: 12px;
+	border-image: url(segment-wave-vertical.svg) 0 0 12 0 stretch stretch;
 	padding: 0px;
-	padding-right: -1px;
 }
 
 
@@ -726,11 +720,9 @@ LXQtPanel[position="Top"] #MainMenu:hover {
 LXQtPanel[position="Top"] #TaskBar {
 	margin: 0px;
 	border: 0px;
-	border-right: 4px;
-	border-bottom: 1px;
-	border-image: url(segment-horizontal.svg) 1 4 1 0 stretch stretch;
+	border-right: 12px;
+	border-image: url(segment-wave-horizontal.svg) 0 12 0 0 stretch stretch;
 	padding: 0px;
-	padding-bottom: -1px;
 }
 
 
