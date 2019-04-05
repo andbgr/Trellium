@@ -194,8 +194,7 @@ LXQtPanel[position="Right"] #WorldClock QLabel {
 }
 
 
-LXQtPanel[position="Right"] #Clock #TimeLabel,
-LXQtPanel[position="Right"] #WorldClock QLabel {
+LXQtPanel[position="Right"] #Clock #TimeLabel {
 	font: bold;
 }
 
@@ -207,6 +206,14 @@ LXQtPanel[position="Right"] #Spacer[type="lined"] {
 	border: 1px;
 	border-right: 0px;
 	border-image: url(spacer-vertical.svg) 1 1 1 1 stretch stretch;
+	padding: 0px;
+}
+
+
+LXQtPanel[position="Right"] #Spacer[type="dotted"] {
+	margin: 0px;
+	border: 0px;
+	border-image: url(spacer-wave-vertical.svg) 0 0 0 0 stretch stretch;
 	padding: 0px;
 }
 
@@ -412,8 +419,7 @@ LXQtPanel[position="Bottom"] #WorldClock QLabel {
 }
 
 
-LXQtPanel[position="Bottom"] #Clock #TimeLabel,
-LXQtPanel[position="Bottom"] #WorldClock QLabel {
+LXQtPanel[position="Bottom"] #Clock #TimeLabel {
 	font: bold;
 }
 
@@ -425,6 +431,14 @@ LXQtPanel[position="Bottom"] #Spacer[type="lined"] {
 	border: 1px;
 	border-bottom: 0px;
 	border-image: url(spacer-horizontal.svg) 1 1 1 1 stretch stretch;
+	padding: 0px;
+}
+
+
+LXQtPanel[position="Bottom"] #Spacer[type="dotted"] {
+	margin: 0px;
+	border: 0px;
+	border-image: url(spacer-wave-horizontal.svg) 0 0 0 0 stretch stretch;
 	padding: 0px;
 }
 
@@ -630,8 +644,7 @@ LXQtPanel[position="Left"] #WorldClock QLabel {
 }
 
 
-LXQtPanel[position="Left"] #Clock #TimeLabel,
-LXQtPanel[position="Left"] #WorldClock QLabel {
+LXQtPanel[position="Left"] #Clock #TimeLabel {
 	font: bold;
 }
 
@@ -643,6 +656,14 @@ LXQtPanel[position="Left"] #Spacer[type="lined"] {
 	border: 1px;
 	border-left: 0px;
 	border-image: url(spacer-vertical.svg) 1 1 1 1 stretch stretch;
+	padding: 0px;
+}
+
+
+LXQtPanel[position="Left"] #Spacer[type="dotted"] {
+	margin: 0px;
+	border: 0px;
+	border-image: url(spacer-wave-vertical.svg) 0 0 0 0 stretch stretch;
 	padding: 0px;
 }
 
@@ -848,8 +869,7 @@ LXQtPanel[position="Top"] #WorldClock QLabel {
 }
 
 
-LXQtPanel[position="Top"] #Clock #TimeLabel,
-LXQtPanel[position="Top"] #WorldClock QLabel {
+LXQtPanel[position="Top"] #Clock #TimeLabel {
 	font: bold;
 }
 
@@ -861,6 +881,14 @@ LXQtPanel[position="Top"] #Spacer[type="lined"] {
 	border: 1px;
 	border-top: 0px;
 	border-image: url(spacer-horizontal.svg) 1 1 1 1 stretch stretch;
+	padding: 0px;
+}
+
+
+LXQtPanel[position="Top"] #Spacer[type="dotted"] {
+	margin: 0px;
+	border: 0px;
+	border-image: url(spacer-wave-horizontal.svg) 0 0 0 0 stretch stretch;
 	padding: 0px;
 }
 

@@ -194,8 +194,7 @@ LXQtPanel[position="Right"] #WorldClock QLabel {
 }
 
 
-LXQtPanel[position="Right"] #Clock #TimeLabel,
-LXQtPanel[position="Right"] #WorldClock QLabel {
+LXQtPanel[position="Right"] #Clock #TimeLabel {
 	font: bold;
 }
 
@@ -207,6 +206,14 @@ LXQtPanel[position="Right"] #Spacer[type="lined"] {
 	border: 1px;
 	border-right: 0px;
 	border-image: url(spacer-vertical.svg) 1 1 1 1 stretch stretch;
+	padding: 0px;
+}
+
+
+LXQtPanel[position="Right"] #Spacer[type="dotted"] {
+	margin: 0px;
+	border: 0px;
+	border-image: url(spacer-wave-vertical.svg) 0 0 0 0 stretch stretch;
 	padding: 0px;
 }
 

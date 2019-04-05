@@ -1,21 +1,21 @@
 [%General]
 author=Andreas Berger
 x11drag=true
-vertical_spin_indicators=false
-combo_as_lineedit=false
 combo_focus_rect=true
 combo_menu=true
 left_tabs=true
+center_doc_tabs=false
 attach_active_tab=true
-toolbar_item_spacing=2
+bold_active_tab=true
 group_toolbar_buttons=false
+toolbar_item_spacing=2
 center_toolbar_handle=true
-progressbar_thickness=1font
+spread_header=true
 composite=true
 menu_separator_height=2
 submenu_overlap=2
-menu_shadow_depth=0
-tooltip_shadow_depth=0
+translucent_windows=true
+blurring=true
 splitter_width=6
 scroll_width=22
 scroll_arrows=false
@@ -28,22 +28,16 @@ slider_handle_length=36
 check_size=22
 layout_spacing=2
 layout_margin=2
-small_icon_size=16
-large_icon_size=48
-button_icon_size=16
-toolbar_icon_size=24
-translucent_windows=true
-blurring=true
 
 [GeneralColors]
-window.color=#111111bf
+window.color=#181818cc
 base.color=#000000aa
 alt.base.color=#000000aa
-button.color=#111111bf
-light.color=#7777009355
-mid.light.color=#000077932b
-mid.color=#000000
-dark.color=#000000
+button.color=#181818cc
+light.color=#aaaaaacc
+mid.light.color=#aaaaaacc
+mid.color=#aaaaaacc
+dark.color=#aaaaaacc
 highlight.color=#4444bbff
 inactive.highlight.color=#4444bbff80
 tooltip.base.color=#000000aa
@@ -65,6 +59,7 @@ kcapacitybar_as_progressbar=true
 respect_darkness=true
 force_size_grip=false
 normal_default_pushbutton=true
+lxqtmainmenu_iconsize=32
 
 [PanelButtonCommand]
 frame.top=4
