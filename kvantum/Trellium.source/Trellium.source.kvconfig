@@ -6,7 +6,7 @@ combo_menu=true
 left_tabs=true
 center_doc_tabs=false
 attach_active_tab=true
-bold_active_tab=true
+bold_active_tab=false
 group_toolbar_buttons=false
 toolbar_item_spacing=2
 center_toolbar_handle=true
@@ -32,7 +32,7 @@ layout_margin=2
 [GeneralColors]
 window.color=#808080
 base.color=#ffff80
-alt.base.color=#ffff80
+alt.base.color=#ffff8000
 button.color=#808080
 light.color=#404040
 mid.light.color=#404040

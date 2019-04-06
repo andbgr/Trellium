@@ -10,9 +10,6 @@ rm -rv   ../$name
 cp -av . ../$name
 cd       ../$name
 
-./rotate_qss.sh
-rm -v lxqt-panel.right.qss
-
 declare -A colors_source
 while read key val; do
 	colors_source[$key]=$val
@@ -43,6 +40,9 @@ for file in *.svg *.qss; do
 		sed -i "s/PLACEHOLDER-$i-PLACEHOLDER/${colors_theme[$i]}/g" $file
 	done
 done
+
+./rotate_qss.sh
+rm -v lxqt-panel.right.qss
 
 rsvg-convert preview.svg -o preview.png
 rm -v preview.svg 

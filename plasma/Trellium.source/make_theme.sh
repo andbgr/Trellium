@@ -2,6 +2,15 @@
 # Usage: make_theme.sh colors.NAME
 
 
+function hextorgb {
+	r=$((0x$(echo $1 | cut -b2-3)))
+	g=$((0x$(echo $1 | cut -b4-5)))
+	b=$((0x$(echo $1 | cut -b6-7)))
+
+	echo "$r,$g,$b"
+}
+
+
 colorscheme="$(echo "$1" | sed 's/colors.//')"
 displayname="Trellium $colorscheme"
 name="$(echo "$displayname" | tr -d ' ')"
@@ -9,7 +18,8 @@ name="$(echo "$displayname" | tr -d ' ')"
 rm -rv   ../$name
 cp -av . ../$name
 cd       ../$name
-
+mv -v Trellium.source.colors   "$name".colors
+sed -i "s/^Name=.*/Name=$displayname/"                            "$name".colors
 sed -i "s/^Name=.*/Name=$displayname/"                            metadata.desktop
 sed -i "s/^X-KDE-PluginInfo-Name=.*/X-KDE-PluginInfo-Name=$name/" metadata.desktop
 
@@ -45,6 +55,10 @@ max=$(echo 0 $min             | tr ' ' '\n' | sort -n | tail -1)
 scrollbar_alpha=$max
 
 
+for i in ${!colors_source[@]}; do
+	sed -i "s/$(hextorgb ${colors_source[$i]})/$(hextorgb ${colors_theme[$i]})/" $name.colors
+done
+
 for file in widgets/*.svg; do
 	sed -i '/#ff00ff/s/fill-opacity:1/fill-opacity:0/' $file
 	sed -i "/#808080/s/opacity:0.751/opacity:$scrollbar_alpha/" $file
@@ -62,7 +76,7 @@ for file in widgets/*.svg; do
 	done
 done
 
-rm -v colors* *.sh $(ls | grep '.colors$' | grep -v $name.colors)
+rm -v colors* *.sh
 mv -v $name.colors colors
 
 cd -

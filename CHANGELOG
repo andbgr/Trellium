@@ -8,6 +8,11 @@
 -kvantum: made indicators thinner, changed grip indicators, other minor fixes
 -plasma: made arrows thinner
 
--updated color schemes
--added Blueprint color scheme
--plasma: updated clock
+0.3
+-updated all color schemes, made borders a bit lighter
+-added Dark color scheme
+-KDE color schemes are now automatically generated (kvantum and plasma)
+-aurorae: made buttons 1px narrower and glyphs thinner
+-kvantum: made glyphs thinner, added transparency for colors in config, several other small fixes
+lxqt: redid parts of the theme, added a wave-shaped separator after task manager (you can add more of these by adding a spacer widget with 12p size and "dotted" style!)
+-plasma: reworked clock, made arrows thinner

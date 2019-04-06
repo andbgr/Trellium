@@ -2,6 +2,15 @@
 # Usage: make_theme.sh colors.NAME
 
 
+function hextorgb {
+	r=$((0x$(echo $1 | cut -b2-3)))
+	g=$((0x$(echo $1 | cut -b4-5)))
+	b=$((0x$(echo $1 | cut -b6-7)))
+
+	echo "$r,$g,$b"
+}
+
+
 colorscheme="$(echo "$1" | sed 's/colors.//')"
 displayname="Trellium $colorscheme"
 name="$(echo "$displayname" | tr -d ' ')"
@@ -9,8 +18,10 @@ name="$(echo "$displayname" | tr -d ' ')"
 rm -rv   ../$name
 cp -av . ../$name
 cd       ../$name
+mv -v Trellium.source.colors   "$name".colors
 mv -v Trellium.source.kvconfig "$name".kvconfig
 mv -v Trellium.source.svg      "$name".svg
+sed -i "s/^Name=.*/Name=$displayname/" "$name".colors
 
 declare -A colors_source
 while read key val; do
@@ -45,8 +56,13 @@ scrollbar_alpha=$max
 
 
 for i in ${!colors_source[@]}; do
+	sed -i "s/$(hextorgb ${colors_source[$i]})/$(hextorgb ${colors_theme[$i]})/" $name.colors
+done
+
+for i in ${!colors_source[@]}; do
 	hexalpha=$(printf %02x $(bc <<< "(255 * ${alpha[$i]} + 0.5) / 1"))
-	sed -i "s/${colors_source[$i]}/${colors_theme[$i]}$hexalpha/" *.kvconfig
+	sed -i "s/${colors_source[$i]}\$/${colors_theme[$i]}$hexalpha/" $name.kvconfig
+	sed -i "s/${colors_source[$i]}/${colors_theme[$i]}/" $name.kvconfig
 done
 
 for file in *.svg; do
@@ -66,6 +82,6 @@ for file in *.svg; do
 	done
 done
 
-rm -v colors* *.sh $(ls | grep '.colors$' | grep -v $name.colors)
+rm -v colors* *.sh
 
 cd -

@@ -19,7 +19,6 @@ rm -rv   ../$name
 cp -av . ../$name
 cd       ../$name
 mv -v Trellium.sourcerc "$name"rc
-
 sed -i "s/^Name=.*/Name=$displayname/"                            metadata.desktop
 sed -i "s/^X-KDE-PluginInfo-Name=.*/X-KDE-PluginInfo-Name=$name/" metadata.desktop
 
@@ -38,7 +37,7 @@ while read key val alpha; do
 	alpha[$key]=$alpha
 done < "colors.$colorscheme"
 
-sed -i "s/^ActiveTextColor=.*/ActiveTextColor=$(hextorgb ${colors_theme[text-bg]})/"       "$name"rc 
+sed -i "s/^ActiveTextColor=.*/ActiveTextColor=$(hextorgb ${colors_theme[text-bg]})/"     "$name"rc 
 sed -i "s/^InactiveTextColor=.*/InactiveTextColor=$(hextorgb ${colors_theme[text-bg]})/" "$name"rc 
 
 for file in *.svg; do
