@@ -16,6 +16,7 @@ menu_separator_height=2
 submenu_overlap=2
 translucent_windows=true
 blurring=true
+saturation=2
 splitter_width=6
 scroll_width=22
 scroll_arrows=false
