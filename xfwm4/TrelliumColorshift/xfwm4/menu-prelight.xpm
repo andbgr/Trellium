@@ -1,0 +1,38 @@
+/* XPM */
+static char *menu_prelight[] = {
+/* columns rows colors chars-per-pixel */
+"37 27 5 1 ",
+"  c black",
+". c gray12",
+"X c #BAEDED",
+"o c #DDDDDD",
+"O c None",
+/* pixels */
+"OOOO                                 ",
+"OOOO.................................",
+"OOOOXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"OOOOooooooooooooooooooooooooooooooooo",
+"OOOOooooooooooooooooooooooooooooooooo",
+"OOOOooooooooooooooooooooooooooooooooo",
+"Xoooooooooooooooooooooooooooooooooooo",
+"Xoooooooooooooooooooooooooooooooooooo",
+"Xoooooooooooooooooooooooooooooooooooo",
+"Xoooooooooooooooooooooooooooooooooooo",
+"Xoooooooooooooooooooooooooooooooooooo",
+"Xoooooooooooooooooooooooooooooooooooo",
+"Xoooooooooooooooooooooooooooooooooooo",
+"Xoooooooooooooooooooooooooooooooooooo",
+"Xoooooooooooooooooooooooooooooooooooo",
+"Xoooooooooooooooooooooooooooooooooooo",
+"Xoooooooooooooooooooooooooooooooooooo",
+"Xoooooooooooooooooooooooooooooooooooo",
+"Xoooooooooooooooooooooooooooooooooooo",
+"Xoooooooooooooooooooooooooooooooooooo",
+"Xoooooooooooooooooooooooooooooooooooo",
+"Xoooooooooooooooooooooooooooooooooooo",
+"Xoooooooooooooooooooooooooooooooooooo",
+"Xoooooooooooooooooooooooooooooooooooo",
+"Xoooooooooooooooooooooooooooooooooooo",
+"Xoooooooooooooooooooooooooooooooooooo",
+"Xoooooooooooooooooooooooooooooooooooo"
+};

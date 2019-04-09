@@ -1,0 +1,37 @@
+/* XPM */
+static char *menu_active[] = {
+/* columns rows colors chars-per-pixel */
+"37 27 4 1 ",
+"  c #181818",
+". c #929292",
+"X c #AAAAAA",
+"o c None",
+/* pixels */
+"ooooXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"oooo.................................",
+"oooo                                 ",
+"oooo                                 ",
+"oooo                                 ",
+"oooo                                 ",
+"                                     ",
+"                                     ",
+"                                     ",
+"                                     ",
+"                                     ",
+"                                     ",
+"                                     ",
+"                                     ",
+"                                     ",
+"                                     ",
+"                                     ",
+"                                     ",
+"                                     ",
+"                                     ",
+"                                     ",
+"                                     ",
+"                                     ",
+"                                     ",
+"                                     ",
+"                                     ",
+"                                     "
+};
