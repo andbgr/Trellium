@@ -11,9 +11,9 @@ static char *maximize_active[] = {
 "@ c gray35",
 "# c #5F5F5F",
 "$ c gray58",
-"% c #EDBABA",
-"& c #BAEDED",
-"* c #D6D2D2",
+"% c #EEB8B8",
+"& c #B8EEEE",
+"* c #D6D1D1",
 "= c #DDDDDD",
 /* pixels */
 "                             ",

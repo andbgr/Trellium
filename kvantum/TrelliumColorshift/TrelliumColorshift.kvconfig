@@ -1,6 +1,6 @@
 [%General]
 author=Andreas Berger
-x11drag=all
+x11drag=true
 combo_focus_rect=true
 combo_menu=true
 left_tabs=true
@@ -29,38 +29,6 @@ slider_handle_length=36
 check_size=22
 layout_spacing=2
 layout_margin=2
-alt_mnemonic=true
-animate_states=false
-button_icon_size=16
-combo_as_lineedit=false
-double_click=false
-fill_rubberband=false
-groupbox_top_label=false
-hide_combo_checkboxes=false
-inline_spin_indicators=false
-joined_inactive_tabs=true
-large_icon_size=32
-menubar_mouse_tracking=true
-merge_menubar_with_toolbar=false
-no_inactiveness=false
-no_window_pattern=false
-opaque=kaffeine,kmplayer,subtitlecomposer,kdenlive,vlc,smplayer,smplayer2,avidemux,avidemux2_qt4,avidemux3_qt4,avidemux3_qt5,kamoso,QtCreator,VirtualBox,trojita,dragon,digikam
-popup_blurring=true
-reduce_menu_opacity=0
-reduce_window_opacity=0
-respect_DE=true
-scroll_min_extent=36
-scrollable_menu=false
-small_icon_size=16
-spin_button_width=16
-submenu_delay=250
-toolbar_icon_size=22
-toolbutton_style=0
-tooltip_delay=-1
-transient_groove=false
-transient_scrollbar=false
-tree_branch_line=false
-vertical_spin_indicators=false
 
 [GeneralColors]
 window.color=#ddddddaa
@@ -93,17 +61,6 @@ respect_darkness=true
 force_size_grip=false
 normal_default_pushbutton=true
 lxqtmainmenu_iconsize=32
-blur_translucent=true
-disabled_icon_opacity=100
-iconless_menu=false
-iconless_pushbutton=false
-middle_click_scroll=false
-no_selection_tint=false
-opaque_colors=false
-single_top_toolbar=false
-tint_on_mouseover=0
-transparent_dolphin_view=true
-transparent_pcmanfm_view=false
 
 [PanelButtonCommand]
 frame.top=4

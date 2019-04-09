@@ -12,8 +12,8 @@ static char *shade_pressed[] = {
 "# c #444444",
 "$ c gray40",
 "% c #939393",
-"& c #82A7A7",
-"* c #BAEDED",
+"& c #81A7A7",
+"* c #B8EEEE",
 "= c #DDDDDD",
 /* pixels */
 "                             ",

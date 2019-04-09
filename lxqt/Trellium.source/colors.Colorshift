@@ -1,9 +1,9 @@
 selection	#4444bb	1
 bg		#dddddd	0.667
 bg-border	#000000	0.8
-bg-topleft	#93ffff	0.375
-bg-bottomright	#ff9393	0.375
-bg-hover	#ffffff	0.167
+bg-topleft	#93ffff	0.4
+bg-bottomright	#ff9393	0.4
+bg-hover	#ffffff	0.2
 bg-pressed	#000000	0.25
 view		#eeeeee	0.8
 view-hover	#eeeeee	1

@@ -12,9 +12,9 @@ static char *close_active[] = {
 "# c gray34",
 "$ c gray35",
 "% c #5F5F5F",
-"& c #EDBABA",
-"* c #BAEDED",
-"= c #D6D2D2",
+"& c #EEB8B8",
+"* c #B8EEEE",
+"= c #D6D1D1",
 "- c #DDDDDD",
 "; c None",
 /* pixels */

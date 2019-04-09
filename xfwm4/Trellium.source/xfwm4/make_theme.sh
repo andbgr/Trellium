@@ -10,6 +10,8 @@ rm -rv    ../../$name
 cp -av .. ../../$name
 cd        ../../$name/xfwm4
 
+rm -v *.large.svg
+
 declare -A colors_source
 while read key val; do
 	colors_source[$key]=$val
@@ -46,9 +48,14 @@ for file in *.svg; do
 	rsvg-convert $file -o $(echo $file | sed 's/\.svg$/.png/')
 done
 
-convert decoration.png -crop 6x27+0+0 top-left-active.xpm
-convert decoration.png -crop 6x27+60+0 top-right-active.xpm
-convert decoration.png -crop 1x27+6+0 title-1-active.xpm
+
+button_w=19
+button_h=13
+src_w=$(identify -format '%w' buttons.png)
+
+convert decoration.png -crop 6x$((button_h + 14))+0+0 top-left-active.xpm
+convert decoration.png -crop 6x$((button_h + 14))+60+0 top-right-active.xpm
+convert decoration.png -crop 1x$((button_h + 14))+6+0 title-1-active.xpm
 ln -sv title-1-active.xpm title-2-active.xpm
 ln -sv title-1-active.xpm title-3-active.xpm
 ln -sv title-1-active.xpm title-4-active.xpm
@@ -59,29 +66,29 @@ convert decoration.png -crop 1x6+6+60 bottom-active.xpm
 convert decoration.png -crop 6x6+0+60 bottom-left-active.xpm
 convert decoration.png -crop 6x6+60+60 bottom-right-active.xpm
 
-convert buttons.png -crop 28x27+190+0 close-active.xpm
-convert buttons.png -crop 29x27+161+0 maximize-toggled-active.xpm
-convert buttons.png -crop 29x27+132+0 maximize-active.xpm
-convert buttons.png -crop 29x27+103+0 shade-active.xpm
-convert buttons.png -crop 31x27+72+0 hide-active.xpm
-convert buttons.png -crop 33x27+39+0 stick-active.xpm
-convert buttons.png -crop 37x27+2+0 menu-active.xpm
+convert buttons.png -crop $((button_w +  9))x$((button_h + 14))+$((src_w - button_w   - 11))+0 close-active.xpm
+convert buttons.png -crop $((button_w + 10))x$((button_h + 14))+$((src_w - button_w*2 - 21))+0 maximize-toggled-active.xpm
+convert buttons.png -crop $((button_w + 10))x$((button_h + 14))+$((src_w - button_w*3 - 31))+0 maximize-active.xpm
+convert buttons.png -crop $((button_w + 10))x$((button_h + 14))+$((src_w - button_w*4 - 41))+0 shade-active.xpm
+convert buttons.png -crop $((button_w + 12))x$((button_h + 14))+$((src_w - button_w*5 - 53))+0 hide-active.xpm
+convert buttons.png -crop $((button_w + 14))x$((button_h + 14))+$((src_w - button_w*6 - 67))+0 stick-active.xpm
+convert buttons.png -crop $((button_w +  9))x$((button_h + 11))+$((                      2))+2 menu-active.xpm
 
-convert buttons-hover.png -crop 28x27+190+0 close-prelight.xpm
-convert buttons-hover.png -crop 29x27+161+0 maximize-toggled-prelight.xpm
-convert buttons-hover.png -crop 29x27+132+0 maximize-prelight.xpm
-convert buttons-hover.png -crop 29x27+103+0 shade-prelight.xpm
-convert buttons-hover.png -crop 31x27+72+0 hide-prelight.xpm
-convert buttons-hover.png -crop 33x27+39+0 stick-prelight.xpm
-convert buttons-hover.png -crop 37x27+2+0 menu-prelight.xpm
+convert buttons-hover.png -crop $((button_w +  9))x$((button_h + 14))+$((src_w - button_w   - 11))+0 close-prelight.xpm
+convert buttons-hover.png -crop $((button_w + 10))x$((button_h + 14))+$((src_w - button_w*2 - 21))+0 maximize-toggled-prelight.xpm
+convert buttons-hover.png -crop $((button_w + 10))x$((button_h + 14))+$((src_w - button_w*3 - 31))+0 maximize-prelight.xpm
+convert buttons-hover.png -crop $((button_w + 10))x$((button_h + 14))+$((src_w - button_w*4 - 41))+0 shade-prelight.xpm
+convert buttons-hover.png -crop $((button_w + 12))x$((button_h + 14))+$((src_w - button_w*5 - 53))+0 hide-prelight.xpm
+convert buttons-hover.png -crop $((button_w + 14))x$((button_h + 14))+$((src_w - button_w*6 - 67))+0 stick-prelight.xpm
+convert buttons-hover.png -crop $((button_w +  9))x$((button_h + 11))+$((                      2))+2 menu-prelight.xpm
 
-convert buttons-pressed.png -crop 28x27+190+0 close-pressed.xpm
-convert buttons-pressed.png -crop 29x27+161+0 maximize-toggled-pressed.xpm
-convert buttons-pressed.png -crop 29x27+132+0 maximize-pressed.xpm
-convert buttons-pressed.png -crop 29x27+103+0 shade-pressed.xpm
-convert buttons-pressed.png -crop 31x27+72+0 hide-pressed.xpm
-convert buttons-pressed.png -crop 33x27+39+0 stick-pressed.xpm
-convert buttons-pressed.png -crop 37x27+2+0 menu-pressed.xpm
+convert buttons-pressed.png -crop $((button_w +  9))x$((button_h + 14))+$((src_w - button_w   - 11))+0 close-pressed.xpm
+convert buttons-pressed.png -crop $((button_w + 10))x$((button_h + 14))+$((src_w - button_w*2 - 21))+0 maximize-toggled-pressed.xpm
+convert buttons-pressed.png -crop $((button_w + 10))x$((button_h + 14))+$((src_w - button_w*3 - 31))+0 maximize-pressed.xpm
+convert buttons-pressed.png -crop $((button_w + 10))x$((button_h + 14))+$((src_w - button_w*4 - 41))+0 shade-pressed.xpm
+convert buttons-pressed.png -crop $((button_w + 12))x$((button_h + 14))+$((src_w - button_w*5 - 53))+0 hide-pressed.xpm
+convert buttons-pressed.png -crop $((button_w + 14))x$((button_h + 14))+$((src_w - button_w*6 - 67))+0 stick-pressed.xpm
+convert buttons-pressed.png -crop $((button_w +  9))x$((button_h + 11))+$((                      2))+2 menu-pressed.xpm
 
 ln -sv stick-pressed.xpm stick-toggled-active.xpm
 ln -sv stick-pressed.xpm stick-toggled-prelight.xpm

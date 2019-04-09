@@ -106,7 +106,7 @@
      id="layer1"
      transform="translate(-167.5,213.13782)">
     <rect
-       style="opacity:1;vector-effect:none;fill:#aaaaaa;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       style="opacity:1;vector-effect:none;fill:#bbbbbb;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        id="rect4571"
        width="3"
        height="10.999997"
@@ -126,7 +126,7 @@
          id="path4526"
          transform="translate(167.5,-213.13782)"
          d="m 240,-3 a 84,84 0 0 0 -84,84 84,84 0 0 0 84,84 84,84 0 0 0 84,-84 84,84 0 0 0 -84,-84 z m 0,2 a 82,82 0 0 1 82,82 82,82 0 0 1 -82,82 82,82 0 0 1 -82,-82 82,82 0 0 1 82,-82 z"
-         style="opacity:1;vector-effect:none;fill:#aaaaaa;fill-opacity:0.8;stroke:none;stroke-width:0.79739517;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         style="opacity:1;vector-effect:none;fill:#bbbbbb;fill-opacity:0.8;stroke:none;stroke-width:0.79739517;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          inkscape:connector-curvature="0" />
       <path
          inkscape:connector-curvature="0"
@@ -233,11 +233,11 @@
     <g
        transform="translate(25.646298,-27.279689)"
        id="MinuteHand"
-       style="fill:#aaaaaa;fill-opacity:1"
+       style="fill:#bbbbbb;fill-opacity:1"
        inkscape:label="#g4179">
       <circle
          id="path4143"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#aaaaaa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25;marker:none;enable-background:accumulate"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bbbbbb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25;marker:none;enable-background:accumulate"
          cx="225.8537"
          cy="-101.85813"
          r="2.5" />
@@ -247,7 +247,7 @@
          height="66"
          width="3"
          id="rect3373"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#aaaaaa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.34248114;marker:none;enable-background:accumulate" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bbbbbb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.34248114;marker:none;enable-background:accumulate" />
     </g>
     <g
        inkscape:label="#g4179"
@@ -271,18 +271,18 @@
     </g>
     <g
        inkscape:label="#g4179"
-       style="fill:#aaaaaa;fill-opacity:1"
+       style="fill:#bbbbbb;fill-opacity:1"
        id="HourHand"
        transform="translate(34.646301,-27.279689)">
       <ellipse
          cy="-101.85813"
          cx="225.8537"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#aaaaaa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;enable-background:accumulate"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bbbbbb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;enable-background:accumulate"
          id="circle4823"
          rx="3"
          ry="2.9999998" />
       <rect
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#aaaaaa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.09413052;marker:none;enable-background:accumulate"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bbbbbb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.09413052;marker:none;enable-background:accumulate"
          id="rect4825"
          width="4"
          height="44"

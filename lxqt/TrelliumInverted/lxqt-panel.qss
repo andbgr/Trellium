@@ -13,7 +13,7 @@ LXQtPanel[position="Right"] #BackgroundWidget {
 
 LXQtPanel[position="Right"] Plugin > QToolButton,
 LXQtPanel[position="Right"] Plugin > QWidget > QToolButton {
-	color: #aaaaaa;
+	color: #bbbbbb;
         margin: 0px;
         margin-right: 1px;
         margin-left: 1px;
@@ -94,7 +94,7 @@ LXQtPanel[position="Right"] LXQtGroupPopup {
 
 
 LXQtPanel[position="Right"] LXQtGroupPopup > QToolButton {
-	color: #aaaaaa;
+	color: #bbbbbb;
 	margin: 0px;
 	border: 7px;
 	border-image: url(button.svg) 7 7 7 7 stretch stretch;
@@ -162,7 +162,7 @@ LXQtPanel[position="Right"] #SysStat > QLabel {
 
 LXQtPanel[position="Right"] #SysStat_Graph {
 	qproperty-gridColor: #00000000;
-	qproperty-titleColor: #aaaaaa;
+	qproperty-titleColor: #bbbbbb;
 	qproperty-cpuSystemColor: #119999;
 	qproperty-cpuUserColor: #4444bb;
 	qproperty-cpuNiceColor: 808080;
@@ -188,7 +188,7 @@ LXQtPanel[position="Right"] #WorldClockPlugin {
 LXQtPanel[position="Right"] #Clock QLabel,
 LXQtPanel[position="Right"] #WorldClock QLabel {
 	margin-right: 1px;
-	color: #aaaaaa;
+	color: #bbbbbb;
 }
 
 
@@ -236,7 +236,7 @@ LXQtPanel[position="Bottom"] #BackgroundWidget {
 
 LXQtPanel[position="Bottom"] Plugin > QToolButton,
 LXQtPanel[position="Bottom"] Plugin > QWidget > QToolButton {
-	color: #aaaaaa;
+	color: #bbbbbb;
         margin: 0px;
         margin-bottom: 1px;
         margin-top: 1px;
@@ -317,7 +317,7 @@ LXQtPanel[position="Bottom"] LXQtGroupPopup {
 
 
 LXQtPanel[position="Bottom"] LXQtGroupPopup > QToolButton {
-	color: #aaaaaa;
+	color: #bbbbbb;
 	margin: 0px;
 	border: 7px;
 	border-image: url(button.svg) 7 7 7 7 stretch stretch;
@@ -385,7 +385,7 @@ LXQtPanel[position="Bottom"] #SysStat > QLabel {
 
 LXQtPanel[position="Bottom"] #SysStat_Graph {
 	qproperty-gridColor: #00000000;
-	qproperty-titleColor: #aaaaaa;
+	qproperty-titleColor: #bbbbbb;
 	qproperty-cpuSystemColor: #119999;
 	qproperty-cpuUserColor: #4444bb;
 	qproperty-cpuNiceColor: 808080;
@@ -411,7 +411,7 @@ LXQtPanel[position="Bottom"] #WorldClockPlugin {
 LXQtPanel[position="Bottom"] #Clock QLabel,
 LXQtPanel[position="Bottom"] #WorldClock QLabel {
 	margin-bottom: 1px;
-	color: #aaaaaa;
+	color: #bbbbbb;
 }
 
 
@@ -459,7 +459,7 @@ LXQtPanel[position="Left"] #BackgroundWidget {
 
 LXQtPanel[position="Left"] Plugin > QToolButton,
 LXQtPanel[position="Left"] Plugin > QWidget > QToolButton {
-	color: #aaaaaa;
+	color: #bbbbbb;
         margin: 0px;
         margin-left: 1px;
         margin-right: 1px;
@@ -540,7 +540,7 @@ LXQtPanel[position="Left"] LXQtGroupPopup {
 
 
 LXQtPanel[position="Left"] LXQtGroupPopup > QToolButton {
-	color: #aaaaaa;
+	color: #bbbbbb;
 	margin: 0px;
 	border: 7px;
 	border-image: url(button.svg) 7 7 7 7 stretch stretch;
@@ -608,7 +608,7 @@ LXQtPanel[position="Left"] #SysStat > QLabel {
 
 LXQtPanel[position="Left"] #SysStat_Graph {
 	qproperty-gridColor: #00000000;
-	qproperty-titleColor: #aaaaaa;
+	qproperty-titleColor: #bbbbbb;
 	qproperty-cpuSystemColor: #119999;
 	qproperty-cpuUserColor: #4444bb;
 	qproperty-cpuNiceColor: 808080;
@@ -634,7 +634,7 @@ LXQtPanel[position="Left"] #WorldClockPlugin {
 LXQtPanel[position="Left"] #Clock QLabel,
 LXQtPanel[position="Left"] #WorldClock QLabel {
 	margin-left: 1px;
-	color: #aaaaaa;
+	color: #bbbbbb;
 }
 
 
@@ -682,7 +682,7 @@ LXQtPanel[position="Top"] #BackgroundWidget {
 
 LXQtPanel[position="Top"] Plugin > QToolButton,
 LXQtPanel[position="Top"] Plugin > QWidget > QToolButton {
-	color: #aaaaaa;
+	color: #bbbbbb;
         margin: 0px;
         margin-top: 1px;
         margin-bottom: 1px;
@@ -763,7 +763,7 @@ LXQtPanel[position="Top"] LXQtGroupPopup {
 
 
 LXQtPanel[position="Top"] LXQtGroupPopup > QToolButton {
-	color: #aaaaaa;
+	color: #bbbbbb;
 	margin: 0px;
 	border: 7px;
 	border-image: url(button.svg) 7 7 7 7 stretch stretch;
@@ -831,7 +831,7 @@ LXQtPanel[position="Top"] #SysStat > QLabel {
 
 LXQtPanel[position="Top"] #SysStat_Graph {
 	qproperty-gridColor: #00000000;
-	qproperty-titleColor: #aaaaaa;
+	qproperty-titleColor: #bbbbbb;
 	qproperty-cpuSystemColor: #119999;
 	qproperty-cpuUserColor: #4444bb;
 	qproperty-cpuNiceColor: 808080;
@@ -857,7 +857,7 @@ LXQtPanel[position="Top"] #WorldClockPlugin {
 LXQtPanel[position="Top"] #Clock QLabel,
 LXQtPanel[position="Top"] #WorldClock QLabel {
 	margin-top: 1px;
-	color: #aaaaaa;
+	color: #bbbbbb;
 }
 
 
