@@ -1,6 +1,6 @@
 [Colors:Button]
-BackgroundAlternate=140,140,143
-BackgroundNormal=140,140,143
+BackgroundAlternate=156,156,159
+BackgroundNormal=156,156,159
 DecorationFocus=68,68,187
 DecorationHover=68,68,187
 ForegroundActive=255,128,224
@@ -27,8 +27,8 @@ ForegroundPositive=128,255,128
 ForegroundVisited=85,26,139
 
 [Colors:Tooltip]
-BackgroundAlternate=231,231,231
-BackgroundNormal=231,231,231
+BackgroundAlternate=238,238,238
+BackgroundNormal=238,238,238
 DecorationFocus=68,68,187
 DecorationHover=68,68,187
 ForegroundActive=255,128,224
@@ -41,8 +41,8 @@ ForegroundPositive=0,110,40
 ForegroundVisited=85,26,139
 
 [Colors:View]
-BackgroundAlternate=231,231,231
-BackgroundNormal=231,231,231
+BackgroundAlternate=238,238,238
+BackgroundNormal=238,238,238
 DecorationFocus=68,68,187
 DecorationHover=68,68,187
 ForegroundActive=255,128,224
@@ -55,8 +55,8 @@ ForegroundPositive=0,110,40
 ForegroundVisited=85,26,139
 
 [Colors:Window]
-BackgroundAlternate=140,140,143
-BackgroundNormal=140,140,143
+BackgroundAlternate=156,156,159
+BackgroundNormal=156,156,159
 DecorationFocus=68,68,187
 DecorationHover=68,68,187
 ForegroundActive=255,128,224
@@ -72,9 +72,9 @@ ForegroundVisited=85,26,139
 Name=Trellium Solid
 
 [WM]
-activeBackground=140,140,143
+activeBackground=156,156,159
 activeBlend=0,0,0
 activeForeground=0,0,0
-inactiveBackground=140,140,143
+inactiveBackground=156,156,159
 inactiveBlend=0,0,0
 inactiveForeground=0,0,0

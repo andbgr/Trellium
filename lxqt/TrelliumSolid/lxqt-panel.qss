@@ -169,8 +169,8 @@ LXQtPanel[position="Right"] #SysStat_Graph {
 	qproperty-cpuOtherColor: #bb2222;
 	qproperty-frequencyColor: #22bb22;
 	qproperty-memAppsColor: #4444bb;
-	qproperty-memBuffersColor: #8c8c8f;
-	qproperty-memCachedColor: #8c8c8f;
+	qproperty-memBuffersColor: #9c9c9f;
+	qproperty-memCachedColor: #9c9c9f;
 	qproperty-swapUsedColor: #bb2222;
 	qproperty-netReceivedColor: #4444bb;
 	qproperty-netTransmittedColor: #bb2222;
@@ -392,8 +392,8 @@ LXQtPanel[position="Bottom"] #SysStat_Graph {
 	qproperty-cpuOtherColor: #bb2222;
 	qproperty-frequencyColor: #22bb22;
 	qproperty-memAppsColor: #4444bb;
-	qproperty-memBuffersColor: #8c8c8f;
-	qproperty-memCachedColor: #8c8c8f;
+	qproperty-memBuffersColor: #9c9c9f;
+	qproperty-memCachedColor: #9c9c9f;
 	qproperty-swapUsedColor: #bb2222;
 	qproperty-netReceivedColor: #4444bb;
 	qproperty-netTransmittedColor: #bb2222;
@@ -615,8 +615,8 @@ LXQtPanel[position="Left"] #SysStat_Graph {
 	qproperty-cpuOtherColor: #bb2222;
 	qproperty-frequencyColor: #22bb22;
 	qproperty-memAppsColor: #4444bb;
-	qproperty-memBuffersColor: #8c8c8f;
-	qproperty-memCachedColor: #8c8c8f;
+	qproperty-memBuffersColor: #9c9c9f;
+	qproperty-memCachedColor: #9c9c9f;
 	qproperty-swapUsedColor: #bb2222;
 	qproperty-netReceivedColor: #4444bb;
 	qproperty-netTransmittedColor: #bb2222;
@@ -838,8 +838,8 @@ LXQtPanel[position="Top"] #SysStat_Graph {
 	qproperty-cpuOtherColor: #bb2222;
 	qproperty-frequencyColor: #22bb22;
 	qproperty-memAppsColor: #4444bb;
-	qproperty-memBuffersColor: #8c8c8f;
-	qproperty-memCachedColor: #8c8c8f;
+	qproperty-memBuffersColor: #9c9c9f;
+	qproperty-memCachedColor: #9c9c9f;
 	qproperty-swapUsedColor: #bb2222;
 	qproperty-netReceivedColor: #4444bb;
 	qproperty-netTransmittedColor: #bb2222;
