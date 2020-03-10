@@ -1,20 +1,22 @@
 /* XPM */
 static char *bottom_right_active[] = {
 /* columns rows colors chars-per-pixel */
-"6 6 8 1 ",
-"  c #181818",
-". c #1B1B1B",
-"X c #1D1D1D",
-"o c gray16",
-"O c #2F2F2F",
-"+ c gray22",
-"@ c #393939",
-"# c None",
+"6 6 10 1 ",
+"  c black",
+". c #010101",
+"X c #020202",
+"o c #060606",
+"O c gray6",
+"+ c #131313",
+"@ c gray11",
+"# c #272727",
+"$ c #282828",
+"% c None",
 /* pixels */
-"  .@ #",
-"  oO #",
-".o+X##",
-"@OX###",
-"  ####",
-"######"
+"OO+$X ",
+"OO@@. ",
+"+@#o.%",
+"$@o. %",
+"X.. %%",
+"  %%%%"
 };

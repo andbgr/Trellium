@@ -61,7 +61,7 @@ done
 
 for i in ${!colors_source[@]}; do
 	hexalpha=$(printf %02x $(bc <<< "(255 * ${alpha[$i]} + 0.5) / 1"))
-	sed -i "s/${colors_source[$i]}\$/${colors_theme[$i]}$hexalpha/" $name.kvconfig
+	sed -i "s/${colors_source[$i]}ff/${colors_theme[$i]}$hexalpha/" $name.kvconfig
 	sed -i "s/${colors_source[$i]}/${colors_theme[$i]}/" $name.kvconfig
 done
 

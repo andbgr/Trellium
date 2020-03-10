@@ -10,6 +10,7 @@ bold_active_tab=false
 group_toolbar_buttons=false
 toolbar_item_spacing=2
 center_toolbar_handle=true
+group_toolbar_buttons=true
 spread_header=true
 composite=true
 menu_separator_height=2
@@ -31,25 +32,25 @@ layout_spacing=2
 layout_margin=2
 
 [GeneralColors]
-window.color=#181818cc
-base.color=#000000aa
+window.color=#e0e0e0d9
+base.color=#00000099
 alt.base.color=#00000000
-button.color=#181818cc
-light.color=#00000000
-mid.light.color=#00000000
-mid.color=#00000000
-dark.color=#00000000
+button.color=#e0e0e0d9
+light.color=#000000d9
+mid.light.color=#000000d9
+mid.color=#000000d9
+dark.color=#000000d9
 highlight.color=#4444bbff
 inactive.highlight.color=#4444bb80
-tooltip.base.color=#000000aa
-text.color=#aaaaaaff
-window.text.color=#aaaaaaff
-button.text.color=#aaaaaaff
-disabled.text.color=#aaaaaa80
-tooltip.text.color=#aaaaaaff
-highlight.text.color=#000000ff
-progress.indicator.text.color=#000000ff
-progress.inactive.indicator.text.color=#000000ff
+tooltip.base.color=#00000099
+text.color=#e0e0e0
+window.text.color=#e0e0e0
+button.text.color=#e0e0e0
+disabled.text.color=#e0e0e080
+tooltip.text.color=#e0e0e0
+highlight.text.color=#000000
+progress.indicator.text.color=#000000
+progress.inactive.indicator.text.color=#000000
 
 [Hacks]
 transparent_pcmanfm_sidepane=true
@@ -133,10 +134,10 @@ inherits=PanelButtonCommand
 
 [ToolboxTab]
 inherits=PanelButtonCommand
-text.normal.color=#aaaaaaff
-text.focus.color=#aaaaaaff
-text.press.color=#aaaaaaff
-text.toggle.color=#aaaaaaff
+text.normal.color=#e0e0e0
+text.focus.color=#e0e0e0
+text.press.color=#e0e0e0
+text.toggle.color=#e0e0e0
 
 [Tab]
 inherits=PanelButtonCommand
@@ -163,7 +164,7 @@ interior.element=tabframe
 inherits=PanelButtonCommand
 frame=true
 frame.top=0
-frame.bottom=3
+frame.bottom=2
 frame.left=0
 frame.right=0
 frame.element=tabbarframe
@@ -188,7 +189,7 @@ indicator.element=sizegrip
 
 [Toolbar]
 inherits=PanelButtonCommand
-text.normal.color=#aaaaaaff
+text.normal.color=#e0e0e0
 frame.top=0
 frame.bottom=1
 frame.left=1
@@ -242,8 +243,8 @@ interior.element=progress-pattern
 inherits=PanelButtonCommand
 text.margin=0
 frame=false
-text.press.color=#000000ff
-text.toggle.color=#000000ff
+text.press.color=#000000
+text.toggle.color=#000000
 interior.element=itemview
 
 [Splitter]
@@ -297,8 +298,8 @@ frame.top=7
 frame.bottom=7
 frame.left=7
 frame.right=7
-text.normal.color=#aaaaaaff
-text.focus.color=#aaaaaaff
+text.normal.color=#e0e0e0
+text.focus.color=#e0e0e0
 
 [ToolTip]
 inherits=PanelButtonCommand

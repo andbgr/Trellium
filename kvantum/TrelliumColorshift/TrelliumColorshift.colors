@@ -1,6 +1,6 @@
 [Colors:Button]
-BackgroundAlternate=204,204,204
-BackgroundNormal=204,204,204
+BackgroundAlternate=247,247,247
+BackgroundNormal=247,247,247
 DecorationFocus=68,68,187
 DecorationHover=68,68,187
 ForegroundActive=255,128,224
@@ -27,8 +27,8 @@ ForegroundPositive=128,255,128
 ForegroundVisited=85,26,139
 
 [Colors:Tooltip]
-BackgroundAlternate=238,238,238
-BackgroundNormal=238,238,238
+BackgroundAlternate=255,255,255
+BackgroundNormal=255,255,255
 DecorationFocus=68,68,187
 DecorationHover=68,68,187
 ForegroundActive=255,128,224
@@ -41,8 +41,8 @@ ForegroundPositive=0,110,40
 ForegroundVisited=85,26,139
 
 [Colors:View]
-BackgroundAlternate=238,238,238
-BackgroundNormal=238,238,238
+BackgroundAlternate=255,255,255
+BackgroundNormal=255,255,255
 DecorationFocus=68,68,187
 DecorationHover=68,68,187
 ForegroundActive=255,128,224
@@ -55,8 +55,8 @@ ForegroundPositive=0,110,40
 ForegroundVisited=85,26,139
 
 [Colors:Window]
-BackgroundAlternate=204,204,204
-BackgroundNormal=204,204,204
+BackgroundAlternate=247,247,247
+BackgroundNormal=247,247,247
 DecorationFocus=68,68,187
 DecorationHover=68,68,187
 ForegroundActive=255,128,224
@@ -72,9 +72,9 @@ ForegroundVisited=85,26,139
 Name=Trellium Colorshift
 
 [WM]
-activeBackground=204,204,204
+activeBackground=247,247,247
 activeBlend=0,0,0
 activeForeground=0,0,0
-inactiveBackground=204,204,204
+inactiveBackground=247,247,247
 inactiveBlend=0,0,0
 inactiveForeground=0,0,0

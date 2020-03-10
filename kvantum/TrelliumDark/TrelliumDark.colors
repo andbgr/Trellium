@@ -1,6 +1,6 @@
 [Colors:Button]
-BackgroundAlternate=24,24,24
-BackgroundNormal=24,24,24
+BackgroundAlternate=224,224,224
+BackgroundNormal=224,224,224
 DecorationFocus=68,68,187
 DecorationHover=68,68,187
 ForegroundActive=255,128,224
@@ -8,7 +8,7 @@ ForegroundInactive=127,127,127
 ForegroundLink=0,0,238
 ForegroundNegative=191,3,3
 ForegroundNeutral=176,128,0
-ForegroundNormal=170,170,170
+ForegroundNormal=224,224,224
 ForegroundPositive=0,110,40
 ForegroundVisited=85,26,139
 
@@ -36,7 +36,7 @@ ForegroundInactive=127,127,127
 ForegroundLink=0,0,238
 ForegroundNegative=191,3,3
 ForegroundNeutral=176,128,0
-ForegroundNormal=170,170,170
+ForegroundNormal=224,224,224
 ForegroundPositive=0,110,40
 ForegroundVisited=85,26,139
 
@@ -50,13 +50,13 @@ ForegroundInactive=127,127,127
 ForegroundLink=0,0,238
 ForegroundNegative=191,3,3
 ForegroundNeutral=176,128,0
-ForegroundNormal=170,170,170
+ForegroundNormal=224,224,224
 ForegroundPositive=0,110,40
 ForegroundVisited=85,26,139
 
 [Colors:Window]
-BackgroundAlternate=24,24,24
-BackgroundNormal=24,24,24
+BackgroundAlternate=224,224,224
+BackgroundNormal=224,224,224
 DecorationFocus=68,68,187
 DecorationHover=68,68,187
 ForegroundActive=255,128,224
@@ -64,7 +64,7 @@ ForegroundInactive=127,127,127
 ForegroundLink=0,0,238
 ForegroundNegative=191,3,3
 ForegroundNeutral=176,128,0
-ForegroundNormal=170,170,170
+ForegroundNormal=224,224,224
 ForegroundPositive=0,110,40
 ForegroundVisited=85,26,139
 
@@ -72,9 +72,9 @@ ForegroundVisited=85,26,139
 Name=Trellium Dark
 
 [WM]
-activeBackground=24,24,24
-activeBlend=170,170,170
-activeForeground=170,170,170
-inactiveBackground=24,24,24
-inactiveBlend=170,170,170
-inactiveForeground=170,170,170
+activeBackground=224,224,224
+activeBlend=224,224,224
+activeForeground=224,224,224
+inactiveBackground=224,224,224
+inactiveBlend=224,224,224
+inactiveForeground=224,224,224

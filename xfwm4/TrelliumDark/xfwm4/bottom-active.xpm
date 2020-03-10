@@ -1,15 +1,16 @@
 /* XPM */
 static char *bottom_active[] = {
 /* columns rows colors chars-per-pixel */
-"1 6 3 1 ",
-"  c #181818",
-". c #3C3C3C",
-"X c None",
+"1 6 4 1 ",
+"  c black",
+". c #020202",
+"X c gray6",
+"o c gray17",
 /* pixels */
-" ",
-" ",
-" ",
+"X",
+"X",
+"X",
+"o",
 ".",
-" ",
-"X"
+" "
 };
