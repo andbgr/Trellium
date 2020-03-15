@@ -1,7 +1,7 @@
 selection	#4444bb	1
 bg		#101010	0.85
 bg-border	#000000	0.85
-bg-topleft	#ffffff	0.45
+bg-topleft	#ffffff	0.4
 bg-bottomright	#ffffff	0.1
 bg-hover	#ffffff	0.1
 bg-pressed	#000000	1

@@ -5,7 +5,7 @@ static char *title_1_active[] = {
 "  c black",
 ". c #020202",
 "X c gray6",
-"o c gray52",
+"o c #797979",
 /* pixels */
 " ",
 ".",

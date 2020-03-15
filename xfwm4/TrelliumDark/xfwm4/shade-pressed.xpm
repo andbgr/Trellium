@@ -9,7 +9,7 @@ static char *shade_pressed[] = {
 "O c DimGray",
 "+ c gray44",
 "@ c #777777",
-"# c gray52",
+"# c #797979",
 "$ c #A9A9A9",
 "% c gray88",
 /* pixels */

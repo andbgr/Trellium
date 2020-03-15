@@ -67,13 +67,13 @@
      height="5"
      width="5"
      id="button-normal-3-9-9"
-     style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.15;stroke:none;stroke-width:0.31326237;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+     style="opacity:1;vector-effect:none;fill:#4444bb;fill-opacity:0.25;stroke:none;stroke-width:0.31326237;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
      inkscape:label="#button-normal-center" />
   <g
      transform="translate(-1,-30.999996)"
      id="button-normal-topleft-5-4-7">
     <rect
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.15;stroke:none;stroke-width:0.31326237;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       style="opacity:1;vector-effect:none;fill:#4444bb;fill-opacity:0.25;stroke:none;stroke-width:0.31326237;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        id="rect4780-3-5-8-7"
        width="2"
        height="1.9999999"
@@ -98,7 +98,7 @@
      transform="translate(-9,-31)"
      id="button-normal-topright-6-8-0">
     <rect
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.15;stroke:none;stroke-width:0.31326237;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       style="opacity:1;vector-effect:none;fill:#4444bb;fill-opacity:0.25;stroke:none;stroke-width:0.31326237;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        id="rect4780-3-54-5-9"
        width="2"
        height="1.999998"
@@ -123,7 +123,7 @@
      transform="translate(-1,-38.999996)"
      id="button-normal-bottomleft-7-4-9">
     <rect
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.15;stroke:none;stroke-width:0.31326237;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       style="opacity:1;vector-effect:none;fill:#4444bb;fill-opacity:0.25;stroke:none;stroke-width:0.31326237;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        id="rect4780-3-7-8-2"
        width="2"
        height="2.0000019"
@@ -148,7 +148,7 @@
      transform="translate(-9,-38.999996)"
      id="button-normal-bottomright-5-1-2">
     <rect
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.15;stroke:none;stroke-width:0.31326237;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       style="opacity:1;vector-effect:none;fill:#4444bb;fill-opacity:0.25;stroke:none;stroke-width:0.31326237;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        id="rect4780-3-6-7-8"
        width="2"
        height="2.0000019"
@@ -173,7 +173,7 @@
      transform="translate(-5,-31)"
      id="button-normal-top-97-7-2">
     <rect
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.15;stroke:none;stroke-width:0.31326237;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       style="opacity:1;vector-effect:none;fill:#4444bb;fill-opacity:0.25;stroke:none;stroke-width:0.31326237;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        id="rect4780-3-41-1"
        width="5"
        height="2"
@@ -191,7 +191,7 @@
      transform="translate(-5,-39)"
      id="button-normal-bottom-1-5-1">
     <rect
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.15;stroke:none;stroke-width:0.31326237;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       style="opacity:1;vector-effect:none;fill:#4444bb;fill-opacity:0.25;stroke:none;stroke-width:0.31326237;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        id="rect4780-7-9-3-0"
        width="5"
        height="2.0000019"
@@ -209,7 +209,7 @@
      transform="translate(-1,-35)"
      id="button-normal-left-4-8-6">
     <rect
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.15;stroke:none;stroke-width:0.31326237;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       style="opacity:1;vector-effect:none;fill:#4444bb;fill-opacity:0.25;stroke:none;stroke-width:0.31326237;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        id="rect4780-2-5-96-4"
        width="2"
        height="5"
@@ -227,7 +227,7 @@
      transform="translate(-9,-35)"
      id="button-normal-right-6-6-8">
     <rect
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.15;stroke:none;stroke-width:0.31326237;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       style="opacity:1;vector-effect:none;fill:#4444bb;fill-opacity:0.25;stroke:none;stroke-width:0.31326237;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        id="rect4780-9-3-04-6"
        width="2"
        height="5"
