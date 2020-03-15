@@ -1,0 +1,25 @@
+/* XPM */
+static char *bottom_right_active[] = {
+/* columns rows colors chars-per-pixel */
+"6 6 13 1 ",
+"  c gray6",
+". c #0E0E1A",
+"X c #0D0D43",
+"o c #0E0D74",
+"O c #0D0C77",
+"+ c #24206F",
+"@ c #685875",
+"# c #7B687B",
+"$ c #7C687C",
+"% c #8A758A",
+"& c #A086A0",
+"* c #BD9EBD",
+"= c None",
+/* pixels */
+"  .O$=",
+"  X+%=",
+".Xo@*=",
+"O+@&==",
+"#%*===",
+"======"
+};
