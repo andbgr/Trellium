@@ -54,6 +54,8 @@ progress.inactive.indicator.text.color=#ffffff
 
 [Hacks]
 transparent_pcmanfm_sidepane=true
+transparent_dolphin_view=false
+transparent_pcmanfm_view=false
 blur_konsole=true
 transparent_ktitle_label=true
 transparent_menutitle=true

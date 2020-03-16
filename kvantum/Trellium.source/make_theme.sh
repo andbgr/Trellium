@@ -82,6 +82,12 @@ for file in *.svg; do
 	done
 done
 
-rm -v colors* *.sh
+if [ -e "hacks.$colorscheme" ]; then
+	cat "hacks.$colorscheme" | while read i; do
+		sed -i "/^$(echo $i | cut -d= -f1)=/s/^.*\$/$i/" $name.kvconfig
+	done
+fi
+
+rm -v colors* hacks.* *.sh
 
 cd -
