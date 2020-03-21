@@ -49,8 +49,8 @@ for file in *.svg; do
 done
 
 
-button_w=25
-button_h=17
+button_w=27
+button_h=18
 src_w=$(identify -format '%w' buttons.png)
 
 convert decoration.png -crop 6x$((button_h + 14))+0+0 top-left-active.xpm

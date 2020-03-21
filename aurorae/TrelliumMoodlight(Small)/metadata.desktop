@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Trellium Moodlight (Small)
+
+X-KDE-PluginInfo-Author=Andi Berger
+X-KDE-PluginInfo-Email=andi.berger@yandex.com
+X-KDE-PluginInfo-Name=TrelliumMoodlight(Small)
+X-KDE-PluginInfo-Version=0.4
+X-KDE-PluginInfo-Depends=KDE 5.8.6
+X-KDE-PluginInfo-License=GPLv3

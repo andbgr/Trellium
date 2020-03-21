@@ -1,8 +1,8 @@
 /* XPM */
 static char *title_1_active[] = {
 /* columns rows colors chars-per-pixel */
-"1 31 4 1 ",
-"  c black",
+"1 32 4 1 ",
+"  c #202020",
 ". c #2A2A2B",
 "X c #A8A8AA",
 "o c #E9E9EA",
@@ -10,6 +10,7 @@ static char *title_1_active[] = {
 " ",
 ".",
 "o",
+"X",
 "X",
 "X",
 "X",
