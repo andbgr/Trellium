@@ -67,7 +67,7 @@
         color:#000000;
       }
       .ColorScheme-Background {
-        color:#dfdfdf;
+        color:#e8e8e8;
       }
       .ColorScheme-Highlight {
         color:#4444bb;
@@ -88,7 +88,7 @@
         color:#000000;
       }
       .ColorScheme-ButtonBackground {
-        color:#dfdfdf;
+        color:#e8e8e8;
       }
       .ColorScheme-ButtonHover {
         color:#8ecbe9;

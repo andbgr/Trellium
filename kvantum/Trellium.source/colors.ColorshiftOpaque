@@ -1,6 +1,6 @@
 selection	#4444bb	1
-bg		#dfdfdf	1
-bg-border	#5b5b5b	1
+bg		#e8e8e8	1
+bg-border	#5e5e5e	1
 bg-topleft	#aaffff	0.6
 bg-bottomright	#ffaaaa	0.6
 bg-hover	#ffffff	0.4
