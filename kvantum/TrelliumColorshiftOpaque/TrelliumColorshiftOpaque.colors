@@ -1,6 +1,6 @@
 [Colors:Button]
-BackgroundAlternate=235,235,235
-BackgroundNormal=235,235,235
+BackgroundAlternate=236,236,236
+BackgroundNormal=236,236,236
 DecorationFocus=68,68,187
 DecorationHover=68,68,187
 ForegroundActive=255,128,224
@@ -55,8 +55,8 @@ ForegroundPositive=0,110,40
 ForegroundVisited=85,26,139
 
 [Colors:Window]
-BackgroundAlternate=235,235,235
-BackgroundNormal=235,235,235
+BackgroundAlternate=236,236,236
+BackgroundNormal=236,236,236
 DecorationFocus=68,68,187
 DecorationHover=68,68,187
 ForegroundActive=255,128,224
@@ -72,9 +72,9 @@ ForegroundVisited=85,26,139
 Name=Trellium ColorshiftOpaque
 
 [WM]
-activeBackground=235,235,235
+activeBackground=236,236,236
 activeBlend=0,0,0
 activeForeground=0,0,0
-inactiveBackground=235,235,235
+inactiveBackground=236,236,236
 inactiveBlend=0,0,0
 inactiveForeground=0,0,0
