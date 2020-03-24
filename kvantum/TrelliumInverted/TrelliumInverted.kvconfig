@@ -63,7 +63,6 @@ kcapacitybar_as_progressbar=true
 respect_darkness=true
 force_size_grip=false
 normal_default_pushbutton=true
-lxqtmainmenu_iconsize=32
 
 [PanelButtonCommand]
 frame.top=4
