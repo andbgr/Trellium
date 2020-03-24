@@ -10,15 +10,8 @@ LXQtPanel[position="Right"] #BackgroundWidget {
 
 
 
-LXQtPanel[position="Right"] Pluginasdf
-{
-	margin: 0px;
-	border: 2px;
-	border-right: 0px;
-	border-left: 1px;
-	padding: 0px;
-	padding-left: -1px;
-	border-image: url(segment-vertical.svg) 2 1 2 1 stretch stretch;
+LXQtPanel[position="Right"] Plugin > QWidget {
+	margin: 1px;
 }
 
 
@@ -39,7 +32,7 @@ LXQtPanel[position="Right"] #MainMenu:hover {
 LXQtPanel[position="Right"] Plugin > QToolButton,
 LXQtPanel[position="Right"] Plugin > QWidget > QToolButton {
 	color: #e0e0e0;
-        margin: 1px;
+	margin: 1px;
 	border: 0px;
         padding: 4px;
 }
@@ -59,14 +52,18 @@ LXQtPanel[position="Right"] Plugin > QWidget > QToolButton:pressed {
 
 
 
+LXQtPanel[position="Right"] #QuickLaunch {
+	margin: 0px;
+}
+
+
+
 LXQtPanel[position="Right"] #TaskBar {
-	margin-top: 1px;
-	margin-bottom: 1px;
+	margin-left: 0px;
 }
 
 LXQtPanel[position="Right"] #TaskBar > QToolButton {
 	margin: 0px;
-	margin-right: 1px;
 	border: 7px;
 	border-left: 4px;
 	border-image: url(task-right.svg) 7 7 7 4 stretch stretch;
@@ -83,6 +80,10 @@ LXQtPanel[position="Right"] #TaskBar > QToolButton:on {
 LXQtPanel[position="Right"] #TaskBar > QToolButton[urgent=true] {
 	color: #000000;
 	border-image: url(task-right-attention.svg) 7 7 7 4 stretch stretch;
+}
+LXQtPanel[position="Right"] #TaskBar > QToolButton[urgent=true]:hover {
+	color: #000000;
+	border-image: url(task-right-attention-hover.svg) 7 7 7 4 stretch stretch;
 }
 
 
@@ -116,14 +117,15 @@ LXQtPanel[position="Right"] LXQtGroupPopup > QToolButton[urgent=true] {
 	color: #000000;
 	border-image: url(button-attention.svg) 7 7 7 7 stretch stretch;
 }
-
-
-
-
-LXQtPanel[position="Right"] #DesktopSwitchPlugin {
+LXQtPanel[position="Right"] LXQtGroupPopup > QToolButton[urgent=true]:hover {
+	color: #000000;
+	border-image: url(button-attention-hover.svg) 7 7 7 7 stretch stretch;
 }
+
+
+
+
 LXQtPanel[position="Right"] #DesktopSwitch {
-	margin: 1px;
 	border: 3px;
 	border-image: url(desktopswitch.svg) 3 3 3 3 stretch stretch;
 	padding: -1px;
@@ -147,7 +149,8 @@ LXQtPanel[position="Right"] #DesktopSwitch > QToolButton:on {
 
 
 
-LXQtPanel[position="Right"] #SysStatPlugin {
+LXQtPanel[position="Right"] #SysStatPlugin,
+LXQtPanel[position="Right"] #CpuLoadPlugin {
 	margin: 1px;
 	border: 3px;
 	border-image: url(sysstat.svg) 3 3 3 3 stretch stretch;
@@ -179,20 +182,9 @@ LXQtPanel[position="Right"] #SysStat_Graph {
 
 
 
-LXQtPanel[position="Right"] #ClockPlugin,
-LXQtPanel[position="Right"] #WorldClockPlugin {
-}
-
-
 LXQtPanel[position="Right"] #Clock QLabel,
 LXQtPanel[position="Right"] #WorldClock QLabel {
-	margin-right: 1px;
 	color: #e0e0e0;
-}
-
-
-LXQtPanel[position="Right"] #Clock #TimeLabel {
-	font: bold;
 }
 
 
@@ -232,15 +224,8 @@ LXQtPanel[position="Bottom"] #BackgroundWidget {
 
 
 
-LXQtPanel[position="Bottom"] Pluginasdf
-{
-	margin: 0px;
-	border: 2px;
-	border-bottom: 0px;
-	border-top: 1px;
-	padding: 0px;
-	padding-top: -1px;
-	border-image: url(segment-horizontal.svg) 1 2 1 2 stretch stretch;
+LXQtPanel[position="Bottom"] Plugin > QWidget {
+	margin: 1px;
 }
 
 
@@ -261,7 +246,7 @@ LXQtPanel[position="Bottom"] #MainMenu:hover {
 LXQtPanel[position="Bottom"] Plugin > QToolButton,
 LXQtPanel[position="Bottom"] Plugin > QWidget > QToolButton {
 	color: #e0e0e0;
-        margin: 1px;
+	margin: 1px;
 	border: 0px;
         padding: 4px;
 }
@@ -281,14 +266,18 @@ LXQtPanel[position="Bottom"] Plugin > QWidget > QToolButton:pressed {
 
 
 
+LXQtPanel[position="Bottom"] #QuickLaunch {
+	margin: 0px;
+}
+
+
+
 LXQtPanel[position="Bottom"] #TaskBar {
-	margin-left: 1px;
-	margin-right: 1px;
+	margin-top: 0px;
 }
 
 LXQtPanel[position="Bottom"] #TaskBar > QToolButton {
 	margin: 0px;
-	margin-bottom: 1px;
 	border: 7px;
 	border-top: 4px;
 	border-image: url(task-bottom.svg) 4 7 7 7 stretch stretch;
@@ -305,6 +294,10 @@ LXQtPanel[position="Bottom"] #TaskBar > QToolButton:on {
 LXQtPanel[position="Bottom"] #TaskBar > QToolButton[urgent=true] {
 	color: #000000;
 	border-image: url(task-bottom-attention.svg) 4 7 7 7 stretch stretch;
+}
+LXQtPanel[position="Bottom"] #TaskBar > QToolButton[urgent=true]:hover {
+	color: #000000;
+	border-image: url(task-bottom-attention-hover.svg) 4 7 7 7 stretch stretch;
 }
 
 
@@ -338,14 +331,15 @@ LXQtPanel[position="Bottom"] LXQtGroupPopup > QToolButton[urgent=true] {
 	color: #000000;
 	border-image: url(button-attention.svg) 7 7 7 7 stretch stretch;
 }
-
-
-
-
-LXQtPanel[position="Bottom"] #DesktopSwitchPlugin {
+LXQtPanel[position="Bottom"] LXQtGroupPopup > QToolButton[urgent=true]:hover {
+	color: #000000;
+	border-image: url(button-attention-hover.svg) 7 7 7 7 stretch stretch;
 }
+
+
+
+
 LXQtPanel[position="Bottom"] #DesktopSwitch {
-	margin: 1px;
 	border: 3px;
 	border-image: url(desktopswitch.svg) 3 3 3 3 stretch stretch;
 	padding: -1px;
@@ -369,7 +363,8 @@ LXQtPanel[position="Bottom"] #DesktopSwitch > QToolButton:on {
 
 
 
-LXQtPanel[position="Bottom"] #SysStatPlugin {
+LXQtPanel[position="Bottom"] #SysStatPlugin,
+LXQtPanel[position="Bottom"] #CpuLoadPlugin {
 	margin: 1px;
 	border: 3px;
 	border-image: url(sysstat.svg) 3 3 3 3 stretch stretch;
@@ -401,20 +396,9 @@ LXQtPanel[position="Bottom"] #SysStat_Graph {
 
 
 
-LXQtPanel[position="Bottom"] #ClockPlugin,
-LXQtPanel[position="Bottom"] #WorldClockPlugin {
-}
-
-
 LXQtPanel[position="Bottom"] #Clock QLabel,
 LXQtPanel[position="Bottom"] #WorldClock QLabel {
-	margin-bottom: 1px;
 	color: #e0e0e0;
-}
-
-
-LXQtPanel[position="Bottom"] #Clock #TimeLabel {
-	font: bold;
 }
 
 
@@ -454,15 +438,8 @@ LXQtPanel[position="Left"] #BackgroundWidget {
 
 
 
-LXQtPanel[position="Left"] Pluginasdf
-{
-	margin: 0px;
-	border: 2px;
-	border-left: 0px;
-	border-right: 1px;
-	padding: 0px;
-	padding-right: -1px;
-	border-image: url(segment-vertical.svg) 2 1 2 1 stretch stretch;
+LXQtPanel[position="Left"] Plugin > QWidget {
+	margin: 1px;
 }
 
 
@@ -483,7 +460,7 @@ LXQtPanel[position="Left"] #MainMenu:hover {
 LXQtPanel[position="Left"] Plugin > QToolButton,
 LXQtPanel[position="Left"] Plugin > QWidget > QToolButton {
 	color: #e0e0e0;
-        margin: 1px;
+	margin: 1px;
 	border: 0px;
         padding: 4px;
 }
@@ -503,14 +480,18 @@ LXQtPanel[position="Left"] Plugin > QWidget > QToolButton:pressed {
 
 
 
+LXQtPanel[position="Left"] #QuickLaunch {
+	margin: 0px;
+}
+
+
+
 LXQtPanel[position="Left"] #TaskBar {
-	margin-top: 1px;
-	margin-bottom: 1px;
+	margin-right: 0px;
 }
 
 LXQtPanel[position="Left"] #TaskBar > QToolButton {
 	margin: 0px;
-	margin-left: 1px;
 	border: 7px;
 	border-right: 4px;
 	border-image: url(task-left.svg) 7 4 7 7 stretch stretch;
@@ -527,6 +508,10 @@ LXQtPanel[position="Left"] #TaskBar > QToolButton:on {
 LXQtPanel[position="Left"] #TaskBar > QToolButton[urgent=true] {
 	color: #000000;
 	border-image: url(task-left-attention.svg) 7 4 7 7 stretch stretch;
+}
+LXQtPanel[position="Left"] #TaskBar > QToolButton[urgent=true]:hover {
+	color: #000000;
+	border-image: url(task-left-attention-hover.svg) 7 4 7 7 stretch stretch;
 }
 
 
@@ -560,14 +545,15 @@ LXQtPanel[position="Left"] LXQtGroupPopup > QToolButton[urgent=true] {
 	color: #000000;
 	border-image: url(button-attention.svg) 7 7 7 7 stretch stretch;
 }
-
-
-
-
-LXQtPanel[position="Left"] #DesktopSwitchPlugin {
+LXQtPanel[position="Left"] LXQtGroupPopup > QToolButton[urgent=true]:hover {
+	color: #000000;
+	border-image: url(button-attention-hover.svg) 7 7 7 7 stretch stretch;
 }
+
+
+
+
 LXQtPanel[position="Left"] #DesktopSwitch {
-	margin: 1px;
 	border: 3px;
 	border-image: url(desktopswitch.svg) 3 3 3 3 stretch stretch;
 	padding: -1px;
@@ -591,7 +577,8 @@ LXQtPanel[position="Left"] #DesktopSwitch > QToolButton:on {
 
 
 
-LXQtPanel[position="Left"] #SysStatPlugin {
+LXQtPanel[position="Left"] #SysStatPlugin,
+LXQtPanel[position="Left"] #CpuLoadPlugin {
 	margin: 1px;
 	border: 3px;
 	border-image: url(sysstat.svg) 3 3 3 3 stretch stretch;
@@ -623,20 +610,9 @@ LXQtPanel[position="Left"] #SysStat_Graph {
 
 
 
-LXQtPanel[position="Left"] #ClockPlugin,
-LXQtPanel[position="Left"] #WorldClockPlugin {
-}
-
-
 LXQtPanel[position="Left"] #Clock QLabel,
 LXQtPanel[position="Left"] #WorldClock QLabel {
-	margin-left: 1px;
 	color: #e0e0e0;
-}
-
-
-LXQtPanel[position="Left"] #Clock #TimeLabel {
-	font: bold;
 }
 
 
@@ -676,15 +652,8 @@ LXQtPanel[position="Top"] #BackgroundWidget {
 
 
 
-LXQtPanel[position="Top"] Pluginasdf
-{
-	margin: 0px;
-	border: 2px;
-	border-top: 0px;
-	border-bottom: 1px;
-	padding: 0px;
-	padding-bottom: -1px;
-	border-image: url(segment-horizontal.svg) 1 2 1 2 stretch stretch;
+LXQtPanel[position="Top"] Plugin > QWidget {
+	margin: 1px;
 }
 
 
@@ -705,7 +674,7 @@ LXQtPanel[position="Top"] #MainMenu:hover {
 LXQtPanel[position="Top"] Plugin > QToolButton,
 LXQtPanel[position="Top"] Plugin > QWidget > QToolButton {
 	color: #e0e0e0;
-        margin: 1px;
+	margin: 1px;
 	border: 0px;
         padding: 4px;
 }
@@ -725,14 +694,18 @@ LXQtPanel[position="Top"] Plugin > QWidget > QToolButton:pressed {
 
 
 
+LXQtPanel[position="Top"] #QuickLaunch {
+	margin: 0px;
+}
+
+
+
 LXQtPanel[position="Top"] #TaskBar {
-	margin-left: 1px;
-	margin-right: 1px;
+	margin-bottom: 0px;
 }
 
 LXQtPanel[position="Top"] #TaskBar > QToolButton {
 	margin: 0px;
-	margin-top: 1px;
 	border: 7px;
 	border-bottom: 4px;
 	border-image: url(task-top.svg) 7 7 4 7 stretch stretch;
@@ -749,6 +722,10 @@ LXQtPanel[position="Top"] #TaskBar > QToolButton:on {
 LXQtPanel[position="Top"] #TaskBar > QToolButton[urgent=true] {
 	color: #000000;
 	border-image: url(task-top-attention.svg) 7 7 4 7 stretch stretch;
+}
+LXQtPanel[position="Top"] #TaskBar > QToolButton[urgent=true]:hover {
+	color: #000000;
+	border-image: url(task-top-attention-hover.svg) 7 7 4 7 stretch stretch;
 }
 
 
@@ -782,14 +759,15 @@ LXQtPanel[position="Top"] LXQtGroupPopup > QToolButton[urgent=true] {
 	color: #000000;
 	border-image: url(button-attention.svg) 7 7 7 7 stretch stretch;
 }
-
-
-
-
-LXQtPanel[position="Top"] #DesktopSwitchPlugin {
+LXQtPanel[position="Top"] LXQtGroupPopup > QToolButton[urgent=true]:hover {
+	color: #000000;
+	border-image: url(button-attention-hover.svg) 7 7 7 7 stretch stretch;
 }
+
+
+
+
 LXQtPanel[position="Top"] #DesktopSwitch {
-	margin: 1px;
 	border: 3px;
 	border-image: url(desktopswitch.svg) 3 3 3 3 stretch stretch;
 	padding: -1px;
@@ -813,7 +791,8 @@ LXQtPanel[position="Top"] #DesktopSwitch > QToolButton:on {
 
 
 
-LXQtPanel[position="Top"] #SysStatPlugin {
+LXQtPanel[position="Top"] #SysStatPlugin,
+LXQtPanel[position="Top"] #CpuLoadPlugin {
 	margin: 1px;
 	border: 3px;
 	border-image: url(sysstat.svg) 3 3 3 3 stretch stretch;
@@ -845,20 +824,9 @@ LXQtPanel[position="Top"] #SysStat_Graph {
 
 
 
-LXQtPanel[position="Top"] #ClockPlugin,
-LXQtPanel[position="Top"] #WorldClockPlugin {
-}
-
-
 LXQtPanel[position="Top"] #Clock QLabel,
 LXQtPanel[position="Top"] #WorldClock QLabel {
-	margin-top: 1px;
 	color: #e0e0e0;
-}
-
-
-LXQtPanel[position="Top"] #Clock #TimeLabel {
-	font: bold;
 }
 
 
