@@ -31,17 +31,17 @@ layout_spacing=2
 layout_margin=2
 
 [GeneralColors]
-window.color=#a8a8aaff
-base.color=#eeeeeecc
-alt.base.color=#eeeeee00
-button.color=#a8a8aaff
-light.color=#000000bf
-mid.light.color=#000000bf
-mid.color=#000000bf
-dark.color=#000000bf
+window.color=#aaaaacff
+base.color=#ecececff
+alt.base.color=#ececec00
+button.color=#aaaaacff
+light.color=#00000099
+mid.light.color=#00000099
+mid.color=#00000099
+dark.color=#00000099
 highlight.color=#4444bbff
 inactive.highlight.color=#4444bb80
-tooltip.base.color=#eeeeeecc
+tooltip.base.color=#ecececff
 text.color=#000000
 window.text.color=#000000
 button.text.color=#000000
