@@ -134,7 +134,7 @@
      transform="translate(-5,-5)">
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;vector-effect:none;fill:#7f7f7f;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        d="m 11,5 v 6 H 5 v 54 c 0,3.324 2.676,6 6,6 h 215 c 3.324,0 6,-2.676 6,-6 V 11 h -6 V 5 Z"
        id="rect852" />
     <g

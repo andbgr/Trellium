@@ -1,12 +1,12 @@
 selection	#4444bb	1
-bg		#101010	0.85
+bg		#101010	0.86
 bg-border	#e0e0e0	0.5
-bg-topleft	#005555	0.75
-bg-bottomright	#550000	0.75
+bg-topleft	#005555	0.6
+bg-bottomright	#550000	0.6
 bg-hover	#ffffff	0.15
 bg-pressed	#4444bb	0.25
 view		#000000	0.6
 view-hover	#000000	0.8
 text-selection	#000000	1
-text-bg		#e0e0e0	1
+text-bg		#e0e0e0	0.95
 text-view	#e0e0e0	1

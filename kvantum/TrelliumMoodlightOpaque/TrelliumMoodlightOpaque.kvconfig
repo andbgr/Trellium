@@ -31,10 +31,10 @@ layout_spacing=2
 layout_margin=2
 
 [GeneralColors]
-window.color=#1b1b1bff
+window.color=#1a1a1aff
 base.color=#00000099
 alt.base.color=#00000000
-button.color=#1b1b1bff
+button.color=#1a1a1aff
 light.color=#766576ff
 mid.light.color=#766576ff
 mid.color=#766576ff

@@ -1,6 +1,6 @@
 [Colors:Button]
-BackgroundAlternate=27,27,27
-BackgroundNormal=27,27,27
+BackgroundAlternate=26,26,26
+BackgroundNormal=26,26,26
 DecorationFocus=127,68,187
 DecorationHover=127,68,187
 ForegroundActive=255,128,224
@@ -55,8 +55,8 @@ ForegroundPositive=0,110,40
 ForegroundVisited=85,26,139
 
 [Colors:Window]
-BackgroundAlternate=27,27,27
-BackgroundNormal=27,27,27
+BackgroundAlternate=26,26,26
+BackgroundNormal=26,26,26
 DecorationFocus=127,68,187
 DecorationHover=127,68,187
 ForegroundActive=255,128,224
@@ -72,9 +72,9 @@ ForegroundVisited=85,26,139
 Name=Trellium MoodlightOpaque
 
 [WM]
-activeBackground=27,27,27
+activeBackground=26,26,26
 activeBlend=224,216,224
 activeForeground=224,216,224
-inactiveBackground=27,27,27
+inactiveBackground=26,26,26
 inactiveBlend=224,216,224
 inactiveForeground=224,216,224

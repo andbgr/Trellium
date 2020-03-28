@@ -27,7 +27,7 @@ static char *shade_pressed[] = {
 "4 c #BCBCBC",
 "5 c #FBFBFB",
 /* pixels */
-"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"###############################",
 "###############################",
 "%44444444444444444444444444444%",
 "o22222222222222222222222222222o",

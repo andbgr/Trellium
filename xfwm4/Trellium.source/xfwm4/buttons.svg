@@ -133,7 +133,7 @@
      inkscape:label="Layer 1"
      transform="translate(-5,-5)">
     <path
-       style="opacity:1;vector-effect:none;fill:#7f7f7f;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        d="M 6 0 L 6 6 L 0 6 L 0 60 C 0 63.324 2.676 66 6 66 L 221 66 C 224.324 66 227 63.324 227 60 L 227 6 L 221 6 L 221 0 L 6 0 z "
        transform="translate(5,5)"
        id="rect852" />

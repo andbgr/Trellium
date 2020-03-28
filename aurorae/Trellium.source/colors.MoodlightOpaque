@@ -1,5 +1,5 @@
 selection	#7f44bb	1
-bg		#1b1b1b	1
+bg		#1a1a1a	1
 bg-border	#766576	1
 bg-topleft	#ff0000	0.4
 bg-bottomright	#0000ff	0.4
@@ -8,5 +8,5 @@ bg-pressed	#7f44bb	0.25
 view		#000000	0.6
 view-hover	#000000	0.8
 text-selection	#000000	1
-text-bg		#e0d8e0	1
+text-bg		#e0d8e0	0.95
 text-view	#e0d8e0	1
