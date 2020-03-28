@@ -1,8 +1,8 @@
 selection	#4444bb	1
-bg		#f8f8f8	0.85
+bg		#f7f7f7	0.86
 bg-border	#000000	0.6
-bg-topleft	#aaffff	0.63
-bg-bottomright	#ffaaaa	0.63
+bg-topleft	#aaffff	0.6
+bg-bottomright	#ffaaaa	0.6
 bg-hover	#ffffff	0.45
 bg-pressed	#000000	0.2
 view		#ffffff	0.6
