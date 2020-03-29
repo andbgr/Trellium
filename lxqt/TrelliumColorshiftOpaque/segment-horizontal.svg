@@ -104,7 +104,7 @@
        y="13"
        transform="rotate(-90)" />
     <rect
-       style="opacity:1;vector-effect:none;fill:#aaffff;fill-opacity:0.6;stroke:none;stroke-width:0.46332133;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       style="opacity:1;vector-effect:none;fill:#bbffff;fill-opacity:0.75;stroke:none;stroke-width:0.46332133;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        id="rect907"
        width="7"
        height="1"
@@ -112,7 +112,7 @@
        y="6"
        transform="rotate(-90)" />
     <rect
-       style="opacity:1;vector-effect:none;fill:#ffaaaa;fill-opacity:0.6;stroke:none;stroke-width:0.46332133;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       style="opacity:1;vector-effect:none;fill:#ffbbbb;fill-opacity:0.75;stroke:none;stroke-width:0.46332133;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        id="rect913"
        width="7"
        height="1"

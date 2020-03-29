@@ -13,9 +13,9 @@ static char *close_active[] = {
 "$ c #A5A5A5",
 "% c gray81",
 "& c gray84",
-"* c #F7C4C4",
-"= c #E4DCDC",
-"- c #C4F7F7",
+"* c #FAC7C7",
+"= c #E7DEDE",
+"- c #C7FAFA",
 "; c #ECECEC",
 ": c None",
 /* pixels */

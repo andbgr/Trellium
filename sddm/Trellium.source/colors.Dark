@@ -1,0 +1,12 @@
+selection	#4444bb	1
+bg		#181818	1
+bg-border	#000000	0.8
+bg-topleft	#ffffff	0.45
+bg-bottomright	#ffffff	0.15
+bg-hover	#ffffff	0.1
+bg-pressed	#000000	1
+view		#000000	0.6
+view-hover	#000000	0.8
+text-selection	#000000	1
+text-bg		#e0e0e0	0.95
+text-view	#e0e0e0	1

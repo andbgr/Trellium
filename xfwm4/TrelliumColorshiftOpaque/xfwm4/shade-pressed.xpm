@@ -20,8 +20,8 @@ static char *shade_pressed[] = {
 ": c gray67",
 "> c #B9B9B9",
 ", c gray74",
-"< c #9DC6C6",
-"1 c #C4F7F7",
+"< c #9FC8C8",
+"1 c #C7FAFA",
 "2 c #ECECEC",
 /* pixels */
 "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%",

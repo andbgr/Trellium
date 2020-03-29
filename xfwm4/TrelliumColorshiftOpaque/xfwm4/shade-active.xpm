@@ -20,9 +20,9 @@ static char *shade_active[] = {
 ": c #C0C0C0",
 "> c gray77",
 ", c gray84",
-"< c #F7C4C4",
-"1 c #E4DCDC",
-"2 c #C4F7F7",
+"< c #FAC7C7",
+"1 c #E7DEDE",
+"2 c #C7FAFA",
 "3 c #E6E6E6",
 "4 c #ECECEC",
 /* pixels */
