@@ -28,6 +28,7 @@ import QtQuick.Controls 1.4
 import QtQuick.Controls 1.4 as QQC
 import QtQuick.Controls.Styles 1.4
 import QtQuick.Layouts 1.3
+import QtGraphicalEffects 1.0
 import SddmComponents 2.0
 
 Rectangle {

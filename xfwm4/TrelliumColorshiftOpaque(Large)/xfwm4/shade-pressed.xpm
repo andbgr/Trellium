@@ -4,7 +4,7 @@ static char *shade_pressed[] = {
 "37 32 15 1 ",
 "  c gray11",
 ". c #444444",
-"X c gray37",
+"X c #535353",
 "o c #676767",
 "O c #6C6C6C",
 "+ c #6D6D6D",
