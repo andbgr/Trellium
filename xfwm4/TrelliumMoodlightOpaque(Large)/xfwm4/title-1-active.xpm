@@ -2,9 +2,9 @@
 static char *title_1_active[] = {
 /* columns rows colors chars-per-pixel */
 "1 32 3 1 ",
-"  c gray10",
-". c #761010",
-"X c #766576",
+"  c #131313",
+". c #710B0B",
+"X c #6D5E7D",
 /* pixels */
 "X",
 "X",

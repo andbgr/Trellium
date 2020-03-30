@@ -1,5 +1,5 @@
 #panel {
-        color: #e0d8e0;
+        color: #e2dee6;
         margin: 0px;
         border: 3px;
         border-image: url(background.svg) 3 3 3 3 stretch stretch;

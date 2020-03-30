@@ -2,8 +2,8 @@
 static char *menu_active[] = {
 /* columns rows colors chars-per-pixel */
 "36 29 3 1 ",
-"  c gray6",
-". c #700909",
+"  c #070707",
+". c #6B0404",
 "X c None",
 /* pixels */
 "XXXX................................",

@@ -31,22 +31,22 @@ layout_spacing=2
 layout_margin=2
 
 [GeneralColors]
-window.color=#e0d8e0db
+window.color=#080808db
 base.color=#00000099
 alt.base.color=#00000000
-button.color=#e0d8e0db
-light.color=#ffd5ff66
-mid.light.color=#ffd5ff66
-mid.color=#ffd5ff66
-dark.color=#ffd5ff66
-highlight.color=#7f44bbff
-inactive.highlight.color=#7f44bb80
+button.color=#080808db
+light.color=#ddbbff73
+mid.light.color=#ddbbff73
+mid.color=#ddbbff73
+dark.color=#ddbbff73
+highlight.color=#8044bbff
+inactive.highlight.color=#8044bb80
 tooltip.base.color=#00000099
-text.color=#e0d8e0
-window.text.color=#e0d8e0
-button.text.color=#e0d8e0
-disabled.text.color=#e0d8e080
-tooltip.text.color=#e0d8e0
+text.color=#e2dee6
+window.text.color=#e2dee6
+button.text.color=#e2dee6
+disabled.text.color=#e2dee680
+tooltip.text.color=#e2dee6
 highlight.text.color=#000000
 progress.indicator.text.color=#000000
 progress.inactive.indicator.text.color=#000000
@@ -134,10 +134,10 @@ inherits=PanelButtonCommand
 
 [ToolboxTab]
 inherits=PanelButtonCommand
-text.normal.color=#e0d8e0
-text.focus.color=#e0d8e0
-text.press.color=#e0d8e0
-text.toggle.color=#e0d8e0
+text.normal.color=#e2dee6
+text.focus.color=#e2dee6
+text.press.color=#e2dee6
+text.toggle.color=#e2dee6
 
 [Tab]
 inherits=PanelButtonCommand
@@ -189,7 +189,7 @@ indicator.element=sizegrip
 
 [Toolbar]
 inherits=PanelButtonCommand
-text.normal.color=#e0d8e0
+text.normal.color=#e2dee6
 frame.top=0
 frame.bottom=1
 frame.left=1
@@ -298,8 +298,8 @@ frame.top=7
 frame.bottom=7
 frame.left=7
 frame.right=7
-text.normal.color=#e0d8e0
-text.focus.color=#e0d8e0
+text.normal.color=#e2dee6
+text.focus.color=#e2dee6
 
 [ToolTip]
 inherits=PanelButtonCommand

@@ -113,7 +113,7 @@ Rectangle {
 					Layout.preferredHeight: footer.Layout.minimumHeight - 2
 					Layout.margins: 1
 					Layout.alignment: Qt.AlignTop | Qt.AlignCenter
-					color: "#e0e0e0"
+					color: "#e2e2e2"
 					text: sddm.hostName
 					font.family: "Liberation Sans"
 					font.pixelSize: 19 * container.scalingFactor
@@ -134,7 +134,7 @@ Rectangle {
 						text: textConstants.userName
 						font.family: "Liberation Sans"
 						font.pixelSize: 19 * container.scalingFactor
-						color: "#e0e0e0"
+						color: "#e2e2e2"
 					}
 					
 					TextField {
@@ -144,7 +144,7 @@ Rectangle {
 						Layout.preferredHeight: font.pixelSize + 13 //this is really ugly, why isn't the minimum height determined by content?
 						font.family: "Liberation Sans"
 						font.pixelSize: 19 * container.scalingFactor
-						textColor: "#e0e0e0"
+						textColor: "#e2e2e2"
 						style: TextFieldStyle {
 							background: BorderImage {
 								border.left: 4
@@ -163,7 +163,7 @@ Rectangle {
 						text: textConstants.password
 						font.family: "Liberation Sans"
 						font.pixelSize: 19 * container.scalingFactor
-						color: "#e0e0e0"
+						color: "#e2e2e2"
 					}
 					
 					TextField {
@@ -173,7 +173,7 @@ Rectangle {
 						Layout.preferredHeight: font.pixelSize + 13 //this is really ugly, why isn't the minimum height implicitly determined by content?
 						font.family: "Liberation Sans"
 						font.pixelSize: 19 * container.scalingFactor
-						textColor: "#e0e0e0"
+						textColor: "#e2e2e2"
 						style: TextFieldStyle {
 							background: BorderImage {
 								border.left: 4
@@ -235,7 +235,7 @@ Rectangle {
 									text: instantiator.objectAt(sessionbutton.currentIndex).text || ""
 									font.family: "Liberation Sans"
 									font.pixelSize: 19 * container.scalingFactor
-									color: "#e0e0e0"
+									color: "#e2e2e2"
 								}
 								Image {
 									source: "arrow-down.svg"
