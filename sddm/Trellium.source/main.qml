@@ -60,6 +60,7 @@ Rectangle {
     }
 
     Background {
+		id: background
         anchors.fill: parent
         source: config.background
         fillMode: Image.PreserveAspectCrop
@@ -88,6 +89,33 @@ Rectangle {
 			height: 360 * container.scalingFactor
 			anchors.centerIn: parent
 			color: "transparent"
+			
+			MaskedBlur {
+				anchors.fill: parent
+				source: effect_source
+				maskSource: mask
+				radius: 80
+				samples: 161
+			}
+			
+			ShaderEffectSource {
+				id: effect_source
+				anchors.fill: background
+				sourceItem: background
+				sourceRect: Qt.rect(greeter.x,greeter.y, greeter.width, greeter.height)
+			}
+			
+			BorderImage {
+				id: mask
+				anchors.fill: parent
+				border.left: 5
+				border.right: 5
+				border.top: 5
+				border.bottom: 5
+				smooth: false
+				source: "greeter-mask.svg"
+				visible: false
+			}
 			
 			BorderImage {
 				anchors.fill: parent

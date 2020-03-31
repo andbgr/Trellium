@@ -7,7 +7,7 @@ static char *maximize_active[] = {
 "X c #2A2A2A",
 "o c #2F2F2F",
 "O c gray19",
-"+ c #535353",
+"+ c #585858",
 "@ c gray35",
 "# c #5B5B5B",
 "$ c #5F5F5F",

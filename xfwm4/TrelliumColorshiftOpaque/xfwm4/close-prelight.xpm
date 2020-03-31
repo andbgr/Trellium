@@ -7,7 +7,7 @@ static char *close_prelight[] = {
 "X c gray19",
 "o c #323232",
 "O c #505050",
-"+ c #535353",
+"+ c #585858",
 "@ c gray35",
 "# c gray62",
 "$ c gray76",
