@@ -11,7 +11,7 @@ static char *shade_active[] = {
 "@ c #444444",
 "# c gray30",
 "$ c #565656",
-"% c #585858",
+"% c #5F5F5F",
 "& c gray56",
 "* c #989898",
 "= c gray60",

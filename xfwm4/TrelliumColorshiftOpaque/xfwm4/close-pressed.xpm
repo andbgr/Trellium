@@ -8,7 +8,7 @@ static char *close_pressed[] = {
 "o c #272727",
 "O c #3E3E3E",
 "+ c gray27",
-"@ c #585858",
+"@ c #5F5F5F",
 "# c gray48",
 "$ c gray59",
 "% c gray60",
