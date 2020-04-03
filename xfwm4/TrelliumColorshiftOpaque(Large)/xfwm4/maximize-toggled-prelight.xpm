@@ -7,7 +7,7 @@ static char *maximize_toggled_prelight[] = {
 "X c #3E3E3E",
 "o c gray25",
 "O c #585858",
-"+ c #5F5F5F",
+"+ c #5B5B5B",
 "@ c #C1C1C1",
 "# c gray85",
 "$ c gray86",

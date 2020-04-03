@@ -4,7 +4,7 @@ static char *close_prelight[] = {
 "36 32 23 1 ",
 "  c #252525",
 ". c #585858",
-"X c #5F5F5F",
+"X c #5B5B5B",
 "o c #868686",
 "O c gray55",
 "+ c #8D8D8D",

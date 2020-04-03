@@ -11,7 +11,7 @@ static char *shade_prelight[] = {
 "@ c gray28",
 "# c #505050",
 "$ c gray35",
-"% c #5F5F5F",
+"% c #5B5B5B",
 "& c #959595",
 "* c gray62",
 "= c #9F9F9F",

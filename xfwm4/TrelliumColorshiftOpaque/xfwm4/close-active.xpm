@@ -8,7 +8,7 @@ static char *close_active[] = {
 "o c gray19",
 "O c gray30",
 "+ c #565656",
-"@ c #5F5F5F",
+"@ c #5B5B5B",
 "# c #989898",
 "$ c #BBBBBB",
 "% c gray75",
