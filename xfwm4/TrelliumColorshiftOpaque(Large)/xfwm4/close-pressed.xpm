@@ -4,7 +4,7 @@ static char *close_pressed[] = {
 "36 32 20 1 ",
 "  c gray11",
 ". c #444444",
-"X c #5B5B5B",
+"X c #5D5D5D",
 "o c #676767",
 "O c #6C6C6C",
 "+ c #6D6D6D",

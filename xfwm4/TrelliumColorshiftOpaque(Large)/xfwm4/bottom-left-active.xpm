@@ -2,13 +2,13 @@
 static char *bottom_left_active[] = {
 /* columns rows colors chars-per-pixel */
 "6 6 19 1 ",
-"  c #5B5B5B",
-". c #626262",
-"X c #727272",
-"o c #747474",
-"O c #777575",
-"+ c #7C7F7F",
-"@ c gray57",
+"  c #5D5D5D",
+". c #646464",
+"X c gray45",
+"o c gray46",
+"O c #777777",
+"+ c #787676",
+"@ c #7E8181",
 "# c #929292",
 "$ c #D8C1C1",
 "% c #C3DBDB",
@@ -24,8 +24,8 @@ static char *bottom_left_active[] = {
 /* pixels */
 ". =>,,",
 "o %;,,",
-"@ +&-:",
-"<X O$*",
+"# @&-:",
+"<X +$*",
 "<<X   ",
-"<<<#o."
+"<<<#O."
 };
