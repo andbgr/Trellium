@@ -24,7 +24,6 @@
 ***************************************************************************/
 
 import QtQuick 2.2
-import QtQuick.Controls 1.4
 import QtQuick.Controls 1.4 as QQC
 import QtQuick.Controls.Styles 1.4
 import QtQuick.Layouts 1.3
@@ -158,16 +157,18 @@ Rectangle {
 				}
 				Text {
 // 					Spacer
-					Layout.preferredHeight: message.Layout.minimumHeight - 2
+					Layout.preferredHeight: message.height
 				}
 				GridLayout {
-					Layout.leftMargin: 8
-					Layout.rightMargin: 8
-					Layout.topMargin: 8
-					Layout.bottomMargin: 8
+					Layout.leftMargin: 8 * container.scalingFactor
+					Layout.rightMargin: 8 * container.scalingFactor
+					Layout.topMargin: 8 * container.scalingFactor
+					Layout.bottomMargin: 8 * container.scalingFactor
 					columns: 2
+					rowSpacing: 4 * container.scalingFactor
+					columnSpacing: 4 * container.scalingFactor
 					
-					Label {
+					QQC.Label {
 						Layout.alignment: Qt.AlignRight
 						text: textConstants.userName
 						font.family: "Liberation Sans"
@@ -175,7 +176,7 @@ Rectangle {
 						color: "#e2dee6"
 					}
 					
-					TextField {
+					QQC.TextField {
 						id: user_entry
 						text: userModel.lastUser
 						Layout.fillWidth: true
@@ -196,7 +197,7 @@ Rectangle {
 						}
 					}
 					
-					Label {
+					QQC.Label {
 						Layout.alignment: Qt.AlignRight
 						text: textConstants.password
 						font.family: "Liberation Sans"
@@ -204,7 +205,7 @@ Rectangle {
 						color: "#e2dee6"
 					}
 					
-					TextField {
+					QQC.TextField {
 						id: passwd_entry
 						echoMode: TextInput.Password
 						Layout.fillWidth: true
@@ -232,9 +233,8 @@ Rectangle {
 					}
 				}
 				Text {
-// 					Layout.fillHeight: true
-					Layout.alignment: Qt.AlignCenter
 					id: message
+					Layout.alignment: Qt.AlignCenter
 					text: ""
 					font.family: "Liberation Sans"
 					font.pixelSize: 19 * container.scalingFactor
@@ -245,13 +245,13 @@ Rectangle {
 					Layout.fillWidth: true
 					Layout.alignment: Qt.AlignBottom
 					spacing: 0
-					ToolButton {
+					QQC.ToolButton {
 						id: sessionbutton
 						Layout.alignment: Qt.AlignBottom
-						Layout.leftMargin: 8
-						Layout.rightMargin: 8
-						Layout.topMargin: 8
-						Layout.bottomMargin: 8
+						Layout.leftMargin: 8 * container.scalingFactor
+						Layout.rightMargin: 8 * container.scalingFactor
+						Layout.topMargin: 8 * container.scalingFactor
+						Layout.bottomMargin: 8 * container.scalingFactor
 						property int currentIndex: -1
 						
 						style: ButtonStyle {
@@ -268,7 +268,7 @@ Rectangle {
 								      : "button.svg"
 							}
 							label: RowLayout {
-								Label {
+								QQC.Label {
 									Layout.fillWidth: true
 									text: instantiator.objectAt(sessionbutton.currentIndex).text || ""
 									font.family: "Liberation Sans"
@@ -306,7 +306,7 @@ Rectangle {
 // 						Spacer
 						Layout.fillWidth: true
 					}
-					ToolButton {
+					QQC.ToolButton {
 						id: reboot_button
 // 						enabled: sddm.canReboot
 						Layout.alignment: Qt.AlignBottom
@@ -335,7 +335,7 @@ Rectangle {
 						}
 						onClicked: sddm.reboot()
 					}
-					ToolButton {
+					QQC.ToolButton {
 						id: suspend_button
 // 						visible: sddm.canSuspend
 						Layout.alignment: Qt.AlignBottom
@@ -364,7 +364,7 @@ Rectangle {
 						}
 						onClicked: sddm.suspend()
 					}
-					ToolButton {
+					QQC.ToolButton {
 						id: hibernate_button
 // 						visible: sddm.canHibernate
 						Layout.alignment: Qt.AlignBottom
@@ -393,7 +393,7 @@ Rectangle {
 						}
 						onClicked: sddm.hibernate()
 					}
-					ToolButton {
+					QQC.ToolButton {
 						id: shutdown_button
 // 						enabled: sddm.canPowerOff
 						Layout.alignment: Qt.AlignBottom
