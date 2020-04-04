@@ -90,14 +90,7 @@ Rectangle {
 			anchors.centerIn: parent
 			color: "transparent"
 			
-			MaskedBlur {
-				anchors.fill: parent
-				source: effect_source
-				maskSource: mask
-				radius: 80
-				samples: 161
-			}
-			
+// 			grab background as source for blur behind greeter
 			ShaderEffectSource {
 				id: effect_source
 				anchors.fill: background
@@ -105,6 +98,16 @@ Rectangle {
 				sourceRect: Qt.rect(greeter.x,greeter.y, greeter.width, greeter.height)
 			}
 			
+// 			blur it, this is a rectangle without rounded corners
+			FastBlur {
+				id: blur
+				anchors.fill: parent
+				source: effect_source
+				radius: 80
+				visible: false
+			}
+			
+// 			mask with rounded corners
 			BorderImage {
 				id: mask
 				anchors.fill: parent
@@ -115,6 +118,13 @@ Rectangle {
 				smooth: false
 				source: "greeter-mask.svg"
 				visible: false
+			}
+			
+// 			now we have a blurred area with rounded corners
+			OpacityMask {
+				anchors.fill: parent
+				source: blur
+				maskSource: mask
 			}
 			
 			BorderImage {
