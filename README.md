@@ -1,5 +1,5 @@
 ## About
-This is a theme suite for LXQt or KDE. It consists of KWin/Aurorae and xfwm4 window manager themes, LXQt and Plasma Desktop themes, Qt/Kvantum widget styles, and sddm login themes.
+This is a theme suite for LXQt or KDE. It consists of KWin/Aurorae and xfwm4 window manager themes, LXQt and Plasma desktop themes, Qt/Kvantum widget styles, and sddm login themes.
 
 ## How to create a new variation of this theme:
 
@@ -12,6 +12,7 @@ This is a theme suite for LXQt or KDE. It consists of KWin/Aurorae and xfwm4 win
        ./make_theme.sh colors.[NAME]
 
 ## Screenshots:
+KDE Plasma panel on the left, LXQt panel on the right
 ![Colorshift](screenshots/Colorshift.png?raw=true "Colorshift")
 ![Moodlight](screenshots/Moodlight.png?raw=true "Moodlight")
 ![Solid](screenshots/Solid.png?raw=true "Solid")
