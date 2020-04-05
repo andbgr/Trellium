@@ -8,6 +8,6 @@ bg-hover	#ffffff	0.15
 bg-pressed	#4444bb	0.25
 view		#000000	0.6
 view-hover	#000000	0.8
-text-selection	#ffffff	1
+text-selection	#e2e2e2	1
 text-bg		#e2e2e2	0.95
 text-view	#e2e2e2	1

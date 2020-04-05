@@ -47,9 +47,9 @@ window.text.color=#e0e0e0
 button.text.color=#e0e0e0
 disabled.text.color=#e0e0e080
 tooltip.text.color=#e0e0e0
-highlight.text.color=#000000
-progress.indicator.text.color=#000000
-progress.inactive.indicator.text.color=#000000
+highlight.text.color=#e0e0e0
+progress.indicator.text.color=#e0e0e0
+progress.inactive.indicator.text.color=#e0e0e0
 
 [Hacks]
 transparent_pcmanfm_sidepane=true
@@ -246,8 +246,8 @@ interior.element=progress-pattern
 inherits=PanelButtonCommand
 text.margin=0
 frame=false
-text.press.color=#000000
-text.toggle.color=#000000
+text.press.color=#e0e0e0
+text.toggle.color=#e0e0e0
 interior.element=itemview
 
 [Splitter]
