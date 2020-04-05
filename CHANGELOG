@@ -16,3 +16,13 @@
 -kvantum: made glyphs thinner, added transparency for colors in config, several other small fixes
 lxqt: redid parts of the theme, added a wave-shaped separator after task manager (you can add more of these by adding a spacer widget with 12p size and "dotted" style!)
 -plasma: reworked clock, made arrows thinner
+
+0.4
+-updated existing color schemes, added new ones, including opaque versions in case you are using xfwm4
+-made aurorae buttons a bit bigger, added small and large version (changing button size in system settings apparently creates random gaps between buttons - i probably should redo the aurorae theme in QML at some point)
+-added focus frames in kvantum, their color and opacity can also be set in colors.*, made dolphin and pcmanfm-qt views transparent for some color schemes
+-changed desktopswitch and sysstat styles in lxqt, made status notifier icons smaller
+-almost no change in plasma (plasma theming is very limited, lxqt-panel is superior in that regard)
+-added sddm login themes
+-added xfwm4 themes - this is where the opaque color schemes come in, can't use transparency in xfwm4 except for the whole decoration
+-other small changes i probably don't remember
