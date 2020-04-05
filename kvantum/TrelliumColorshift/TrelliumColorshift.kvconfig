@@ -35,10 +35,10 @@ window.color=#f7f7f7db
 base.color=#ffffff99
 alt.base.color=#ffffff00
 button.color=#f7f7f7db
-light.color=#0000009c
-mid.light.color=#0000009c
-mid.color=#0000009c
-dark.color=#0000009c
+light.color=#00000099
+mid.light.color=#00000099
+mid.color=#00000099
+dark.color=#00000099
 highlight.color=#4444bbff
 inactive.highlight.color=#4444bb80
 tooltip.base.color=#ffffff99
@@ -77,6 +77,7 @@ frame.element=button
 interior.element=button
 indicator.element=arrow
 frame.expansion=14
+focusFrame=true
 
 [PanelButtonTool]
 inherits=PanelButtonCommand
@@ -96,10 +97,12 @@ inherits=PanelButtonCommand
 [RadioButton]
 inherits=PanelButtonCommand
 interior.element=radio
+focusFrame=false
 
 [CheckBox]
 inherits=PanelButtonCommand
 interior.element=checkbox
+focusFrame=false
 
 [Focus]
 inherits=PanelButtonCommand
@@ -300,6 +303,7 @@ frame.left=7
 frame.right=7
 text.normal.color=#000000
 text.focus.color=#000000
+focusFrame=false
 
 [ToolTip]
 inherits=PanelButtonCommand

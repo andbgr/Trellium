@@ -64,11 +64,11 @@
        inkscape:collect="always"
        id="linearGradient4562">
       <stop
-         style="stop-color:#004444;stop-opacity:0.75"
+         style="stop-color:#004444;stop-opacity:0.5"
          offset="0"
          id="stop4558" />
       <stop
-         style="stop-color:#440000;stop-opacity:0.75"
+         style="stop-color:#440000;stop-opacity:0.5"
          offset="1"
          id="stop4560" />
     </linearGradient>

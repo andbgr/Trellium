@@ -308,7 +308,7 @@ Rectangle {
 					}
 					QQC.ToolButton {
 						id: reboot_button
-// 						enabled: sddm.canReboot
+						enabled: sddm.canReboot
 						Layout.alignment: Qt.AlignBottom
 						style: ButtonStyle {
 							padding.top: 7
@@ -337,7 +337,7 @@ Rectangle {
 					}
 					QQC.ToolButton {
 						id: suspend_button
-// 						visible: sddm.canSuspend
+						visible: sddm.canSuspend
 						Layout.alignment: Qt.AlignBottom
 						style: ButtonStyle {
 							padding.top: 7
@@ -366,7 +366,7 @@ Rectangle {
 					}
 					QQC.ToolButton {
 						id: hibernate_button
-// 						visible: sddm.canHibernate
+						visible: sddm.canHibernate
 						Layout.alignment: Qt.AlignBottom
 						style: ButtonStyle {
 							padding.top: 7
@@ -395,7 +395,7 @@ Rectangle {
 					}
 					QQC.ToolButton {
 						id: shutdown_button
-// 						enabled: sddm.canPowerOff
+						enabled: sddm.canPowerOff
 						Layout.alignment: Qt.AlignBottom
 						style: ButtonStyle {
 							padding.top: 7

@@ -77,6 +77,7 @@ frame.element=button
 interior.element=button
 indicator.element=arrow
 frame.expansion=14
+focusFrame=true
 
 [PanelButtonTool]
 inherits=PanelButtonCommand
@@ -96,10 +97,12 @@ inherits=PanelButtonCommand
 [RadioButton]
 inherits=PanelButtonCommand
 interior.element=radio
+focusFrame=false
 
 [CheckBox]
 inherits=PanelButtonCommand
 interior.element=checkbox
+focusFrame=false
 
 [Focus]
 inherits=PanelButtonCommand
@@ -300,6 +303,7 @@ frame.left=7
 frame.right=7
 text.normal.color=#101010
 text.focus.color=#101010
+focusFrame=false
 
 [ToolTip]
 inherits=PanelButtonCommand
