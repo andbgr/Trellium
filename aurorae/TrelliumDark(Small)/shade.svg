@@ -23,9 +23,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="-14.898865"
-     inkscape:cy="84.674174"
+     inkscape:zoom="44.8"
+     inkscape:cx="17.948441"
+     inkscape:cy="127.00848"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -129,14 +129,14 @@
         <path
            sodipodi:nodetypes="ccccccc"
            style="fill:#e0e0e0;fill-opacity:0.95;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 22,16 6,6 h -2 l -4,-4 -4,4 h -2 z"
+           d="m 22,16 5.5,5.5 -1,1 -4.5,-4.5 -4.5,4.5 -1,-1 z"
            id="path7672"
            inkscape:connector-curvature="0" />
         <rect
            y="12"
-           x="16"
+           x="16.5"
            height="1.5"
-           width="12"
+           width="11"
            id="rect7728"
            style="opacity:1;vector-effect:none;fill:#e0e0e0;fill-opacity:0.95;stroke:none;stroke-width:1.07354546px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
       </g>

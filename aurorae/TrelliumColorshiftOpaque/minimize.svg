@@ -23,9 +23,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="-12.164813"
-     inkscape:cy="80.219838"
+     inkscape:zoom="63.356767"
+     inkscape:cx="21.772055"
+     inkscape:cy="127.38692"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1150,7 +1150,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path7672"
-         d="m 22,12.5 6,6 h -2 l -4,-4 -4,4 h -2 z"
+         d="m 22,12.5 5.5,5.5 -1,1 -4.5,-4.5 -4.5,4.5 -1,-1 z"
          style="fill:#000000;fill-opacity:0.85;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          sodipodi:nodetypes="ccccccc" />
     </g>
