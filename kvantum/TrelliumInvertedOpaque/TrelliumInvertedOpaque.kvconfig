@@ -123,7 +123,6 @@ frame.element=frame
 
 [LineEdit]
 inherits=PanelButtonCommand
-indicator.size=14
 frame.element=lineedit
 interior.element=lineedit
 indicator.element=combo-indicator
@@ -149,7 +148,6 @@ frame.top=3
 frame.bottom=3
 frame.left=2
 frame.right=2
-indicator.size=11
 frame.element=tab
 interior.element=tab
 indicator.element=tab
@@ -176,7 +174,6 @@ frame.element=tabbarframe
 inherits=PanelButtonCommand
 frame=false
 interior=false
-indicator.size=8
 
 [HeaderSection]
 inherits=PanelButtonCommand

@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="14"
+   width="12"
    version="1.0"
-   height="14"
+   height="12"
    id="svg1406"
    sodipodi:docname="arrow-down.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
@@ -38,8 +38,8 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1406"
      inkscape:zoom="21.454545"
-     inkscape:cx="-2.4237288"
-     inkscape:cy="8.5">
+     inkscape:cx="-0.6355864"
+     inkscape:cy="7.2855007">
     <inkscape:grid
        type="xygrid"
        id="grid2217"
@@ -47,7 +47,7 @@
        spacingy="1"
        empspacing="5"
        originx="-166"
-       originy="-1189" />
+       originy="-1191" />
   </sodipodi:namedview>
   <metadata
      id="metadata1410">
@@ -64,22 +64,22 @@
   <defs
      id="defs312" />
   <g
-     transform="translate(-12,-15)"
+     transform="translate(-13,-16)"
      id="arrow-down-normal"
      inkscape:label="#g4115">
     <rect
        inkscape:label="#active-center"
-       y="15"
-       x="12"
-       height="14"
-       width="14"
-       id="rect3887"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff00ff;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:0.60869581;marker:none;enable-background:accumulate" />
+       y="16"
+       x="13"
+       height="12"
+       width="12"
+       id="rect4070"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff00ff;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:0.5217393;marker:none;enable-background:accumulate" />
     <path
        sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
-       id="path3889"
-       d="m 19,26 6,-6 h -2 l -4,4 -4,-4 h -2 z"
+       id="path4072"
+       d="m 19,25.5 5.5,-5.5 -1,-1 -4.5,4.5 -4.5,-4.5 -1,1 z"
        style="fill:#e2dee6;fill-opacity:0.95;stroke:none" />
   </g>
 </svg>

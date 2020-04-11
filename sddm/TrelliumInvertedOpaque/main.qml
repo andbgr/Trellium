@@ -277,7 +277,8 @@ Rectangle {
 								}
 								Image {
 									source: "arrow-down.svg"
-									smooth: false
+									sourceSize.width: 14 * container.scalingFactor
+									sourceSize.height: 14 * container.scalingFactor
 								}
 							}
 						}
