@@ -39,9 +39,9 @@
      fit-margin-right="5"
      fit-margin-bottom="5"
      inkscape:bbox-paths="false"
-     inkscape:zoom="8.725605"
-     inkscape:cx="210.26864"
-     inkscape:cy="201.69313">
+     inkscape:zoom="34.90242"
+     inkscape:cx="303.5439"
+     inkscape:cy="296.23402">
     <inkscape:grid
        originy="-924"
        originx="1.4210855e-14"
@@ -1744,7 +1744,7 @@
        width="12.5" />
     <path
        style="fill:#e0e0e0;fill-opacity:0.95;stroke:none;stroke-width:1.04166663"
-       d="m 386.45833,106.25 4.16667,-4.16667 1.04167,1.04167 -2.34375,2.34375 h 6.77083 v -4.42708 h 1.5625 v 4.94791 l -1.04167,1.04167 h -7.29166 l 2.34375,2.34375 -1.04167,1.04167 z"
+       d="m 386.45833,107.29167 4.16667,-4.16667 1.04167,1.04167 -2.34375,2.34375 h 6.77083 v -4.42708 h 1.5625 v 4.94791 l -1.04167,1.04167 h -7.29166 l 2.34375,2.34375 -1.04167,1.04167 z"
        id="path3131-9-36"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccc" />
