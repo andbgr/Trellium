@@ -109,6 +109,11 @@
      id="frame-normal-topleft-6">
     <path
        inkscape:connector-curvature="0"
+       style="opacity:1;vector-effect:none;fill:#505050;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       d="m 2,28.999998 a 3,3 0 0 0 -3,3 h 1 a 2,2 0 0 1 2,-2 z"
+       id="path6749" />
+    <path
+       inkscape:connector-curvature="0"
        style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        d="m 2,30.999998 a 1,1 0 0 0 -1,1 h 1 z"
        id="path6929" />
@@ -118,15 +123,15 @@
        transform="translate(70,-3.000002)"
        id="path6609"
        inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:1;vector-effect:none;fill:#505050;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-       d="m 2,28.999998 a 3,3 0 0 0 -3,3 h 1 a 2,2 0 0 1 2,-2 z"
-       id="path6749" />
   </g>
   <g
      transform="translate(-9,-29)"
      id="frame-normal-topright-1">
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;vector-effect:none;fill:url(#linearGradient6916);fill-opacity:1;stroke:none;stroke-width:0.49531135;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       d="m 17,29 v 1 a 2,2 0 0 1 2,2 h 1 a 3,3 0 0 0 -3,-3 z"
+       id="path6749-5" />
     <path
        inkscape:connector-curvature="0"
        style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -138,15 +143,15 @@
        transform="translate(78,-3)"
        id="path6609-6"
        inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:1;vector-effect:none;fill:url(#linearGradient6916);fill-opacity:1;stroke:none;stroke-width:0.49531135;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-       d="m 17,29 v 1 a 2,2 0 0 1 2,2 h 1 a 3,3 0 0 0 -3,-3 z"
-       id="path6749-5" />
   </g>
   <g
      transform="translate(1,-39)"
      id="frame-normal-bottomleft-2">
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;vector-effect:none;fill:url(#linearGradient6908);fill-opacity:1;stroke:none;stroke-width:0.49531135;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       d="m -1,47 a 3,3 0 0 0 3,3 V 49 A 2,2 0 0 1 0,47 Z"
+       id="path6749-4" />
     <path
        inkscape:connector-curvature="0"
        style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -158,15 +163,15 @@
        transform="translate(70,5)"
        id="path6609-3"
        inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:1;vector-effect:none;fill:url(#linearGradient6908);fill-opacity:1;stroke:none;stroke-width:0.49531135;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-       d="m -1,47 a 3,3 0 0 0 3,3 V 49 A 2,2 0 0 1 0,47 Z"
-       id="path6749-4" />
   </g>
   <g
      transform="translate(-9,-39)"
      id="frame-normal-bottomright-3">
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;vector-effect:none;fill:#f0f0f0;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       d="m 19,47 a 2,2 0 0 1 -2,2 v 1 a 3,3 0 0 0 3,-3 z"
+       id="path6749-7" />
     <path
        inkscape:connector-curvature="0"
        style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
@@ -178,11 +183,6 @@
        transform="translate(78,5)"
        id="path6609-2"
        inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:1;vector-effect:none;fill:#f0f0f0;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-       d="m 19,47 a 2,2 0 0 1 -2,2 v 1 a 3,3 0 0 0 3,-3 z"
-       id="path6749-7" />
   </g>
   <g
      transform="translate(-4,-29)"
