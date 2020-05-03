@@ -83,13 +83,6 @@
        transform="translate(0,-17)"
        id="west-normal-bottom">
       <rect
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.8;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-         id="rect4817-3-7-1"
-         width="5"
-         height="2"
-         x="7"
-         y="47" />
-      <rect
          style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.15;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          id="rect4851-1-42-3"
          width="5"
@@ -103,17 +96,17 @@
          height="1"
          x="7"
          y="49" />
-    </g>
-    <g
-       transform="matrix(-0.8,0,0,1,21.6,-17)"
-       id="west-normal-bottomright">
       <rect
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.8;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-         id="rect4817-3-7-7-8"
+         id="rect4817-3-7-1"
          width="5"
          height="2"
          x="7"
          y="47" />
+    </g>
+    <g
+       transform="matrix(-0.8,0,0,1,21.6,-17)"
+       id="west-normal-bottomright">
       <rect
          style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.15;stroke:none;stroke-width:0.67823297;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          id="rect4851-1-42-0-5"
@@ -128,17 +121,17 @@
          height="1"
          x="8.25"
          y="49" />
-    </g>
-    <g
-       transform="matrix(0.8,0,0,1,-2.6,-17)"
-       id="east-normal-bottomleft">
       <rect
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.8;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-         id="rect4817-3-7-7"
+         id="rect4817-3-7-7-8"
          width="5"
          height="2"
          x="7"
          y="47" />
+    </g>
+    <g
+       transform="matrix(0.8,0,0,1,-2.6,-17)"
+       id="east-normal-bottomleft">
       <rect
          style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.15;stroke:none;stroke-width:0.67823297;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          id="rect4851-1-42-0"
@@ -153,6 +146,13 @@
          height="1"
          x="8.25"
          y="49" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.8;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         id="rect4817-3-7-7"
+         width="5"
+         height="2"
+         x="7"
+         y="47" />
     </g>
   </g>
 </svg>
