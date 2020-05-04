@@ -88,22 +88,6 @@
        y="5"
        transform="rotate(-90)" />
     <rect
-       style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:0.4;stroke:none;stroke-width:0.46332133;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-       id="rect907"
-       width="7"
-       height="1"
-       x="-34"
-       y="6"
-       transform="rotate(-90)" />
-    <rect
-       style="opacity:1;vector-effect:none;fill:#0000ff;fill-opacity:0.4;stroke:none;stroke-width:0.46332133;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-       id="rect913"
-       width="7"
-       height="1"
-       x="-34"
-       y="12"
-       transform="rotate(-90)" />
-    <rect
        style="opacity:1;vector-effect:none;fill:#ddbbff;fill-opacity:0.45;stroke:none;stroke-width:0.52535701;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        id="rect853"
        width="9"
@@ -118,6 +102,22 @@
        height="1"
        x="-35"
        y="13"
+       transform="rotate(-90)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:0.4;stroke:none;stroke-width:0.46332133;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       id="rect907"
+       width="7"
+       height="1"
+       x="-34"
+       y="6"
+       transform="rotate(-90)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#0000ff;fill-opacity:0.4;stroke:none;stroke-width:0.46332133;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       id="rect913"
+       width="7"
+       height="1"
+       x="-34"
+       y="12"
        transform="rotate(-90)" />
   </g>
 </svg>
