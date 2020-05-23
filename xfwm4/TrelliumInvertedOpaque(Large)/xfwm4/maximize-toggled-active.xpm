@@ -3,9 +3,9 @@ static char *maximize_toggled_active[] = {
 /* columns rows colors chars-per-pixel */
 "37 32 14 1 ",
 "  c #131313",
-". c #1B1717",
-"X c #2B0909",
-"o c #092B2B",
+". c #1E1D1D",
+"X c #2A1111",
+"o c #112A2A",
 "O c #2A2A2A",
 "+ c #2C2C2C",
 "@ c gray18",

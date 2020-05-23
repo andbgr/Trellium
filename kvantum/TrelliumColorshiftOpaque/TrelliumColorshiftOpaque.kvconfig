@@ -32,8 +32,8 @@ layout_margin=2
 
 [GeneralColors]
 window.color=#ecececff
-base.color=#ffffff99
-alt.base.color=#ffffff00
+base.color=#fbfbfb99
+alt.base.color=#fbfbfb00
 button.color=#ecececff
 light.color=#5f5f5fff
 mid.light.color=#5f5f5fff
@@ -41,7 +41,7 @@ mid.color=#5f5f5fff
 dark.color=#5f5f5fff
 highlight.color=#4444bbff
 inactive.highlight.color=#4444bb80
-tooltip.base.color=#ffffff99
+tooltip.base.color=#fbfbfb99
 text.color=#000000
 window.text.color=#000000
 button.text.color=#000000

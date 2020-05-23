@@ -2,8 +2,8 @@ selection	#4444bb	1
 focus		#bbbb44	0.5
 bg		#080808	0.86
 bg-border	#e2e2e2	0.5
-bg-topleft	#004444	0.5
-bg-bottomright	#440000	0.5
+bg-topleft	#00ffff	0.1
+bg-bottomright	#ff0000	0.1
 bg-hover	#ffffff	0.15
 bg-pressed	#4444bb	0.25
 view		#000000	0.6

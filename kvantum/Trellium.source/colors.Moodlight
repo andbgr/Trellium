@@ -1,11 +1,11 @@
 selection	#8044bb	1
-focus		#bbbb44	0.65
+focus		#bbbb44	0.75
 bg		#080808	0.86
-bg-border	#ddbbff	0.45
-bg-topleft	#ff0000	0.4
-bg-bottomright	#0000ff	0.4
+bg-border	#cc99ff	0.55
+bg-topleft	#ff0000	0.45
+bg-bottomright	#0000ff	0.45
 bg-hover	#ffffff	0.15
-bg-pressed	#8044bb	0.25
+bg-pressed	#8044bb	0.3
 view		#000000	0.6
 view-hover	#000000	0.8
 text-selection	#000000	1

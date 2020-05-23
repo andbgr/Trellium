@@ -3,10 +3,10 @@ static char *shade_active[] = {
 /* columns rows colors chars-per-pixel */
 "37 32 20 1 ",
 "  c #131313",
-". c #1B1717",
+". c #1E1D1D",
 "X c gray12",
-"o c #2B0909",
-"O c #092B2B",
+"o c #2A1111",
+"O c #112A2A",
 "+ c #2A2A2A",
 "@ c gray18",
 "# c #444444",

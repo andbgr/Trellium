@@ -64,11 +64,11 @@
        inkscape:collect="always"
        id="linearGradient4562">
       <stop
-         style="stop-color:#ff0000;stop-opacity:0.4"
+         style="stop-color:#ff0000;stop-opacity:0.45"
          offset="0"
          id="stop4558" />
       <stop
-         style="stop-color:#0000ff;stop-opacity:0.4"
+         style="stop-color:#0000ff;stop-opacity:0.45"
          offset="1"
          id="stop4560" />
     </linearGradient>
@@ -131,7 +131,7 @@
          inkscape:connector-curvature="0"
          id="path4508-6"
          d="m -10.5,-176.13782 a 15,15 0 0 0 -15,15 15,15 0 0 0 15,15 15,15 0 0 0 15,-15 15,15 0 0 0 -15,-15 z m 0,2 a 13,13 0 0 1 13,13 13,13 0 0 1 -13,13 13,13 0 0 1 -13,-13 13,13 0 0 1 13,-13 z"
-         style="opacity:1;vector-effect:none;fill:#ddbbff;fill-opacity:0.45;stroke:none;stroke-width:2.34946799;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
+         style="opacity:1;vector-effect:none;fill:#cc99ff;fill-opacity:0.55;stroke:none;stroke-width:2.34946799;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
       <path
          inkscape:connector-curvature="0"
          id="path4508"
@@ -152,12 +152,12 @@
          cy="-161.13782"
          cx="-10.5"
          id="path4508-5-9"
-         style="opacity:1;vector-effect:none;fill:#8044bb;fill-opacity:0.25;stroke:none;stroke-width:2.19283676;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
+         style="opacity:1;vector-effect:none;fill:#8044bb;fill-opacity:0.3;stroke:none;stroke-width:2.19283676;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
       <path
          inkscape:connector-curvature="0"
          id="path4508-6-3"
          d="m -10.5,-176.13782 a 15,15 0 0 0 -15,15 15,15 0 0 0 15,15 15,15 0 0 0 15,-15 15,15 0 0 0 -15,-15 z m 0,2 a 13,13 0 0 1 13,13 13,13 0 0 1 -13,13 13,13 0 0 1 -13,-13 13,13 0 0 1 13,-13 z"
-         style="opacity:1;vector-effect:none;fill:#ddbbff;fill-opacity:0.45;stroke:none;stroke-width:2.34946799;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
+         style="opacity:1;vector-effect:none;fill:#cc99ff;fill-opacity:0.55;stroke:none;stroke-width:2.34946799;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
       <path
          inkscape:connector-curvature="0"
          id="path4508-60"

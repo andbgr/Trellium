@@ -6,8 +6,8 @@ bg-topleft	#bbffff	0.5
 bg-bottomright	#ffbbbb	0.5
 bg-hover	#ffffff	0.45
 bg-pressed	#000000	0.2
-view		#ffffff	0.6
-view-hover	#ffffff	0.8
+view		#fbfbfb	0.6
+view-hover	#fbfbfb	0.8
 text-selection	#ffffff	1
 text-bg		#000000	0.85
 text-view	#000000	1
