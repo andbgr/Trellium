@@ -2,9 +2,9 @@
 static char *bottom_active[] = {
 /* columns rows colors chars-per-pixel */
 "1 6 3 1 ",
-"  c #585858",
-". c #F7CECE",
-"X c #ECECEC",
+"  c #535353",
+". c #F3CACA",
+"X c gray88",
 /* pixels */
 "X",
 "X",
