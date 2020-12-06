@@ -21,8 +21,8 @@
      inkscape:window-x="0"
      showgrid="true"
      id="namedview1408"
-     inkscape:window-height="1054"
-     inkscape:window-width="1876"
+     inkscape:window-height="1056"
+     inkscape:window-width="1880"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -39,9 +39,9 @@
      fit-margin-right="5"
      fit-margin-bottom="5"
      inkscape:bbox-paths="false"
-     inkscape:zoom="34.90242"
-     inkscape:cx="303.5439"
-     inkscape:cy="296.23402">
+     inkscape:zoom="17.45121"
+     inkscape:cx="290.96978"
+     inkscape:cy="65.131646">
     <inkscape:grid
        originy="-924"
        originx="1.4210855e-14"
@@ -8628,17 +8628,34 @@
        id="rect4868-27-2-3"
        style="opacity:1;vector-effect:none;fill:#f0f0f0;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
   </g>
-  <rect
-     style="opacity:1;vector-effect:none;fill:#ffff80;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+  <g
      id="tooltip-normal"
-     width="5"
-     height="5"
-     x="292"
-     y="242"
-     inkscape:label="#tooltip-normal-center" />
+     inkscape:label="#g3521">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       id="rect3501"
+       width="5"
+       height="5"
+       x="292"
+       y="242"
+       inkscape:label="#tooltip-normal-center" />
+    <rect
+       inkscape:label="#tooltip-normal-center"
+       y="242"
+       x="292"
+       height="5"
+       width="5"
+       id="tooltip-normal_"
+       style="opacity:1;vector-effect:none;fill:#ffff80;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
+  </g>
   <g
      id="tooltip-normal-topleft"
      transform="translate(285,205)">
+    <path
+       style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       d="M 6,31 A 5,5 0 0 0 1,36 H 6 Z"
+       id="path3503"
+       inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path4718-60"
@@ -8654,6 +8671,11 @@
      id="tooltip-normal-topright"
      transform="translate(285,205)">
     <path
+       style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       d="m 13,31 v 5 h 5 a 5,5 0 0 0 -5,-5 z"
+       id="path3505"
+       inkscape:connector-curvature="0" />
+    <path
        inkscape:connector-curvature="0"
        id="path4718-2-88"
        d="m 13,31 v 5 h 5 a 5,5 0 0 0 -5,-5 z"
@@ -8667,6 +8689,11 @@
   <g
      id="tooltip-normal-bottomleft"
      transform="translate(285,205)">
+    <path
+       style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       d="m 1,43 a 5,5 0 0 0 5,5 v -5 z"
+       id="path3507"
+       inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path4718-3-7"
@@ -8682,6 +8709,11 @@
      id="tooltip-normal-bottomright"
      transform="translate(285,205)">
     <path
+       style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       d="m 13,43 v 5 a 5,5 0 0 0 5,-5 z"
+       id="path3509"
+       inkscape:connector-curvature="0" />
+    <path
        inkscape:connector-curvature="0"
        id="path4718-7-3"
        d="m 13,43 v 5 a 5,5 0 0 0 5,-5 z"
@@ -8695,6 +8727,13 @@
   <g
      id="tooltip-normal-top"
      transform="translate(285,205)">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       id="rect3511"
+       width="5"
+       height="5"
+       x="7"
+       y="31" />
     <rect
        y="31"
        x="7"
@@ -8714,6 +8753,13 @@
      id="tooltip-normal-bottom"
      transform="translate(285,205)">
     <rect
+       style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       id="rect3513"
+       width="5"
+       height="5"
+       x="7"
+       y="43" />
+    <rect
        y="43"
        x="7"
        height="5"
@@ -8732,6 +8778,13 @@
      id="tooltip-normal-left"
      transform="translate(285,205)">
     <rect
+       style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       id="rect3515"
+       width="5"
+       height="5"
+       x="1"
+       y="37" />
+    <rect
        y="37"
        x="1"
        height="5"
@@ -8749,6 +8802,13 @@
   <g
      id="tooltip-normal-right"
      transform="translate(285,205)">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       id="rect3517"
+       width="5"
+       height="5"
+       x="13"
+       y="37" />
     <rect
        y="37"
        x="13"
