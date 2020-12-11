@@ -2,8 +2,8 @@
 static char *menu_pressed[] = {
 /* columns rows colors chars-per-pixel */
 "30 25 3 1 ",
-"  c #CAF3F3",
-". c gray88",
+"  c #CBF4F4",
+". c #E4E4E4",
 "X c None",
 /* pixels */
 "XXXX                          ",
