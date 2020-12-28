@@ -5,7 +5,7 @@ bg-border	#100e23	1
 bg-topleft	#05b9ec	0.67
 bg-bottomright	#b239ff	0.67
 bg-hover	#05b9ec	0.33
-bg-pressed	#554d44	0.5
+bg-pressed	#322d34	1
 view		#000000	1
 view-hover	#000000	1
 text-selection	#ffffff	1
