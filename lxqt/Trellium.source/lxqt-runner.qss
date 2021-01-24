@@ -8,6 +8,7 @@
 
 
 #commandList {
+        color: #101010;
        	margin: 0px;
         margin-top: -2px;
         border: 3px;

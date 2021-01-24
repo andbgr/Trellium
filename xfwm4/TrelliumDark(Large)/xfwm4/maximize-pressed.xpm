@@ -12,7 +12,7 @@ static char *maximize_pressed[] = {
 "# c #3C3C3C",
 "$ c #3F3F3F",
 "% c gray25",
-"& c gray44",
+"& c #646464",
 "* c gray59",
 "= c #9B9B9B",
 "- c #C8C8C8",

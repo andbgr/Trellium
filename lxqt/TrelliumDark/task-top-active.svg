@@ -65,7 +65,7 @@
       <stop
          id="stop4885"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:0.4;" />
+         style="stop-color:#ffffff;stop-opacity:0.35;" />
       <stop
          id="stop4887"
          offset="1"
@@ -217,7 +217,7 @@
          x="17"
          y="37" />
       <rect
-         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.35;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          id="rect4868-27-9"
          width="1"
          height="5"
@@ -275,7 +275,7 @@
          x="17"
          y="37" />
       <rect
-         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.4;stroke:none;stroke-width:0.67823297;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.35;stroke:none;stroke-width:0.67823297;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          id="rect4868-27-9-1"
          width="1"
          height="3.75"

@@ -13,7 +13,7 @@ static char *close_pressed[] = {
 "$ c gray19",
 "% c #343434",
 "& c gray35",
-"* c gray44",
+"* c #646464",
 "= c #818181",
 "- c gray78",
 "; c gray79",
