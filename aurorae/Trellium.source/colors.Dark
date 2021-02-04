@@ -1,9 +1,9 @@
 selection	#4444bb	1
 focus		#bbbb44	0.55
-bg		#111111	1
+bg		#141414	1
 bg-border	#000000	1
-bg-topleft	#ffffff	0.35
-bg-bottomright	#ffffff	0.15
+bg-topleft	#ffffff	0.3
+bg-bottomright	#ffffff	0.1
 bg-hover	#ffffff	0.1
 bg-pressed	#000000	1
 view		#000000	0.6

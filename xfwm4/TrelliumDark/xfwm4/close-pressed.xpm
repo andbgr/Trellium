@@ -6,14 +6,14 @@ static char *close_pressed[] = {
 ". c #010101",
 "X c gray1",
 "o c #040404",
-"O c #111111",
+"O c gray8",
 "+ c #222222",
 "@ c gray17",
 "# c #2F2F2F",
 "$ c gray19",
 "% c #343434",
 "& c gray35",
-"* c #646464",
+"* c #5A5A5A",
 "= c #818181",
 "- c gray78",
 "; c gray79",
@@ -47,6 +47,6 @@ static char *close_pressed[] = {
 "                              ",
 "                              ",
 "                              ",
-"*****************************%",
-"OOOOOOOOOOOOOOOOOOOOOOOOOOOOO%"
+"*****************************@",
+"OOOOOOOOOOOOOOOOOOOOOOOOOOOOO@"
 };

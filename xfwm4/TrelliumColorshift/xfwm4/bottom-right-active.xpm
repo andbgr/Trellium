@@ -1,7 +1,7 @@
 /* XPM */
 static char *bottom_right_active[] = {
 /* columns rows colors chars-per-pixel */
-"6 6 18 1 ",
+"6 6 19 1 ",
 "  c #555555",
 ". c gray34",
 "X c #585858",
@@ -10,21 +10,22 @@ static char *bottom_right_active[] = {
 "+ c gray39",
 "@ c #656565",
 "# c #676767",
-"$ c #757070",
+"$ c #736F6F",
 "% c gray49",
-"& c #DABEBE",
-"* c #F7D0D0",
-"= c #F6D1D1",
-"- c #F8D1D1",
-"; c #FAE7E7",
-": c gray97",
-"> c #F8F3F3",
-", c None",
+"& c #D7BFBF",
+"* c #F6D5D5",
+"= c #F5D6D6",
+"- c #F6D6D6",
+"; c #F9E8E8",
+": c #F9E9E9",
+"> c gray97",
+", c #F8F4F4",
+"< c None",
 /* pixels */
-"::>*O.",
-"::;&o@",
-">;=$ %",
-"-&$.+,",
-"Oo +,,",
-"X#%,,,"
+">>,-O.",
+">>:&o@",
+",;=$ %",
+"*&$.+<",
+"Oo +<<",
+"X#%<<<"
 };

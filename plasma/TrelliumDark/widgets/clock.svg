@@ -69,11 +69,11 @@
        inkscape:collect="always"
        id="linearGradient4601">
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.35"
+         style="stop-color:#ffffff;stop-opacity:0.3"
          offset="0"
          id="stop4597" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.15"
+         style="stop-color:#ffffff;stop-opacity:0.1"
          offset="1"
          id="stop4599" />
     </linearGradient>
@@ -121,7 +121,7 @@
          cy="-132.13782"
          cx="407.5"
          id="path4526-6"
-         style="opacity:1;vector-effect:none;fill:#111111;fill-opacity:1;stroke:none;stroke-width:0.78790236;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
+         style="opacity:1;vector-effect:none;fill:#141414;fill-opacity:1;stroke:none;stroke-width:0.78790236;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
       <path
          id="path4526"
          transform="translate(167.5,-213.13782)"

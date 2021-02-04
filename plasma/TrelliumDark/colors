@@ -1,6 +1,6 @@
 [Colors:Button]
-BackgroundAlternate=17,17,17
-BackgroundNormal=17,17,17
+BackgroundAlternate=20,20,20
+BackgroundNormal=20,20,20
 DecorationFocus=68,68,187
 DecorationHover=68,68,187
 ForegroundActive=255,128,224
@@ -55,8 +55,8 @@ ForegroundPositive=0,110,40
 ForegroundVisited=85,26,139
 
 [Colors:Window]
-BackgroundAlternate=17,17,17
-BackgroundNormal=17,17,17
+BackgroundAlternate=20,20,20
+BackgroundNormal=20,20,20
 DecorationFocus=68,68,187
 DecorationHover=68,68,187
 ForegroundActive=255,128,224
@@ -72,9 +72,9 @@ ForegroundVisited=85,26,139
 Name=Trellium Dark
 
 [WM]
-activeBackground=17,17,17
+activeBackground=20,20,20
 activeBlend=224,224,224
 activeForeground=224,224,224
-inactiveBackground=17,17,17
+inactiveBackground=20,20,20
 inactiveBlend=224,224,224
 inactiveForeground=224,224,224
