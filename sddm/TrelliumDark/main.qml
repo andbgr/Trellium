@@ -152,7 +152,7 @@ Rectangle {
 					Layout.alignment: Qt.AlignTop | Qt.AlignCenter
 					color: "#e0e0e0"
 					text: sddm.hostName
-					font.pixelSize: 19 * container.scalingFactor
+					font.pixelSize: 16 * container.scalingFactor
 				}
 				Text {
 // 					Spacer
@@ -170,7 +170,7 @@ Rectangle {
 					QQC.Label {
 						Layout.alignment: Qt.AlignRight
 						text: textConstants.userName
-						font.pixelSize: 19 * container.scalingFactor
+						font.pixelSize: 16 * container.scalingFactor
 						color: "#e0e0e0"
 					}
 					
@@ -179,7 +179,7 @@ Rectangle {
 						text: userModel.lastUser
 						Layout.fillWidth: true
 						Layout.preferredHeight: font.pixelSize + 13 //this is really ugly, why isn't the minimum height determined by content?
-						font.pixelSize: 19 * container.scalingFactor
+						font.pixelSize: 16 * container.scalingFactor
 						textColor: "#e0e0e0"
 						style: TextFieldStyle {
 							background: BorderImage {
@@ -197,7 +197,7 @@ Rectangle {
 					QQC.Label {
 						Layout.alignment: Qt.AlignRight
 						text: textConstants.password
-						font.pixelSize: 19 * container.scalingFactor
+						font.pixelSize: 16 * container.scalingFactor
 						color: "#e0e0e0"
 					}
 					
@@ -206,7 +206,7 @@ Rectangle {
 						echoMode: TextInput.Password
 						Layout.fillWidth: true
 						Layout.preferredHeight: font.pixelSize + 13 //this is really ugly, why isn't the minimum height implicitly determined by content?
-						font.pixelSize: 19 * container.scalingFactor
+						font.pixelSize: 16 * container.scalingFactor
 						textColor: "#e0e0e0"
 						style: TextFieldStyle {
 							background: BorderImage {
@@ -231,7 +231,7 @@ Rectangle {
 					id: message
 					Layout.alignment: Qt.AlignCenter
 					text: ""
-					font.pixelSize: 19 * container.scalingFactor
+					font.pixelSize: 16 * container.scalingFactor
 					color: "#810000"
 				}
 				RowLayout {
@@ -265,7 +265,7 @@ Rectangle {
 								QQC.Label {
 									Layout.fillWidth: true
 									text: instantiator.objectAt(sessionbutton.currentIndex).text || ""
-									font.pixelSize: 19 * container.scalingFactor
+									font.pixelSize: 16 * container.scalingFactor
 									color: "#e0e0e0"
 								}
 								Image {

@@ -42,11 +42,11 @@ dark.color=#080808a6
 highlight.color=#4444bbff
 inactive.highlight.color=#4444bb80
 tooltip.base.color=#fbfbfbab
-text.color=#000000
-window.text.color=#000000
-button.text.color=#000000
-disabled.text.color=#00000080
-tooltip.text.color=#000000
+text.color=#101010
+window.text.color=#101010
+button.text.color=#101010
+disabled.text.color=#10101080
+tooltip.text.color=#101010
 highlight.text.color=#ffffff
 progress.indicator.text.color=#ffffff
 progress.inactive.indicator.text.color=#ffffff
@@ -136,10 +136,10 @@ inherits=PanelButtonCommand
 
 [ToolboxTab]
 inherits=PanelButtonCommand
-text.normal.color=#000000
-text.focus.color=#000000
-text.press.color=#000000
-text.toggle.color=#000000
+text.normal.color=#101010
+text.focus.color=#101010
+text.press.color=#101010
+text.toggle.color=#101010
 
 [Tab]
 inherits=PanelButtonCommand
@@ -189,7 +189,7 @@ indicator.element=sizegrip
 
 [Toolbar]
 inherits=PanelButtonCommand
-text.normal.color=#000000
+text.normal.color=#101010
 frame.top=0
 frame.bottom=1
 frame.left=1
@@ -298,8 +298,8 @@ frame.top=7
 frame.bottom=7
 frame.left=7
 frame.right=7
-text.normal.color=#000000
-text.focus.color=#000000
+text.normal.color=#101010
+text.focus.color=#101010
 focusFrame=false
 
 [ToolTip]

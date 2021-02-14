@@ -150,9 +150,9 @@ Rectangle {
 					Layout.preferredHeight: footer.Layout.minimumHeight - 2
 					Layout.margins: 1
 					Layout.alignment: Qt.AlignTop | Qt.AlignCenter
-					color: "#000000"
+					color: "#101010"
 					text: sddm.hostName
-					font.pixelSize: 19 * container.scalingFactor
+					font.pixelSize: 16 * container.scalingFactor
 				}
 				Text {
 // 					Spacer
@@ -170,8 +170,8 @@ Rectangle {
 					QQC.Label {
 						Layout.alignment: Qt.AlignRight
 						text: textConstants.userName
-						font.pixelSize: 19 * container.scalingFactor
-						color: "#000000"
+						font.pixelSize: 16 * container.scalingFactor
+						color: "#101010"
 					}
 					
 					QQC.TextField {
@@ -179,8 +179,8 @@ Rectangle {
 						text: userModel.lastUser
 						Layout.fillWidth: true
 						Layout.preferredHeight: font.pixelSize + 13 //this is really ugly, why isn't the minimum height determined by content?
-						font.pixelSize: 19 * container.scalingFactor
-						textColor: "#000000"
+						font.pixelSize: 16 * container.scalingFactor
+						textColor: "#101010"
 						style: TextFieldStyle {
 							background: BorderImage {
 								border.left: 4
@@ -197,8 +197,8 @@ Rectangle {
 					QQC.Label {
 						Layout.alignment: Qt.AlignRight
 						text: textConstants.password
-						font.pixelSize: 19 * container.scalingFactor
-						color: "#000000"
+						font.pixelSize: 16 * container.scalingFactor
+						color: "#101010"
 					}
 					
 					QQC.TextField {
@@ -206,8 +206,8 @@ Rectangle {
 						echoMode: TextInput.Password
 						Layout.fillWidth: true
 						Layout.preferredHeight: font.pixelSize + 13 //this is really ugly, why isn't the minimum height implicitly determined by content?
-						font.pixelSize: 19 * container.scalingFactor
-						textColor: "#000000"
+						font.pixelSize: 16 * container.scalingFactor
+						textColor: "#101010"
 						style: TextFieldStyle {
 							background: BorderImage {
 								border.left: 4
@@ -231,7 +231,7 @@ Rectangle {
 					id: message
 					Layout.alignment: Qt.AlignCenter
 					text: ""
-					font.pixelSize: 19 * container.scalingFactor
+					font.pixelSize: 16 * container.scalingFactor
 					color: "#810000"
 				}
 				RowLayout {
@@ -265,8 +265,8 @@ Rectangle {
 								QQC.Label {
 									Layout.fillWidth: true
 									text: instantiator.objectAt(sessionbutton.currentIndex).text || ""
-									font.pixelSize: 19 * container.scalingFactor
-									color: "#000000"
+									font.pixelSize: 16 * container.scalingFactor
+									color: "#101010"
 								}
 								Image {
 									source: "arrow-down.svg"

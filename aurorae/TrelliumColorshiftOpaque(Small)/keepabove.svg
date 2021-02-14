@@ -385,13 +385,13 @@
          transform="matrix(1,0,0,-1,0,31)">
         <path
            sodipodi:nodetypes="ccccccc"
-           style="fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#101010;fill-opacity:0.9;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 22,20 5.5,-5.5 -1,-1 -4.5,4.5 -4.5,-4.5 -1,1 z"
            id="path7672"
            inkscape:connector-curvature="0" />
         <path
            sodipodi:nodetypes="ccccccc"
-           style="fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#101010;fill-opacity:0.9;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 22,15 5.5,-5.5 -1,-1 -4.5,4.5 -4.5,-4.5 -1,1 z"
            id="path7672-7"
            inkscape:connector-curvature="0" />

@@ -8,7 +8,7 @@ ForegroundInactive=127,127,127
 ForegroundLink=0,0,238
 ForegroundNegative=191,3,3
 ForegroundNeutral=176,128,0
-ForegroundNormal=0,0,0
+ForegroundNormal=16,16,16
 ForegroundPositive=0,110,40
 ForegroundVisited=85,26,139
 
@@ -36,7 +36,7 @@ ForegroundInactive=127,127,127
 ForegroundLink=0,0,238
 ForegroundNegative=191,3,3
 ForegroundNeutral=176,128,0
-ForegroundNormal=0,0,0
+ForegroundNormal=16,16,16
 ForegroundPositive=0,110,40
 ForegroundVisited=85,26,139
 
@@ -50,7 +50,7 @@ ForegroundInactive=127,127,127
 ForegroundLink=0,0,238
 ForegroundNegative=191,3,3
 ForegroundNeutral=176,128,0
-ForegroundNormal=0,0,0
+ForegroundNormal=16,16,16
 ForegroundPositive=0,110,40
 ForegroundVisited=85,26,139
 
@@ -64,7 +64,7 @@ ForegroundInactive=127,127,127
 ForegroundLink=0,0,238
 ForegroundNegative=191,3,3
 ForegroundNeutral=176,128,0
-ForegroundNormal=0,0,0
+ForegroundNormal=16,16,16
 ForegroundPositive=0,110,40
 ForegroundVisited=85,26,139
 
@@ -73,8 +73,8 @@ Name=Trellium Colorshift
 
 [WM]
 activeBackground=247,247,247
-activeBlend=0,0,0
-activeForeground=0,0,0
+activeBlend=16,16,16
+activeForeground=16,16,16
 inactiveBackground=247,247,247
-inactiveBlend=0,0,0
-inactiveForeground=0,0,0
+inactiveBlend=16,16,16
+inactiveForeground=16,16,16

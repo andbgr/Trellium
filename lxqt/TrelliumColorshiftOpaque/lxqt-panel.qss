@@ -26,7 +26,7 @@ LXQtPanel[position="Right"] #Tray {
 
 LXQtPanel[position="Right"] Plugin > QToolButton,
 LXQtPanel[position="Right"] Plugin > QWidget > QToolButton {
-	color: #000000;
+	color: #101010;
 	margin: 1px;
 	border: 0px;
         padding: 3px;
@@ -134,7 +134,7 @@ LXQtPanel[position="Right"] LXQtGroupPopup {
 
 
 LXQtPanel[position="Right"] LXQtGroupPopup > QToolButton {
-	color: #000000;
+	color: #101010;
 	margin: 0px;
 	border: 7px;
 	border-image: url(button.svg) 7 7 7 7 stretch stretch;
@@ -166,7 +166,7 @@ LXQtPanel[position="Right"] #WorldClockPlugin {
 
 LXQtPanel[position="Right"] #Clock QLabel,
 LXQtPanel[position="Right"] #WorldClock QLabel {
-	color: #000000;
+	color: #101010;
 }
 
 
@@ -188,17 +188,17 @@ LXQtPanel[position="Right"] #SysStat > QLabel {
 
 LXQtPanel[position="Right"] #SysStat_Graph {
 	qproperty-gridColor: #00000000;
-	qproperty-titleColor: #000000;
-	qproperty-cpuSystemColor: #c04444bb;
-	qproperty-cpuUserColor: #c04444bb;
-	qproperty-cpuNiceColor: #604444bb;
+	qproperty-titleColor: #101010;
+	qproperty-cpuSystemColor: #44bb44;
+	qproperty-cpuUserColor: #44bb44;
+	qproperty-cpuNiceColor: #8044bb44;
 	qproperty-cpuOtherColor: #bb4444;
-	qproperty-frequencyColor: #c04444bb;
-	qproperty-memAppsColor: #c04444bb;
-	qproperty-memBuffersColor: #604444bb;
-	qproperty-memCachedColor: #604444bb;
+	qproperty-frequencyColor: #44bb44;
+	qproperty-memAppsColor: #44bb44;
+	qproperty-memBuffersColor: #8044bb44;
+	qproperty-memCachedColor: #8044bb44;
 	qproperty-swapUsedColor: #bb4444;
-	qproperty-netReceivedColor: #c04444bb;
+	qproperty-netReceivedColor: #44bb44;
 	qproperty-netTransmittedColor: #bb4444;
 }
 
@@ -252,7 +252,7 @@ LXQtPanel[position="Bottom"] #Tray {
 
 LXQtPanel[position="Bottom"] Plugin > QToolButton,
 LXQtPanel[position="Bottom"] Plugin > QWidget > QToolButton {
-	color: #000000;
+	color: #101010;
 	margin: 1px;
 	border: 0px;
         padding: 3px;
@@ -360,7 +360,7 @@ LXQtPanel[position="Bottom"] LXQtGroupPopup {
 
 
 LXQtPanel[position="Bottom"] LXQtGroupPopup > QToolButton {
-	color: #000000;
+	color: #101010;
 	margin: 0px;
 	border: 7px;
 	border-image: url(button.svg) 7 7 7 7 stretch stretch;
@@ -392,7 +392,7 @@ LXQtPanel[position="Bottom"] #WorldClockPlugin {
 
 LXQtPanel[position="Bottom"] #Clock QLabel,
 LXQtPanel[position="Bottom"] #WorldClock QLabel {
-	color: #000000;
+	color: #101010;
 }
 
 
@@ -414,17 +414,17 @@ LXQtPanel[position="Bottom"] #SysStat > QLabel {
 
 LXQtPanel[position="Bottom"] #SysStat_Graph {
 	qproperty-gridColor: #00000000;
-	qproperty-titleColor: #000000;
-	qproperty-cpuSystemColor: #c04444bb;
-	qproperty-cpuUserColor: #c04444bb;
-	qproperty-cpuNiceColor: #604444bb;
+	qproperty-titleColor: #101010;
+	qproperty-cpuSystemColor: #44bb44;
+	qproperty-cpuUserColor: #44bb44;
+	qproperty-cpuNiceColor: #8044bb44;
 	qproperty-cpuOtherColor: #bb4444;
-	qproperty-frequencyColor: #c04444bb;
-	qproperty-memAppsColor: #c04444bb;
-	qproperty-memBuffersColor: #604444bb;
-	qproperty-memCachedColor: #604444bb;
+	qproperty-frequencyColor: #44bb44;
+	qproperty-memAppsColor: #44bb44;
+	qproperty-memBuffersColor: #8044bb44;
+	qproperty-memCachedColor: #8044bb44;
 	qproperty-swapUsedColor: #bb4444;
-	qproperty-netReceivedColor: #c04444bb;
+	qproperty-netReceivedColor: #44bb44;
 	qproperty-netTransmittedColor: #bb4444;
 }
 
@@ -478,7 +478,7 @@ LXQtPanel[position="Left"] #Tray {
 
 LXQtPanel[position="Left"] Plugin > QToolButton,
 LXQtPanel[position="Left"] Plugin > QWidget > QToolButton {
-	color: #000000;
+	color: #101010;
 	margin: 1px;
 	border: 0px;
         padding: 3px;
@@ -586,7 +586,7 @@ LXQtPanel[position="Left"] LXQtGroupPopup {
 
 
 LXQtPanel[position="Left"] LXQtGroupPopup > QToolButton {
-	color: #000000;
+	color: #101010;
 	margin: 0px;
 	border: 7px;
 	border-image: url(button.svg) 7 7 7 7 stretch stretch;
@@ -618,7 +618,7 @@ LXQtPanel[position="Left"] #WorldClockPlugin {
 
 LXQtPanel[position="Left"] #Clock QLabel,
 LXQtPanel[position="Left"] #WorldClock QLabel {
-	color: #000000;
+	color: #101010;
 }
 
 
@@ -640,17 +640,17 @@ LXQtPanel[position="Left"] #SysStat > QLabel {
 
 LXQtPanel[position="Left"] #SysStat_Graph {
 	qproperty-gridColor: #00000000;
-	qproperty-titleColor: #000000;
-	qproperty-cpuSystemColor: #c04444bb;
-	qproperty-cpuUserColor: #c04444bb;
-	qproperty-cpuNiceColor: #604444bb;
+	qproperty-titleColor: #101010;
+	qproperty-cpuSystemColor: #44bb44;
+	qproperty-cpuUserColor: #44bb44;
+	qproperty-cpuNiceColor: #8044bb44;
 	qproperty-cpuOtherColor: #bb4444;
-	qproperty-frequencyColor: #c04444bb;
-	qproperty-memAppsColor: #c04444bb;
-	qproperty-memBuffersColor: #604444bb;
-	qproperty-memCachedColor: #604444bb;
+	qproperty-frequencyColor: #44bb44;
+	qproperty-memAppsColor: #44bb44;
+	qproperty-memBuffersColor: #8044bb44;
+	qproperty-memCachedColor: #8044bb44;
 	qproperty-swapUsedColor: #bb4444;
-	qproperty-netReceivedColor: #c04444bb;
+	qproperty-netReceivedColor: #44bb44;
 	qproperty-netTransmittedColor: #bb4444;
 }
 
@@ -704,7 +704,7 @@ LXQtPanel[position="Top"] #Tray {
 
 LXQtPanel[position="Top"] Plugin > QToolButton,
 LXQtPanel[position="Top"] Plugin > QWidget > QToolButton {
-	color: #000000;
+	color: #101010;
 	margin: 1px;
 	border: 0px;
         padding: 3px;
@@ -812,7 +812,7 @@ LXQtPanel[position="Top"] LXQtGroupPopup {
 
 
 LXQtPanel[position="Top"] LXQtGroupPopup > QToolButton {
-	color: #000000;
+	color: #101010;
 	margin: 0px;
 	border: 7px;
 	border-image: url(button.svg) 7 7 7 7 stretch stretch;
@@ -844,7 +844,7 @@ LXQtPanel[position="Top"] #WorldClockPlugin {
 
 LXQtPanel[position="Top"] #Clock QLabel,
 LXQtPanel[position="Top"] #WorldClock QLabel {
-	color: #000000;
+	color: #101010;
 }
 
 
@@ -866,17 +866,17 @@ LXQtPanel[position="Top"] #SysStat > QLabel {
 
 LXQtPanel[position="Top"] #SysStat_Graph {
 	qproperty-gridColor: #00000000;
-	qproperty-titleColor: #000000;
-	qproperty-cpuSystemColor: #c04444bb;
-	qproperty-cpuUserColor: #c04444bb;
-	qproperty-cpuNiceColor: #604444bb;
+	qproperty-titleColor: #101010;
+	qproperty-cpuSystemColor: #44bb44;
+	qproperty-cpuUserColor: #44bb44;
+	qproperty-cpuNiceColor: #8044bb44;
 	qproperty-cpuOtherColor: #bb4444;
-	qproperty-frequencyColor: #c04444bb;
-	qproperty-memAppsColor: #c04444bb;
-	qproperty-memBuffersColor: #604444bb;
-	qproperty-memCachedColor: #604444bb;
+	qproperty-frequencyColor: #44bb44;
+	qproperty-memAppsColor: #44bb44;
+	qproperty-memBuffersColor: #8044bb44;
+	qproperty-memCachedColor: #8044bb44;
 	qproperty-swapUsedColor: #bb4444;
-	qproperty-netReceivedColor: #c04444bb;
+	qproperty-netReceivedColor: #44bb44;
 	qproperty-netTransmittedColor: #bb4444;
 }
 
