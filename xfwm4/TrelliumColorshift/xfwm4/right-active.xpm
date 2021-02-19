@@ -4,7 +4,7 @@ static char *right_active[] = {
 "3 1 3 1 ",
 "  c #535353",
 ". c #5A5A5A",
-"X c #FBD8D8",
+"X c #FBD6D6",
 /* pixels */
 "X. "
 };
