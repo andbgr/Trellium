@@ -1,0 +1,18 @@
+#panel {
+        color: #e0e0e0;
+        margin: 0px;
+        border: 3px;
+        border-image: url(background.svg) 3 3 3 3 stretch stretch;
+        padding: 1px;
+}
+
+
+#commandList {
+        color: #e0e0e0;
+       	margin: 0px;
+        margin-top: -2px;
+        border: 3px;
+        border-image: url(background.svg) 3 3 3 3 stretch stretch;
+        padding: 1px;
+	qproperty-alternatingRowColors: false;
+}

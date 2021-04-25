@@ -198,7 +198,7 @@ LXQtPanel[position="Right"] #SysStat_Graph {
 	qproperty-memBuffersColor: #8044bb44;
 	qproperty-memCachedColor: #8044bb44;
 	qproperty-swapUsedColor: #bb4444;
-	qproperty-netReceivedColor: #44bb44;
+	qproperty-netReceivedColor: #4444bb;
 	qproperty-netTransmittedColor: #bb4444;
 }
 
@@ -424,7 +424,7 @@ LXQtPanel[position="Bottom"] #SysStat_Graph {
 	qproperty-memBuffersColor: #8044bb44;
 	qproperty-memCachedColor: #8044bb44;
 	qproperty-swapUsedColor: #bb4444;
-	qproperty-netReceivedColor: #44bb44;
+	qproperty-netReceivedColor: #4444bb;
 	qproperty-netTransmittedColor: #bb4444;
 }
 
@@ -650,7 +650,7 @@ LXQtPanel[position="Left"] #SysStat_Graph {
 	qproperty-memBuffersColor: #8044bb44;
 	qproperty-memCachedColor: #8044bb44;
 	qproperty-swapUsedColor: #bb4444;
-	qproperty-netReceivedColor: #44bb44;
+	qproperty-netReceivedColor: #4444bb;
 	qproperty-netTransmittedColor: #bb4444;
 }
 
@@ -876,7 +876,7 @@ LXQtPanel[position="Top"] #SysStat_Graph {
 	qproperty-memBuffersColor: #8044bb44;
 	qproperty-memCachedColor: #8044bb44;
 	qproperty-swapUsedColor: #bb4444;
-	qproperty-netReceivedColor: #44bb44;
+	qproperty-netReceivedColor: #4444bb;
 	qproperty-netTransmittedColor: #bb4444;
 }
 
