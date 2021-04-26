@@ -100,9 +100,7 @@ LXQtPanel[position="Right"] #TaskBar > QToolButton {
 	border: 7px;
 	border-left: 4px;
 	border-image: url(task-right.svg) 7 7 7 4 stretch stretch;
-	padding: 0px;
-	padding-right: 2px;
-	padding-left: 2px;
+	padding: 1px;
 }
 LXQtPanel[position="Right"] #TaskBar > QToolButton:hover {
 	border-image: url(task-right-hover.svg) 7 7 7 4 stretch stretch;
@@ -326,9 +324,7 @@ LXQtPanel[position="Bottom"] #TaskBar > QToolButton {
 	border: 7px;
 	border-top: 4px;
 	border-image: url(task-bottom.svg) 4 7 7 7 stretch stretch;
-	padding: 0px;
-	padding-bottom: 2px;
-	padding-top: 2px;
+	padding: 1px;
 }
 LXQtPanel[position="Bottom"] #TaskBar > QToolButton:hover {
 	border-image: url(task-bottom-hover.svg) 4 7 7 7 stretch stretch;
@@ -552,9 +548,7 @@ LXQtPanel[position="Left"] #TaskBar > QToolButton {
 	border: 7px;
 	border-right: 4px;
 	border-image: url(task-left.svg) 7 4 7 7 stretch stretch;
-	padding: 0px;
-	padding-left: 2px;
-	padding-right: 2px;
+	padding: 1px;
 }
 LXQtPanel[position="Left"] #TaskBar > QToolButton:hover {
 	border-image: url(task-left-hover.svg) 7 4 7 7 stretch stretch;
@@ -778,9 +772,7 @@ LXQtPanel[position="Top"] #TaskBar > QToolButton {
 	border: 7px;
 	border-bottom: 4px;
 	border-image: url(task-top.svg) 7 7 4 7 stretch stretch;
-	padding: 0px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding: 1px;
 }
 LXQtPanel[position="Top"] #TaskBar > QToolButton:hover {
 	border-image: url(task-top-hover.svg) 7 7 4 7 stretch stretch;
