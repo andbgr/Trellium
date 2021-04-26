@@ -5,11 +5,13 @@ This is a theme suite for LXQt or KDE. It consists of KWin/Aurorae and xfwm4 win
 
 1) go to (aurorae|kvantum|lxqt|plasma|xfwm4|sddm)/Trellium.source
 
-2) Create a new colors.[NAME]  file with appropriate colors (hexadecimal) and 
+2) Create a new colors.[NAME] file with appropriate colors (hexadecimal) and 
    alpha (i.e. transparency) values (ranging from 0 to 1).
 
 3) Run:
        ./make_theme.sh colors.[NAME]
+
+NOTE: the script requires the 'bc' calculator to be installed
 
 ## Screenshots:
 KDE Plasma panel on the left, LXQt panel on the right
