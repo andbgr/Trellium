@@ -72,7 +72,7 @@ text.margin.top=1
 text.margin.bottom=1
 text.margin.left=1
 text.margin.right=1
-indicator.size=14
+indicator.size=12
 frame.element=button
 interior.element=button
 indicator.element=arrow
@@ -289,7 +289,7 @@ indicator.element=mdi
 
 [ComboBox]
 inherits=PanelButtonCommand
-indicator.size=14
+indicator.size=12
 indicator.element=combo-indicator
 
 [GroupBox]
