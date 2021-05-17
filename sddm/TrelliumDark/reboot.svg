@@ -86,16 +86,16 @@
     </g>
     <g
        id="g827"
-       style="fill:#e0e0e0;fill-opacity:0.95"
+       style="fill:#e0e0e0;fill-opacity:0.9"
        transform="rotate(45,33.853553,52.090097)">
       <path
-         style="opacity:1;vector-effect:none;fill:#e0e0e0;fill-opacity:0.95;stroke:none;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         style="opacity:1;vector-effect:none;fill:#e0e0e0;fill-opacity:0.9;stroke:none;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          d="m 9,0.5 v 1 A 4.5,4.5 0 0 1 13.5,6 4.5,4.5 0 0 1 9,10.5 4.5,4.5 0 0 1 4.5,6 h -1 A 5.5,5.5 0 0 0 9,11.5 5.5,5.5 0 0 0 14.5,6 5.5,5.5 0 0 0 9,0.5 Z"
          transform="translate(35.5,73.5)"
          id="path818"
          inkscape:connector-curvature="0" />
       <path
-         style="fill:#e0e0e0;fill-opacity:0.95;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#e0e0e0;fill-opacity:0.9;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 39,79.5 h 1 l 1.25,1.25 0.5,-0.5 L 39.5,78 l -2.25,2.25 0.5,0.5 z"
          id="path821"
          inkscape:connector-curvature="0"

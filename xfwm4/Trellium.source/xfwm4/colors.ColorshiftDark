@@ -1,0 +1,13 @@
+selection	#4444bb	1
+focus		#bbbb44	1
+bg		#202020	1
+bg-border	#000000	0.6
+bg-topleft	#f0f0d0	0.5
+bg-bottomright	#d0d0f0	0.5
+bg-hover	#ffffff	0.4
+bg-pressed	#000000	0.8
+view		#101010	0.7
+view-hover	#080808	0.9
+text-selection	#ffffff	1
+text-bg		#e0e0e0	0.9
+text-view	#e0e0e0	1

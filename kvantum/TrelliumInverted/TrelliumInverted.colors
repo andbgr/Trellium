@@ -1,6 +1,6 @@
 [Colors:Button]
-BackgroundAlternate=8,8,8
-BackgroundNormal=8,8,8
+BackgroundAlternate=19,19,19
+BackgroundNormal=19,19,19
 DecorationFocus=68,68,187
 DecorationHover=68,68,187
 ForegroundActive=255,128,224
@@ -55,8 +55,8 @@ ForegroundPositive=0,110,40
 ForegroundVisited=85,26,139
 
 [Colors:Window]
-BackgroundAlternate=8,8,8
-BackgroundNormal=8,8,8
+BackgroundAlternate=19,19,19
+BackgroundNormal=19,19,19
 DecorationFocus=68,68,187
 DecorationHover=68,68,187
 ForegroundActive=255,128,224
@@ -72,9 +72,9 @@ ForegroundVisited=85,26,139
 Name=Trellium Inverted
 
 [WM]
-activeBackground=8,8,8
+activeBackground=19,19,19
 activeBlend=226,226,226
 activeForeground=226,226,226
-inactiveBackground=8,8,8
+inactiveBackground=19,19,19
 inactiveBlend=226,226,226
 inactiveForeground=226,226,226
