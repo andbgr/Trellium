@@ -31,25 +31,25 @@ layout_spacing=2
 layout_margin=2
 
 [GeneralColors]
-window.color=#131313ff
+window.color=#141414ff
 base.color=#00000099
 alt.base.color=#00000000
-button.color=#131313ff
-light.color=#7b7b7bff
-mid.light.color=#7b7b7bff
-mid.color=#7b7b7bff
-dark.color=#7b7b7bff
+button.color=#141414ff
+light.color=#e0e0e099
+mid.light.color=#e0e0e099
+mid.color=#e0e0e099
+dark.color=#e0e0e099
 highlight.color=#4444bbff
 inactive.highlight.color=#4444bb80
 tooltip.base.color=#00000099
-text.color=#e2e2e2
-window.text.color=#e2e2e2
-button.text.color=#e2e2e2
-disabled.text.color=#e2e2e280
-tooltip.text.color=#e2e2e2
-highlight.text.color=#e2e2e2
-progress.indicator.text.color=#e2e2e2
-progress.inactive.indicator.text.color=#e2e2e2
+text.color=#e0e0e0
+window.text.color=#e0e0e0
+button.text.color=#e0e0e0
+disabled.text.color=#e0e0e080
+tooltip.text.color=#e0e0e0
+highlight.text.color=#ffffff
+progress.indicator.text.color=#ffffff
+progress.inactive.indicator.text.color=#ffffff
 
 [Hacks]
 transparent_pcmanfm_sidepane=true
@@ -136,10 +136,10 @@ inherits=PanelButtonCommand
 
 [ToolboxTab]
 inherits=PanelButtonCommand
-text.normal.color=#e2e2e2
-text.focus.color=#e2e2e2
-text.press.color=#e2e2e2
-text.toggle.color=#e2e2e2
+text.normal.color=#e0e0e0
+text.focus.color=#e0e0e0
+text.press.color=#e0e0e0
+text.toggle.color=#e0e0e0
 
 [Tab]
 inherits=PanelButtonCommand
@@ -189,7 +189,7 @@ indicator.element=sizegrip
 
 [Toolbar]
 inherits=PanelButtonCommand
-text.normal.color=#e2e2e2
+text.normal.color=#e0e0e0
 frame.top=0
 frame.bottom=1
 frame.left=1
@@ -243,8 +243,8 @@ interior.element=progress-pattern
 inherits=PanelButtonCommand
 text.margin=0
 frame=false
-text.press.color=#e2e2e2
-text.toggle.color=#e2e2e2
+text.press.color=#ffffff
+text.toggle.color=#ffffff
 interior.element=itemview
 
 [Splitter]
@@ -298,8 +298,8 @@ frame.top=7
 frame.bottom=7
 frame.left=7
 frame.right=7
-text.normal.color=#e2e2e2
-text.focus.color=#e2e2e2
+text.normal.color=#e0e0e0
+text.focus.color=#e0e0e0
 focusFrame=false
 
 [ToolTip]

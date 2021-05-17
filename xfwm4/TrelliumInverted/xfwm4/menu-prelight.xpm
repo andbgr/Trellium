@@ -2,7 +2,7 @@
 static char *menu_prelight[] = {
 /* columns rows colors chars-per-pixel */
 "30 25 2 1 ",
-"  c #131313",
+"  c gray8",
 ". c None",
 /* pixels */
 "....                          ",

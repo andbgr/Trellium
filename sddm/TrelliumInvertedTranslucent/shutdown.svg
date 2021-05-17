@@ -86,13 +86,13 @@
     </g>
     <g
        id="g827"
-       style="fill:#e2e2e2;fill-opacity:0.9"
+       style="fill:#e0e0e0;fill-opacity:0.9"
        transform="translate(-22.5,-0.5)">
       <path
          id="path818"
          transform="translate(13,73)"
          d="M 31.5,1 A 5.5,5.5 0 0 0 26,6.5 5.5,5.5 0 0 0 31.5,12 5.5,5.5 0 0 0 37,6.5 5.5,5.5 0 0 0 31.5,1 Z m 0,1 A 4.5,4.5 0 0 1 36,6.5 4.5,4.5 0 0 1 31.5,11 4.5,4.5 0 0 1 27,6.5 4.5,4.5 0 0 1 31.5,2 Z"
-         style="opacity:1;vector-effect:none;fill:#e2e2e2;fill-opacity:0.9;stroke:none;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         style="opacity:1;vector-effect:none;fill:#e0e0e0;fill-opacity:0.9;stroke:none;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          inkscape:connector-curvature="0" />
       <rect
          y="76.5"
@@ -100,7 +100,7 @@
          height="6"
          width="1"
          id="rect823"
-         style="opacity:1;vector-effect:none;fill:#e2e2e2;fill-opacity:0.9;stroke:none;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
+         style="opacity:1;vector-effect:none;fill:#e0e0e0;fill-opacity:0.9;stroke:none;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
     </g>
   </g>
 </svg>

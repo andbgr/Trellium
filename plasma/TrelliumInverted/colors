@@ -1,6 +1,6 @@
 [Colors:Button]
-BackgroundAlternate=19,19,19
-BackgroundNormal=19,19,19
+BackgroundAlternate=20,20,20
+BackgroundNormal=20,20,20
 DecorationFocus=68,68,187
 DecorationHover=68,68,187
 ForegroundActive=255,128,224
@@ -8,7 +8,7 @@ ForegroundInactive=127,127,127
 ForegroundLink=0,0,238
 ForegroundNegative=191,3,3
 ForegroundNeutral=176,128,0
-ForegroundNormal=226,226,226
+ForegroundNormal=224,224,224
 ForegroundPositive=0,110,40
 ForegroundVisited=85,26,139
 
@@ -22,7 +22,7 @@ ForegroundInactive=162,162,221
 ForegroundLink=0,0,238
 ForegroundNegative=156,14,14
 ForegroundNeutral=255,221,0
-ForegroundNormal=226,226,226
+ForegroundNormal=255,255,255
 ForegroundPositive=128,255,128
 ForegroundVisited=85,26,139
 
@@ -36,7 +36,7 @@ ForegroundInactive=127,127,127
 ForegroundLink=0,0,238
 ForegroundNegative=191,3,3
 ForegroundNeutral=176,128,0
-ForegroundNormal=226,226,226
+ForegroundNormal=224,224,224
 ForegroundPositive=0,110,40
 ForegroundVisited=85,26,139
 
@@ -50,13 +50,13 @@ ForegroundInactive=127,127,127
 ForegroundLink=0,0,238
 ForegroundNegative=191,3,3
 ForegroundNeutral=176,128,0
-ForegroundNormal=226,226,226
+ForegroundNormal=224,224,224
 ForegroundPositive=0,110,40
 ForegroundVisited=85,26,139
 
 [Colors:Window]
-BackgroundAlternate=19,19,19
-BackgroundNormal=19,19,19
+BackgroundAlternate=20,20,20
+BackgroundNormal=20,20,20
 DecorationFocus=68,68,187
 DecorationHover=68,68,187
 ForegroundActive=255,128,224
@@ -64,7 +64,7 @@ ForegroundInactive=127,127,127
 ForegroundLink=0,0,238
 ForegroundNegative=191,3,3
 ForegroundNeutral=176,128,0
-ForegroundNormal=226,226,226
+ForegroundNormal=224,224,224
 ForegroundPositive=0,110,40
 ForegroundVisited=85,26,139
 
@@ -72,9 +72,9 @@ ForegroundVisited=85,26,139
 Name=Trellium Inverted
 
 [WM]
-activeBackground=19,19,19
-activeBlend=226,226,226
-activeForeground=226,226,226
-inactiveBackground=19,19,19
-inactiveBlend=226,226,226
-inactiveForeground=226,226,226
+activeBackground=20,20,20
+activeBlend=224,224,224
+activeForeground=224,224,224
+inactiveBackground=20,20,20
+inactiveBlend=224,224,224
+inactiveForeground=224,224,224
