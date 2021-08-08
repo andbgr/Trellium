@@ -289,7 +289,7 @@ indicator.element=mdi
 
 [ComboBox]
 inherits=PanelButtonCommand
-indicator.size=12
+indicator.size=14
 indicator.element=combo-indicator
 
 [GroupBox]
