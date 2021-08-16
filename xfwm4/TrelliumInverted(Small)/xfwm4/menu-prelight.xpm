@@ -1,0 +1,29 @@
+/* XPM */
+static char *menu_prelight[] = {
+/* columns rows colors chars-per-pixel */
+"24 21 2 1 ",
+"  c gray8",
+". c None",
+/* pixels */
+"....                    ",
+"....                    ",
+"....                    ",
+"....                    ",
+"                        ",
+"                        ",
+"                        ",
+"                        ",
+"                        ",
+"                        ",
+"                        ",
+"                        ",
+"                        ",
+"                        ",
+"                        ",
+"                        ",
+"                        ",
+"                        ",
+"                        ",
+"                        ",
+"                        "
+};

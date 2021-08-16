@@ -2,16 +2,16 @@
 static char *bottom_right_active[] = {
 /* columns rows colors chars-per-pixel */
 "6 6 16 1 ",
-"  c #070707",
-". c #0E0E0E",
-"X c gray6",
-"o c #111111",
+"  c #090909",
+". c #101010",
+"X c #111111",
+"o c #131313",
 "O c #343434",
-"+ c gray44",
+"+ c gray46",
 "@ c #7B7B7B",
-"# c gray51",
-"$ c #838383",
-"% c #848484",
+"# c #818181",
+"$ c gray51",
+"% c #838383",
 "& c gray54",
 "* c #8B8B8B",
 "= c gray55",
@@ -20,9 +20,9 @@ static char *bottom_right_active[] = {
 ": c None",
 /* pixels */
 "   X&-",
-"   O*$",
-"  o@;+",
-".O@=%:",
-"&*;%::",
-";#+:::"
+"   O-$",
+"  X@-+",
+"XO@-%:",
+"&&-%::",
+"-$+:::"
 };

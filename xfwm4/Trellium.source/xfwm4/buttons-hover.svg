@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,7 +12,7 @@
    height="66"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="buttons-hover.svg">
   <sodipodi:namedview
      id="base"
@@ -24,13 +22,13 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="115.10608"
-     inkscape:cy="47.151401"
+     inkscape:cx="116.2073"
+     inkscape:cy="34.414236"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1876"
+     inkscape:window-width="1878"
      inkscape:window-height="1054"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -40,7 +38,8 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:snap-bbox="false"
-     inkscape:bbox-nodes="true">
+     inkscape:bbox-nodes="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        spacingy="1"
        spacingx="1"
@@ -2060,158 +2059,164 @@
       </g>
     </g>
     <g
-       id="hover-center-51"
-       transform="matrix(1.1666667,0,0,1.1666667,96.833333,-1.8333337)">
+       id="hover-center"
+       transform="translate(34.5,1)">
       <rect
-         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.30199909;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-         id="decoration-center-3-0"
-         width="18"
-         height="12"
-         x="13"
-         y="11" />
-      <rect
-         y="11"
-         x="13"
-         height="12"
-         width="18"
-         id="rect4662-8"
-         style="opacity:1;vector-effect:none;fill:#909090;fill-opacity:1;stroke:none;stroke-width:2.30199909;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
-      <g
-         id="use10014">
-        <path
-           inkscape:connector-curvature="0"
-           id="path12512"
-           d="m 22,16 5.5,5.5 -1,1 -4.5,-4.5 -4.5,4.5 -1,-1 z"
-           style="fill:#101010;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           sodipodi:nodetypes="ccccccc" />
-        <rect
-           style="opacity:1;vector-effect:none;fill:#101010;fill-opacity:1;stroke:none;stroke-width:1.07354546px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-           id="rect12514"
-           width="11"
-           height="1.5"
-           x="16.5"
-           y="12" />
-      </g>
-    </g>
-    <g
-       id="hover-center-8"
-       transform="matrix(1.1666667,0,0,1.1666667,158.83333,-1.8333337)">
-      <rect
-         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.30199909;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-         id="decoration-center-3-1"
-         width="18"
-         height="12"
-         x="13"
-         y="11" />
-      <rect
-         y="11"
-         x="13"
-         height="12"
-         width="18"
-         id="rect4662-99"
-         style="opacity:1;vector-effect:none;fill:#909090;fill-opacity:1;stroke:none;stroke-width:2.30199909;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
-      <path
-         sodipodi:nodetypes="cccccccccc"
-         inkscape:connector-curvature="0"
-         id="use9985"
-         d="m 22,11 -6,6 6,6 6,-6 z m 0,2 4,4 -4,4 -4,-4 z"
-         style="fill:#101010;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-    <g
-       id="hover-center-5"
-       transform="matrix(1.1666667,0,0,-1.1666667,65.833333,36.666667)">
-      <rect
-         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.30199909;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-         id="decoration-center-3-4"
-         width="18"
-         height="12"
-         x="13"
+         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.68567;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         id="decoration-center-3"
+         width="21"
+         height="14"
+         x="11.5"
          y="10" />
       <rect
          y="10"
-         x="13"
-         height="12"
-         width="18"
-         id="rect4662-92"
-         style="opacity:1;vector-effect:none;fill:#909090;fill-opacity:1;stroke:none;stroke-width:2.30199909;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
+         x="11.5"
+         height="14"
+         width="21"
+         id="rect4662"
+         style="opacity:1;vector-effect:none;fill:#909090;fill-opacity:1;stroke:none;stroke-width:2.68567;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
       <path
-         sodipodi:nodetypes="ccccccc"
-         style="fill:#101010;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 22,12.5 5.5,5.5 -1,1 -4.5,-4.5 -4.5,4.5 -1,-1 z"
-         id="use9921-5"
-         inkscape:connector-curvature="0" />
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="use9752"
+         d="m 20,17 2,2 2,-2 -2,-2 z"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <g
-       id="hover-center-1"
-       transform="matrix(1.1666667,0,0,1.1666667,127.83333,-1.8333337)">
+       id="hover-center-7"
+       transform="matrix(1,0,0,-1,69.5,34)">
       <rect
-         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.30199909;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-         id="decoration-center-3-8"
-         width="18"
-         height="12"
-         x="13"
-         y="11" />
+         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.68567;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         id="decoration-center-3-9"
+         width="21"
+         height="14"
+         x="11.5"
+         y="9" />
       <rect
-         y="11"
-         x="13"
-         height="12"
-         width="18"
-         id="rect4662-9"
-         style="opacity:1;vector-effect:none;fill:#909090;fill-opacity:1;stroke:none;stroke-width:2.30199909;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
+         y="9"
+         x="11.5"
+         height="14"
+         width="21"
+         id="rect4662-2"
+         style="opacity:1;vector-effect:none;fill:#909090;fill-opacity:1;stroke:none;stroke-width:2.68567;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
       <path
-         sodipodi:nodetypes="ccccccc"
-         style="fill:#101010;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 22,13.5 5.5,5.5 -1,1 -4.5,-4.5 -4.5,4.5 -1,-1 z"
+         inkscape:connector-curvature="0"
          id="use9921"
-         inkscape:connector-curvature="0" />
+         d="m 22,12.5 5.5,5.5 -1,1 -4.5,-4.5 -4.5,4.5 -1,-1 z"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccccc" />
     </g>
     <g
        id="hover-center-0"
-       transform="matrix(1.1666667,0,0,1.1666667,189.83333,-1.8333337)">
+       transform="translate(100.5,1)">
       <rect
-         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.30199909;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-         id="decoration-center-3-3"
-         width="18"
-         height="12"
-         x="13"
-         y="11" />
+         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.68567;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         id="decoration-center-3-2"
+         width="21"
+         height="14"
+         x="11.5"
+         y="10" />
       <rect
-         y="11"
-         x="13"
-         height="12"
-         width="18"
-         id="rect4662-6"
-         style="opacity:1;vector-effect:none;fill:#909090;fill-opacity:1;stroke:none;stroke-width:2.30199909;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
-      <path
-         style="fill:#101010;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 16.5,12.5 1,-1 4.5,4.5 4.5,-4.5 1,1 -4.5,4.5 4.5,4.5 -1,1 -4.5,-4.5 -4.5,4.5 -1,-1 L 21,17 Z"
-         id="use9810"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccccccccc" />
+         y="10"
+         x="11.5"
+         height="14"
+         width="21"
+         id="rect4662-3"
+         style="opacity:1;vector-effect:none;fill:#909090;fill-opacity:1;stroke:none;stroke-width:2.68567;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
+      <g
+         id="use10014">
+        <path
+           sodipodi:nodetypes="ccccccc"
+           style="fill:#101010;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 22,16 5.5,5.5 -1,1 -4.5,-4.5 -4.5,4.5 -1,-1 z"
+           id="path5671"
+           inkscape:connector-curvature="0" />
+        <rect
+           y="12"
+           x="16.5"
+           height="1.5"
+           width="11"
+           id="rect5673"
+           style="opacity:1;vector-effect:none;fill:#101010;fill-opacity:1;stroke:none;stroke-width:1.07355px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
+      </g>
     </g>
     <g
-       id="hover-center"
-       transform="matrix(1.1666667,0,0,1.1666667,30.833333,-1.8333337)">
+       id="hover-center-75"
+       transform="translate(131.5,1)">
       <rect
-         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.30199909;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-         id="decoration-center-3"
-         width="18"
-         height="12"
-         x="13"
-         y="11" />
+         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.68567;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         id="decoration-center-3-92"
+         width="21"
+         height="14"
+         x="11.5"
+         y="10" />
       <rect
-         y="11"
-         x="13"
-         height="12"
-         width="18"
-         id="rect4662"
-         style="opacity:1;vector-effect:none;fill:#909090;fill-opacity:1;stroke:none;stroke-width:2.30199909;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
+         y="10"
+         x="11.5"
+         height="14"
+         width="21"
+         id="rect4662-28"
+         style="opacity:1;vector-effect:none;fill:#909090;fill-opacity:1;stroke:none;stroke-width:2.68567;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="use9921-9"
+         d="m 22,13.5 5.5,5.5 -1,1 -4.5,-4.5 -4.5,4.5 -1,-1 z"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       id="g4892"
+       transform="translate(-11.5,-40)" />
+    <g
+       id="g4892-7"
+       transform="translate(-11.5,-40)" />
+    <g
+       id="hover-center-4"
+       transform="translate(162.5,1)">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.68567;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         id="decoration-center-3-5"
+         width="21"
+         height="14"
+         x="11.5"
+         y="10" />
+      <rect
+         y="10"
+         x="11.5"
+         height="14"
+         width="21"
+         id="rect4662-0"
+         style="opacity:1;vector-effect:none;fill:#909090;fill-opacity:1;stroke:none;stroke-width:2.68567;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
       <path
          style="fill:#101010;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 20,17 2,2 2,-2 -2,-2 z"
-         id="use9752"
+         d="m 22,11 -6,6 6,6 6,-6 z m 0,2 4,4 -4,4 -4,-4 z"
+         id="use9985-3"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
+         sodipodi:nodetypes="cccccccccc" />
+    </g>
+    <g
+       id="hover-center-1"
+       transform="translate(193.5,1)">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:2.68567;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         id="decoration-center-3-0"
+         width="21"
+         height="14"
+         x="11.5"
+         y="10" />
+      <rect
+         y="10"
+         x="11.5"
+         height="14"
+         width="21"
+         id="rect4662-6"
+         style="opacity:1;vector-effect:none;fill:#909090;fill-opacity:1;stroke:none;stroke-width:2.68567;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
+      <path
+         sodipodi:nodetypes="ccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="use9810"
+         d="m 16.5,12.5 1,-1 4.5,4.5 4.5,-4.5 1,1 -4.5,4.5 4.5,4.5 -1,1 -4.5,-4.5 -4.5,4.5 -1,-1 L 21,17 Z"
+         style="fill:#101010;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
   </g>
 </svg>

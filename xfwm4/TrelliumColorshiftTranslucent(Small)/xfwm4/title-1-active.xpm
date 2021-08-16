@@ -1,0 +1,34 @@
+/* XPM */
+static char *title_1_active[] = {
+/* columns rows colors chars-per-pixel */
+"1 24 4 1 ",
+"  c gray38",
+". c gray40",
+"X c #DAFAFA",
+"o c gray96",
+/* pixels */
+" ",
+".",
+"X",
+"o",
+"o",
+"o",
+"o",
+"o",
+"o",
+"o",
+"o",
+"o",
+"o",
+"o",
+"o",
+"o",
+"o",
+"o",
+"o",
+"o",
+"o",
+"o",
+"o",
+"o"
+};
