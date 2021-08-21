@@ -29,11 +29,13 @@ while read key val alpha; do
 done < "colors.$colorscheme"
 
 for file in *.svg main.qml; do
-	sed -i '/#ff00ff/s/fill-opacity:1/fill-opacity:0/' $file
+	sed -i '/fill:#ff00ff/s/\(fill-opacity:[0-9.]*;\|;fill-opacity:[0-9.]*\)//' $file
+	sed -i '/fill:#ff00ff/s/fill:#ff00ff/fill:#ff00ff;fill-opacity:0/'          $file
 	
 	for i in ${!colors_source[@]}; do
-		sed -i "/${colors_source[$i]}/s/fill-opacity:1/fill-opacity:${alpha[$i]}/g" $file
-		sed -i "/${colors_source[$i]}/s/stop-opacity:1/stop-opacity:${alpha[$i]}/g" $file
+		sed -i "/fill:${colors_source[$i]}/s/\(fill-opacity:[0-9.]*;\|;fill-opacity:[0-9.]*\)//"                             $file
+		sed -i "/fill:${colors_source[$i]}/s/fill:${colors_source[$i]}/fill:${colors_source[$i]};fill-opacity:${alpha[$i]}/" $file
+		sed -i "/stop-color:${colors_source[$i]}/s/stop-opacity:1/stop-opacity:${alpha[$i]}/"                                $file
 	done
 	
 	for i in ${!colors_source[@]}; do
