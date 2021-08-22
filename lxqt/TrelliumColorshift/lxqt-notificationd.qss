@@ -1,5 +1,5 @@
 Notification {
-	color: #101010;
+	color: #0c0c0c;
 	margin: 0px;
 	border: 6px;
 	border-image: url(background-rounded.svg) 6 6 6 6 stretch stretch;
@@ -8,5 +8,5 @@ Notification {
 
 
 Notification QLabel {
-        color: #101010;
+        color: #0c0c0c;
 }

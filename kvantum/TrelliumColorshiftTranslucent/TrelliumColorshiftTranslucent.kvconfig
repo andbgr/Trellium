@@ -35,18 +35,18 @@ window.color=#f7f7f7db
 base.color=#fbfbfbb3
 alt.base.color=#fbfbfb00
 button.color=#f7f7f7db
-light.color=#1010109f
-mid.light.color=#1010109f
-mid.color=#1010109f
-dark.color=#1010109f
+light.color=#181818a6
+mid.light.color=#181818a6
+mid.color=#181818a6
+dark.color=#181818a6
 highlight.color=#4444bbff
 inactive.highlight.color=#4444bb80
 tooltip.base.color=#fbfbfbb3
-text.color=#101010
-window.text.color=#101010
-button.text.color=#101010
-disabled.text.color=#10101080
-tooltip.text.color=#101010
+text.color=#0c0c0c
+window.text.color=#0c0c0c
+button.text.color=#0c0c0c
+disabled.text.color=#0c0c0c80
+tooltip.text.color=#0c0c0c
 highlight.text.color=#ffffff
 progress.indicator.text.color=#ffffff
 progress.inactive.indicator.text.color=#ffffff
@@ -136,10 +136,10 @@ inherits=PanelButtonCommand
 
 [ToolboxTab]
 inherits=PanelButtonCommand
-text.normal.color=#101010
-text.focus.color=#101010
-text.press.color=#101010
-text.toggle.color=#101010
+text.normal.color=#0c0c0c
+text.focus.color=#0c0c0c
+text.press.color=#0c0c0c
+text.toggle.color=#0c0c0c
 
 [Tab]
 inherits=PanelButtonCommand
@@ -189,7 +189,7 @@ indicator.element=sizegrip
 
 [Toolbar]
 inherits=PanelButtonCommand
-text.normal.color=#101010
+text.normal.color=#0c0c0c
 frame.top=0
 frame.bottom=1
 frame.left=1
@@ -298,8 +298,8 @@ frame.top=7
 frame.bottom=7
 frame.left=7
 frame.right=7
-text.normal.color=#101010
-text.focus.color=#101010
+text.normal.color=#0c0c0c
+text.focus.color=#0c0c0c
 focusFrame=false
 
 [ToolTip]

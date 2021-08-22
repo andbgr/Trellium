@@ -2,8 +2,8 @@
 static char *left_active[] = {
 /* columns rows colors chars-per-pixel */
 "3 1 2 1 ",
-"  c gray5",
-". c #888878",
+"  c gray3",
+". c #848474",
 /* pixels */
 "  ."
 };

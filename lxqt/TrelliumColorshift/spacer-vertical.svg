@@ -83,7 +83,7 @@
        transform="translate(0,-17)"
        id="west-normal-bottom">
       <rect
-         style="opacity:1;vector-effect:none;fill:#101010;fill-opacity:0.625;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         style="opacity:1;vector-effect:none;fill:#181818;fill-opacity:0.65;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          id="rect4817-3-7-1"
          width="5"
          height="2"
@@ -108,7 +108,7 @@
        transform="matrix(-0.8,0,0,1,21.6,-17)"
        id="west-normal-bottomright">
       <rect
-         style="opacity:1;vector-effect:none;fill:#101010;fill-opacity:0.625;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         style="opacity:1;vector-effect:none;fill:#181818;fill-opacity:0.65;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          id="rect4817-3-7-7-8"
          width="5"
          height="2"
@@ -133,7 +133,7 @@
        transform="matrix(0.8,0,0,1,-2.6,-17)"
        id="east-normal-bottomleft">
       <rect
-         style="opacity:1;vector-effect:none;fill:#101010;fill-opacity:0.625;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         style="opacity:1;vector-effect:none;fill:#181818;fill-opacity:0.65;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          id="rect4817-3-7-7"
          width="5"
          height="2"

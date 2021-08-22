@@ -1,6 +1,6 @@
 [General]
-ActiveTextColor=16,16,16
-InactiveTextColor=16,16,16
+ActiveTextColor=12,12,12
+InactiveTextColor=12,12,12
 TitleAlignment=Center
 LeftButtons=I
 RightButtons=X
