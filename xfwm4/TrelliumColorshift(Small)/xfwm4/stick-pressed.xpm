@@ -2,7 +2,7 @@
 static char *stick_pressed[] = {
 /* columns rows colors chars-per-pixel */
 "29 24 44 1 ",
-"  c gray5",
+"  c #111111",
 ". c gray30",
 "X c #495252",
 "o c gray32",
@@ -12,8 +12,8 @@ static char *stick_pressed[] = {
 "# c #5D5D5D",
 "$ c #586363",
 "% c #666767",
-"& c #6A6A6A",
-"* c gray44",
+"& c #6C6C6C",
+"* c #717171",
 "= c #7F8080",
 "- c #7C8282",
 "; c #868282",
@@ -21,7 +21,7 @@ static char *stick_pressed[] = {
 "> c #828989",
 ", c gray57",
 "< c #939393",
-"1 c gray58",
+"1 c #959595",
 "2 c gray68",
 "3 c #AEAEAE",
 "4 c gray70",
