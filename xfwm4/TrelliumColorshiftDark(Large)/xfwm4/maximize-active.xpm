@@ -4,7 +4,7 @@ static char *maximize_active[] = {
 "37 32 16 1 ",
 "  c gray3",
 ". c #181818",
-"X c #2E2E28",
+"X c #2B2B26",
 "o c gray21",
 "O c gray22",
 "+ c #494949",

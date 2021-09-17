@@ -4,7 +4,7 @@ static char *bottom_active[] = {
 "1 6 3 1 ",
 "  c black",
 ". c #181818",
-"X c #3A3A3A",
+"X c #3E3E3E",
 /* pixels */
 ".",
 ".",
