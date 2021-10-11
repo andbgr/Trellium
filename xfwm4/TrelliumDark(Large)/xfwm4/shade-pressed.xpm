@@ -11,7 +11,7 @@ static char *shade_pressed[] = {
 "@ c gray25",
 "# c #464646",
 "$ c gray38",
-"% c #646464",
+"% c DimGray",
 "& c gray44",
 "* c gray47",
 "= c #808080",

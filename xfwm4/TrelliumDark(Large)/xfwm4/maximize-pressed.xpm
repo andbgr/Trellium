@@ -8,7 +8,7 @@ static char *maximize_pressed[] = {
 "o c gray15",
 "O c #373737",
 "+ c gray28",
-"@ c #646464",
+"@ c DimGray",
 "# c gray44",
 "$ c #777777",
 "% c #7E7E7E",

@@ -80,7 +80,7 @@
      inkscape:label="Warstwa 1"
      inkscape:groupmode="layer">
     <rect
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.6;stroke:none;stroke-width:0.70484042;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.5;stroke:none;stroke-width:0.70484042;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        id="rect841"
        width="9"
        height="9"
@@ -88,7 +88,7 @@
        y="5"
        transform="rotate(-90)" />
     <rect
-       style="opacity:1;vector-effect:none;fill:#181818;fill-opacity:0.67;stroke:none;stroke-width:0.52535701;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       style="opacity:1;vector-effect:none;fill:#181818;fill-opacity:0.65;stroke:none;stroke-width:0.52535701;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        id="rect853"
        width="9"
        height="1"
@@ -96,7 +96,7 @@
        y="5"
        transform="rotate(-90)" />
     <rect
-       style="opacity:1;vector-effect:none;fill:#181818;fill-opacity:0.67;stroke:none;stroke-width:0.52535701;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+       style="opacity:1;vector-effect:none;fill:#181818;fill-opacity:0.65;stroke:none;stroke-width:0.52535701;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
        id="rect901"
        width="9"
        height="1"

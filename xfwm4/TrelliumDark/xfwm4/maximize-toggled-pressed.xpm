@@ -7,7 +7,7 @@ static char *maximize_toggled_pressed[] = {
 "X c gray10",
 "o c #1E1E1E",
 "O c #373737",
-"+ c #646464",
+"+ c DimGray",
 "@ c #A9A9A9",
 "# c gray76",
 "$ c #C6C6C6",

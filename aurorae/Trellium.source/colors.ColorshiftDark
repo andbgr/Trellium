@@ -1,7 +1,7 @@
 selection	#4444bb	1
 focus		#bbbb44	1
 bg		#181818	1
-bg-border	#000000	0.67
+bg-border	#000000	0.65
 bg-topleft	#f0f0d0	0.5
 bg-bottomright	#d0d0f0	0.5
 bg-hover	#ffffff	0.4
